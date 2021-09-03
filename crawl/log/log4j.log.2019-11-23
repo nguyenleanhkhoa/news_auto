@@ -1,0 +1,1271 @@
+2019-11-23 03:07:13,985 DEBUG [main] - crawl.Main.main 634 - Token was attached !
+2019-11-23 03:07:22,269 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vnexpress.net
+2019-11-23 03:08:02,332 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bộ Giáo dục và Đào tạo sẽ đối thoại với GS Hồ Ngọc Đại
+2019-11-23 03:08:02,655 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Biên phòng cứu 3 người gặp nạn trên biển
+2019-11-23 03:08:02,704 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quy định nhiều trường hợp tạm hoãn xuất cảnh
+2019-11-23 03:08:02,757 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hôm nay Quốc hội miễn nhiệm Bộ trưởng Y tế
+2019-11-23 03:08:02,842 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hà Nội thuê tư vấn định giá nước sạch
+2019-11-23 03:08:02,889 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : CSGT khuyến cáo rủi ro khi đi giày cao gót lái xe
+2019-11-23 03:08:02,935 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Du khách Canada mất tích ở rừng Sơn Trà
+2019-11-23 03:08:02,981 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bộ trưởng có quyền cho cán bộ từ chức
+2019-11-23 03:08:03,032 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : TP HCM thí điểm kiểm tra khí thải xe máy
+2019-11-23 03:08:03,087 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bà Nguyễn Thị Kim Tiến thôi giữ chức Bộ trưởng Y tế
+2019-11-23 03:08:03,137 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Khiếu kiện về đất nhiều vì giá chênh quá lớn
+2019-11-23 03:08:03,184 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phường ở TP HCM lún 81 cm trong 10 năm
+2019-11-23 03:08:03,228 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cấm một loạt đường ở trung tâm Sài Gòn
+2019-11-23 03:08:23,966 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vì sao ăn con rươi bị ngứa?
+2019-11-23 03:08:24,037 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thủ tướng Israel lâm nguy
+2019-11-23 03:08:24,221 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tuyệt vọng giữa 'thành phố mại dâm'
+2019-11-23 03:08:24,284 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tài xế hợp lực 'cướp' thi thể bé sơ sinh
+2019-11-23 03:08:24,337 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mạng lưới điểm Xanh - 'gươm' Mỹ đấu với Trung Quốc
+2019-11-23 03:08:24,394 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hoa khôi Nga trải lòng về cuộc sống mẹ đơn thân
+2019-11-23 03:08:24,448 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Máy bay chở khách trượt khỏi đường băng
+2019-11-23 03:08:24,512 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mỹ đau đầu với bán đảo Triều Tiên
+2019-11-23 03:08:24,567 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hàn Quốc lập đường dây nóng cho cô dâu ngoại
+2019-11-23 03:08:24,623 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hơn 30 phụ nữ bị chôn trong mộ tập thể
+2019-11-23 03:08:24,676 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tập Cận Bình: 'Không sợ' đáp trả thương mại Mỹ
+2019-11-23 03:08:24,730 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tỷ phú Bloomberg đăng ký tranh cử tổng thống Mỹ
+2019-11-23 03:08:24,786 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Con trai tỷ phú Trung Quốc bị tịch thu tài sản
+2019-11-23 03:08:24,838 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ba gia đình tự tử tập thể trong 20 ngày
+2019-11-23 03:08:24,888 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tên lửa phóng từ tàu ngầm Trung Quốc đủ sức đe dọa Mỹ
+2019-11-23 03:08:24,942 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tuvalu không cho Trung Quốc xây đảo nhân tạo
+2019-11-23 03:08:24,998 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hơn 100 quan chức Nhật nhận hối lộ
+2019-11-23 03:08:25,059 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Người chuyển giới Indonesia bị hạn chế xin việc
+2019-11-23 03:08:25,129 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mỹ cảnh báo đầu tư của Trung Quốc ở Pakistan
+2019-11-23 03:08:25,196 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đội lính cứu hỏa tuổi 70 chiến đấu với cháy rừng
+2019-11-23 03:08:25,252 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Monsanto thừa nhận dùng thuốc trừ sâu bị cấm
+2019-11-23 03:08:25,303 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Triều Tiên nói Mỹ 'phản bội'
+2019-11-23 03:08:25,360 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hàn Quốc cứu hiệp ước tình báo với Nhật vào phút chót
+2019-11-23 03:08:25,419 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Dự luật Hong Kong của Mỹ gây ảnh hưởng gì?
+2019-11-23 03:08:25,472 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Anh bắt thêm nghi phạm vụ 39 thi thể người Việt
+2019-11-23 03:08:25,534 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Putin truy tặng 5 chuyên gia trong vụ nổ căn cứ quân sự
+2019-11-23 03:08:25,592 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hoa hậu 22 tuổi trở thành nghị sĩ
+2019-11-23 03:08:25,642 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tây Ban Nha đề nghị xét xử chú của Tổng thống Assad
+2019-11-23 03:08:25,698 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trump nói thỏa thuận thương mại với Trung Quốc rất gần
+2019-11-23 03:08:39,047 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : McDonald’s vào top 100 sản phẩm, dịch vụ tin và dùng
+2019-11-23 03:08:39,111 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nhà sáng chế nước hoa David Chieze đến Việt Nam
+2019-11-23 03:08:39,173 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Toyota Việt Nam nuôi dưỡng tài năng âm nhạc
+2019-11-23 03:08:39,225 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lợi ích của cao linh chi đối với sức khỏe và sắc đẹp
+2019-11-23 03:08:39,351 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Khối ngoại tiếp tục bán ròng
+2019-11-23 03:08:39,421 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cơ hội cho bất động sản Mỹ Đình bứt tốc cuối năm
+2019-11-23 03:08:39,522 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vincom tặng xe Vinfast cho khách dịp sinh nhật 15 năm
+2019-11-23 03:08:39,815 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 'Bancassurance không thể đứng ngoài cuộc đua công nghệ số'
+2019-11-23 03:08:39,959 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 'Có thể chọn visa E-2 để đầu tư định cư Mỹ'
+2019-11-23 03:08:40,008 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : FWD và Vietcombank hợp tác phân phối bảo hiểm qua ngân hàng
+2019-11-23 03:08:40,064 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Becamex sắp chuyển niêm yết trên sàn HoSE
+2019-11-23 03:08:40,132 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 5 cách 'tích tiểu thành đại' cho túi tiền
+2019-11-23 03:08:40,194 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Từ đầu năm 2020, siết vốn ngắn hạn cho vay bất động sản
+2019-11-23 03:08:40,239 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : VN-Index giảm tiếp hơn 10 điểm
+2019-11-23 03:08:40,287 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chuỗi bách hoá của Thế Giới Di Động thu hơn 8.200 tỷ đồng
+2019-11-23 03:08:40,332 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Savills: Việt Nam nên bỏ khung giá đất
+2019-11-23 03:08:40,378 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vinamilk tiếp quản Nông trường Sông Hậu
+2019-11-23 03:08:40,423 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vĩnh Sơn Sông Hinh thoát án bồi thường 2.100 tỷ
+2019-11-23 03:08:40,470 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nhà giàu Hong Kong tính lối thoát cho khối tài sản
+2019-11-23 03:08:40,520 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sẽ đấu thầu điện mặt trời
+2019-11-23 03:08:54,395 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ra mắt sách 'Câu chuyện cải lương: thật và đẹp'
+2019-11-23 03:08:54,449 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hương nước hoa cho nam giới
+2019-11-23 03:08:54,496 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thí sinh Hoa hậu Hoàn vũ Việt Nam chụp hình tại Citigym
+2019-11-23 03:08:54,563 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 'Bông hồng lai' 16 tuổi hóa Marilyn Monroe
+2019-11-23 03:08:54,637 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Victoria's Secret hủy show nội y
+2019-11-23 03:08:54,713 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tình cũ sinh con cho Chris Brown
+2019-11-23 03:08:54,766 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trang phục dân tộc của Ngọc Châu tại Miss Supranational
+2019-11-23 03:08:54,819 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mai Thu Huyền làm phim về nàng Kiều
+2019-11-23 03:08:54,897 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 'Thiếu gia giải trí' Trung Quốc bị niêm phong tài sản
+2019-11-23 03:08:54,951 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Dàn hoa hậu Philippines làm 'nàng thơ' SEA Games 2019
+2019-11-23 03:08:55,005 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Truyện tranh Marvel được bán giá triệu đô
+2019-11-23 03:08:55,059 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hoàng Oanh sẽ sống xa chồng sau cưới
+2019-11-23 03:09:08,933 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Startup công nghệ trao thưởng cho cầu thủ Tiến Linh
+2019-11-23 03:09:09,043 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vietnam Golf Awards sẽ lần đầu được trao năm 2019
+2019-11-23 03:09:09,112 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Kim Sei Young dẫn đầu CME Group Tour Championship
+2019-11-23 03:09:09,162 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Simpson độc chiếm đỉnh bảng RSM Classic
+2019-11-23 03:09:09,285 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tuyển Bỉ bị phạt vì cầu thủ mặc nhầm áo đấu
+2019-11-23 03:09:09,339 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Maradona được tái bổ nhiệm sau hai ngày từ chức HLV
+2019-11-23 03:09:09,481 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Việt Nam chưa từng thắng Thái Lan ở SEA Games
+2019-11-23 03:09:09,527 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Messi thành công thế nào qua các đời HLV ở Barca
+2019-11-23 03:09:09,592 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thanh Hóa bổ nhiệm HLV người Italy
+2019-11-23 03:09:09,638 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Võ Huy Toàn đầu quân TP HCM
+2019-11-23 03:09:09,683 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đồng nghiệp tức giận vì Mourinho lấy hai trợ lý
+2019-11-23 03:09:09,730 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thái Lan lo HLV Nishino thiếu thời gian cho SEA Games
+2019-11-23 03:09:09,777 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trung vệ Thái Lan chấn thương nặng trước SEA Games
+2019-11-23 03:09:22,728 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Điều dưỡng bị điều tra ăn bớt thuốc của bệnh nhi
+2019-11-23 03:09:22,779 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đóng giả phi công để được lên máy bay sớm
+2019-11-23 03:09:22,828 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ba cựu cán bộ ngân hàng bị truy tố
+2019-11-23 03:09:22,899 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lãnh án vì đánh chết con mèo
+2019-11-23 03:09:22,944 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đâm chết hàng xóm vì bị tát
+2019-11-23 03:09:22,994 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hai thanh niên 11 lần giật dây chuyền vàng
+2019-11-23 03:09:23,039 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sát hại bố mẹ vợ
+2019-11-23 03:09:23,086 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cậu bé 15 tuổi cướp xe ôm trong đêm
+2019-11-23 03:09:23,132 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Công an điều tra nguyên nhân tử vong nghi do thuốc gây tê
+2019-11-23 03:09:23,184 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nghi can đâm gục nam sinh bị bắt
+2019-11-23 03:09:23,232 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đại gia Sáu Phấn bị tuyên 20 năm tù
+2019-11-23 03:09:23,284 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sát hại bạn gái vì không chịu bỏ nghề massage
+2019-11-23 03:09:23,329 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xe container chở rượu ngoại không rõ nguồn gốc
+2019-11-23 03:09:37,305 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vingroup cấp học bổng cho tài năng ĐH Công nghệ Nanyang
+2019-11-23 03:09:37,379 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trường học tuyển sinh dựa vào mã xổ số
+2019-11-23 03:09:37,425 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đề xuất kiểm soát quỹ phụ huynh để hạn chế tiêu cực
+2019-11-23 03:09:37,472 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Du học sinh tìm việc làm thêm ở Australia thế nào?
+2019-11-23 03:09:37,537 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 10 dấu hiệu của đứa trẻ hư
+2019-11-23 03:09:51,216 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cắt nguồn nuôi tế bào ung thư tụy
+2019-11-23 03:09:51,303 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bài tập giảm mỡ bụng
+2019-11-23 03:09:51,349 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Người đàn ông tạo ứng dụng tập gym cho người ung thư
+2019-11-23 03:09:51,412 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Để thêm những nụ cười
+2019-11-23 03:09:51,479 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Người Ai Cập cổ đại vệ sinh cơ thể thế nào?
+2019-11-23 03:09:51,706 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phụ nữ nên tầm soát ung thư vú sớm
+2019-11-23 03:09:51,751 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 15 năm theo đuổi thuốc gói ‘vị cam’ của Dược Hậu Giang
+2019-11-23 03:09:51,802 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cách giúp gương mặt tươi tắn không cần trang điểm nhiều
+2019-11-23 03:09:51,879 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bé trai bị bỏng nặng do nước sôi
+2019-11-23 03:09:52,080 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bác sĩ làm rách da đầu em bé khi mổ sinh
+2019-11-23 03:09:52,126 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bác sĩ Việt cứu trái tim em bé Lào
+2019-11-23 03:10:05,674 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mua vali giá ưu đãi dịp Black Friday
+2019-11-23 03:10:06,094 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những sai lầm dễ mắc ở tuổi trung niên
+2019-11-23 03:10:06,141 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Kệ tivi đa năng cho không gian nhỏ
+2019-11-23 03:10:06,187 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phụ nữ chia sẻ về chuyện bếp núc
+2019-11-23 03:10:06,232 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hàng nghìn ôtô thể thao đưa tiễn cậu bé ung thư
+2019-11-23 03:10:06,281 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bà cụ 70 tuổi sống sót sau 8 ngày mắc kẹt trong bồn tắm
+2019-11-23 03:10:19,960 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những điểm đến tại đảo Hải Nam, Trung Quốc
+2019-11-23 03:10:20,014 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quán cà phê dưới vòm cây xanh
+2019-11-23 03:10:20,067 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 4 ưu điểm của Phú Quốc thu hút khách du lịch
+2019-11-23 03:10:20,107 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Giảm giá tour Nhật Bản mùa đông
+2019-11-23 03:10:20,451 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trải nghiệm trên chiếc máy bay vừa xuất xưởng
+2019-11-23 03:10:20,542 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 5 triệu khách tới Việt Nam bị ảnh hưởng nếu dừng miễn visa
+2019-11-23 03:10:20,588 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đặt vé máy bay nhận tour du lịch Thái Lan
+2019-11-23 03:10:20,635 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vùng Balkan - điểm đến gợi ý cho năm 2020
+2019-11-23 03:10:20,708 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đi 7 kỳ quan thế giới trong 7 ngày
+2019-11-23 03:10:34,472 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Loài ruồi có cuống mắt như ốc sên
+2019-11-23 03:10:34,974 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Airbus thử nghiệm máy bay không người lái 185 km/h
+2019-11-23 03:10:35,068 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hổ mang bị chó cắn đứt đôi thân vẫn ngóc đầu đe dọa
+2019-11-23 03:10:35,111 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phát hiện thành phần của sự sống trong thiên thạch
+2019-11-23 03:10:35,162 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Loài rắn tiền sử có chân tồn tại suốt 70 triệu năm
+2019-11-23 03:10:35,206 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ảnh chụp dải Ngân Hà với tàn dư của 27 sao cổ đại
+2019-11-23 03:10:35,250 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mộ thuyền nghìn năm xếp chồng lên nhau
+2019-11-23 03:10:49,007 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trải nghiệm xem trận Việt Nam - Thái Lan trên Galaxy A50s
+2019-11-23 03:10:49,586 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những điểm nhấn công nghệ tại FPT Techday 2019
+2019-11-23 03:10:49,639 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trợ lý ảo biết nói trên nền tảng FPT.AI giúp tiết kiệm nhân lực
+2019-11-23 03:10:49,727 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thư xin quà Noel iPhone 11 của bé 10 tuổi gây sốt mạng xã hội
+2019-11-23 03:10:49,777 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xiaomi ra công nghệ sạc nhanh 100W
+2019-11-23 03:10:49,827 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Donald Trump muốn Apple xây dựng mạng 5G ở Mỹ
+2019-11-23 03:10:49,886 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bình chọn Tech Awards 2019 bắt đầu từ chiều nay
+2019-11-23 03:10:49,939 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Apple giấu đánh giá sản phẩm trên Apple Store
+2019-11-23 03:10:49,988 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Smartphone bán tại Nga phải cài phần mềm bản địa
+2019-11-23 03:11:03,829 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đại lý báo giá sửa xe 'nhầm' hơn 300 triệu
+2019-11-23 03:11:04,099 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mazda3 thế hệ mới đoạt cú đúp giải thưởng
+2019-11-23 03:11:04,151 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tinh hoa công nghệ trên BMW 7 series phiên bản mới
+2019-11-23 03:11:04,201 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Honda triển khai ứng dụng My Honda+ tại Việt Nam
+2019-11-23 03:11:04,248 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mercedes-Maybach GLS - SUV siêu sang cạnh tranh Bentley Bentayga
+2019-11-23 03:11:18,320 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 'Thái Lan nên chấp nhận xếp sau Việt Nam'
+2019-11-23 03:11:18,385 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Khi giáo viên Tây 'ba lô' dạy tiếng Anh không chuẩn
+2019-11-23 03:11:32,217 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mong em sẽ cảm thông với quá khứ của anh
+2019-11-23 03:11:32,265 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bên anh, em muốn mình như đứa trẻ
+2019-11-23 03:11:32,312 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Em đánh tiếng mong anh tìm đến
+2019-11-23 03:11:32,369 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Em yêu thể thao, nghiêm túc trong tình cảm
+2019-11-23 03:11:32,425 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tìm em để thấy tương lai
+2019-11-23 03:11:32,475 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cố có nhà riêng để em không phải làm dâu
+2019-11-23 03:11:47,582 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bài toán đố mẹo khiến nhiều người chào thua, còn bạn?
+2019-11-23 03:11:47,646 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Biểu cảm hài hước của ông bố khi bắt chước con
+2019-11-23 03:11:47,698 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những câu nói 'kinh điển' trong chương trình Táo quân từ 2016 đến 2019
+2019-11-23 03:11:47,743 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Người đẹp mở cốp ôtô để tìm bình xăng
+2019-11-23 03:11:47,787 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nữ sinh tá hỏa vì bị bạn phát hiện chơi xấu
+2019-11-23 03:11:47,839 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đàn mèo chăm chú nghe chàng trai đàn hát
+2019-11-23 03:11:47,965 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://news.zing.vn/
+2019-11-23 03:12:05,296 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Người đàn ông lõa thể bị xe bồn tông chết
+2019-11-23 03:12:05,336 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ông Tất Thành Cang không tiếp xúc cử tri vì công tác đột xuất
+2019-11-23 03:12:05,379 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chủ đầu tư chịu toàn bộ chi phí sửa chữa cầu bộ hành Suối Tiên
+2019-11-23 03:12:05,424 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quốc hội tăng quyền cho Thủ tướng
+2019-11-23 03:12:05,475 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quốc hội miễn nhiệm Chủ nhiệm Ủy ban Pháp luật Nguyễn Khắc Định
+2019-11-23 03:12:05,524 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nối thành công cánh tay của nạn nhân bị băng đòi nợ chém gần đứt lìa
+2019-11-23 03:12:05,576 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Giá đất TP.HCM cao nhất cả nước
+2019-11-23 03:12:05,627 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cán bộ bảo vệ rừng bị hành hung tại trụ sở
+2019-11-23 03:12:05,672 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bán đảo Cà Mau lún nhanh nhất Đồng bằng sông Cửu Long
+2019-11-23 03:12:05,715 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 'Bà Nguyễn Thị Kim Tiến tạo ra thay đổi căn bản cho ngành y tế'
+2019-11-23 03:12:05,759 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Diễn tập xử lý tình huống an ninh tại sân bay Tân Sơn Nhất
+2019-11-23 03:12:05,801 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chặn xe đầu kéo chở hơn 700 chai rượu ngoại
+2019-11-23 03:12:05,934 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Huy động quân đội tìm du khách Canada mất tích ở Sơn Trà
+2019-11-23 03:12:05,978 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nước sinh hoạt ở Nha Trang đen như cà phê
+2019-11-23 03:12:06,021 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Kẻ gian bỏ lại cây cảnh lấy trộm chậu ở Đà Nẵng
+2019-11-23 03:12:06,066 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xe tải vượt ôtô khách, tông trực diện xe máy
+2019-11-23 03:12:06,114 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Người đàn ông tiểu tiện trong thang máy chung cư ở TP.HCM
+2019-11-23 03:12:06,238 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xây biệt thự không phép trên đồi ở Hạ Long
+2019-11-23 03:12:06,279 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bộ GTVT đề nghị sớm di dời phố cà phê đường tàu
+2019-11-23 03:12:06,424 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 300 nhân công đường sắt Cát Linh nghỉ việc được tuyển bổ sung
+2019-11-23 03:12:06,465 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : TP.HCM hạn chế xe vào trung tâm 2 ngày cuối tuần
+2019-11-23 03:12:06,511 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bà Nguyễn Thị Kim Tiến rời ghế Bộ trưởng Y tế
+2019-11-23 03:12:06,556 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đưa 39 di hài từ Anh về nước phức tạp thế nào?
+2019-11-23 03:12:06,610 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trộm vặt kính chiếu hậu xe container trong 10 giây
+2019-11-23 03:12:14,873 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ông Obama cảnh báo về 'lạc lối' trên mạng xã hội
+2019-11-23 03:12:15,300 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Monsanto chịu phạt 10 triệu USD vì sử dụng thuốc trừ sâu độc hại
+2019-11-23 03:12:15,383 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Gần 10 người biểu tình rời đại học Hong Kong, đầu hàng cảnh sát
+2019-11-23 03:12:15,453 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mỹ truy tố công dân TQ ăn cắp bí mật thương mại của Monsanto
+2019-11-23 03:12:15,517 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ông Tập: Trung Quốc không ngại trả đũa Mỹ trong thương chiến
+2019-11-23 03:12:15,598 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nhật hoàng báo cáo với thần linh việc hoàn tất nghi lễ đăng cơ
+2019-11-23 03:12:15,668 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cựu TT Bolivia tiết lộ bị tướng quân đội ám sát hụt trên trực thăng
+2019-11-23 03:12:15,721 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : WHO: 80% thiếu niên toàn cầu lười vận động
+2019-11-23 03:12:15,772 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hàn Quốc mở đường cho cô dâu Việt báo cảnh sát khi bị chồng đánh
+2019-11-23 03:12:15,823 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hàng chục tài xế xe ôm 'đột kích' bệnh viện đòi thi thể bé sơ sinh
+2019-11-23 03:12:15,868 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : TT Trump mâu thuẫn với hải quân Mỹ về đặc nhiệm SEAL tai tiếng
+2019-11-23 03:12:15,917 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : TT Putin quyết tâm hoàn thiện tên lửa bí ẩn sau vụ nổ động cơ
+2019-11-23 03:12:15,967 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đại sứ Hàn Quốc khẳng định nỗ lực đóng góp cho Việt Nam như HLV Park
+2019-11-23 03:12:16,010 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Singapore phạt tù doanh nhân buôn lậu xa xỉ phẩm cho Triều Tiên
+2019-11-23 03:12:16,057 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trung Quốc sẽ không kích thích toàn diện kinh tế dù tăng trưởng chậm
+2019-11-23 03:12:16,250 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hai máy bay huấn luyện T-38 của Mỹ gặp nạn
+2019-11-23 03:12:16,340 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tháp đuốc SEA Games tốn gần 1 triệu USD ở Philippines gây phẫn nộ
+2019-11-23 03:12:16,484 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mỹ chuyển giao thêm tàu tuần duyên lớp Hamilton cho Việt Nam
+2019-11-23 03:12:16,527 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lực lượng Trung Quốc bám đuôi tàu chiến Mỹ trên Biển Đông
+2019-11-23 03:12:16,576 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : TikTok của Trung Quốc lọt vào tầm ngắm quân đội Mỹ
+2019-11-23 03:12:16,621 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quan chức Mỹ: Thổ Nhĩ Kỳ phải phá hủy S-400 nếu muốn có F-35
+2019-11-23 03:12:16,668 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Giáo hoàng cảnh báo giới trẻ Thái về cạm bẫy của công nghệ
+2019-11-23 03:12:16,721 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cô gái Mỹ bị khởi tố vì lộ ngực trần trước mặt con riêng của chồng
+2019-11-23 03:12:16,760 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Malaysia tức giận vì Singapore treo cổ công dân mang 17 gram heroin
+2019-11-23 03:12:16,801 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xe máy bị cuốn trôi vì cố vượt qua dòng nước lũ
+2019-11-23 03:12:24,591 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sự sụp đổ của hai anh em cựu tỷ phú giàu nhất Mỹ
+2019-11-23 03:12:24,643 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cư dân Vinhomes Ocean Park nhận thẻ ra vào trước ngày bàn giao nhà
+2019-11-23 03:12:24,685 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Làm cách nào Suntory có thể tạo ra nước uống vị sữa chua?
+2019-11-23 03:12:24,874 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Máy bay Boeing 777 cháy
+2019-11-23 03:12:25,010 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : GoViet gặp lỗi bản đồ khi cập nhật ứng dụng
+2019-11-23 03:12:25,191 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hyundai Santa Fe 10 năm tuổi thanh lý giá 348 triệu đồng
+2019-11-23 03:12:25,336 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tiếp viên hàng không và những câu chuyện cảm động về văn hóa bay
+2019-11-23 03:12:25,435 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hơn 80% khách mua condotel Đà Nẵng đến từ miền Bắc
+2019-11-23 03:12:25,477 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nở rộ kinh doanh nhà trọ 'lai' homestay giá rẻ
+2019-11-23 03:12:25,520 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lo lắng khung giá đất tại Hà Nội và TP.HCM chỉ bằng 30-50% thực tế
+2019-11-23 03:12:25,562 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ba chàng kiến trúc sư Hàn Quốc và giấc mơ soán ngôi Airbnb
+2019-11-23 03:12:25,604 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Biệt thự của vợ chồng Bill Clinton với tranh vẽ từ Hà Nội
+2019-11-23 03:12:25,654 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Kiếm gần 2 tỷ USD nhờ bán siêu xe phế liệu
+2019-11-23 03:12:25,707 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chưa có doanh thu bán nhà, Sunshine trả gần 3 tỷ tiền lãi vay mỗi ngày
+2019-11-23 03:12:25,757 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cậu ấm Trung Quốc vừa bị niêm phong tài sản giàu cỡ nào?
+2019-11-23 03:12:33,485 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 9 thiên thần nóng bỏng nhất Victoria's Secret
+2019-11-23 03:12:33,543 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đạo diễn TQ bị chỉ trích sau phát ngôn về sự tồn tại của Marvel
+2019-11-23 03:12:33,593 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 'Nữ hoàng cảnh nóng' khóc nức nở trên sân khấu
+2019-11-23 03:12:33,635 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vu Chính chê Mã Tư Thuần: 'Diễn dở còn không chịu tiếp thu'
+2019-11-23 03:12:33,676 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vợ Chris Hemsworth chê Miley Cyrus không xứng với Liam
+2019-11-23 03:12:33,719 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trịnh Sảng chia tay bạn trai, có thể mất 2,8 triệu USD
+2019-11-23 03:12:33,768 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tỷ phú showbiz Trung Quốc bị niêm phong tài sản
+2019-11-23 03:12:33,812 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : BTS không được miễn nghĩa vụ quân sự
+2019-11-23 03:12:33,853 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Kim Kardashian đọ sắc với Victoria Beckham
+2019-11-23 03:12:33,897 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bạn trai siêu mẫu Đài Loan bỏ trốn vì món nợ 820 triệu USD?
+2019-11-23 03:12:33,941 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Pia Wurtzbach và dàn hoa hậu diễu hành tại lễ khai mạc SEA Games 2019
+2019-11-23 03:12:33,986 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nhan sắc nữ nghị sĩ trẻ nhất Belarus từng lọt top 5 Hoa hậu Thế giới
+2019-11-23 03:12:34,116 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trường Giang: ‘Vợ chồng tôi muốn nhiều con như anh Lý Hải’
+2019-11-23 03:12:34,178 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : NSƯT Chí Trung: 'Tôi vui khi Táo Quân dừng lại sau 16 năm'
+2019-11-23 03:12:34,225 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những khoảnh khắc vui nhộn của Táo Quân 2015
+2019-11-23 03:12:34,269 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xuân Bắc chia sẻ suy nghĩ khi Táo Quân dừng sản xuất
+2019-11-23 03:12:34,384 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Noo Phước Thịnh chụp hình cùng thần tượng Kpop trên Dispatch
+2019-11-23 03:12:34,437 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hậu trường buổi thử trang phục của Tiểu Vy
+2019-11-23 03:12:34,480 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ảnh đời thường của bạn gái Mạc Văn Khoa
+2019-11-23 03:12:34,522 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hồ Ngọc Hà e ấp bên Kim Lý ở sự kiện thời trang
+2019-11-23 03:12:34,567 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nhan sắc diễn viên kém 26 tuổi đi chơi cùng Brad Pitt
+2019-11-23 03:12:34,609 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tạm biệt, Táo Quân!
+2019-11-23 03:12:42,483 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tiền vệ U22 Việt Nam: 'Nên tôn trọng Thái Lan ở SEA Games'
+2019-11-23 03:12:42,742 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : HLV U22 Singapore triệu tập hai con trai để đối đầu U22 Việt Nam
+2019-11-23 03:12:42,784 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Người mẫu tại ONE Championship nhận lương hàng chục nghìn USD
+2019-11-23 03:12:42,834 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ronaldo mời đồng đội tại Juventus đi ăn tối để xin lỗi
+2019-11-23 03:12:42,879 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Duy Nhất tung đòn đá knock-out đối thủ Nhật Bản
+2019-11-23 03:12:42,927 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hazard tiết lộ lý do tăng cân khi chuyển sang Real
+2019-11-23 03:12:42,984 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Indonesia trao thưởng hơn 300 triệu đồng cho mỗi tấm HCV SEA Games
+2019-11-23 03:12:43,029 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xác định các trận bán kết play-off Euro 2020
+2019-11-23 03:12:43,072 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 1.001 chuyện mùa SEA Games: Bỏ lỡ trận có tuyển VN là trớ trêu nhất
+2019-11-23 03:12:43,114 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 'Trợ lý Sasa Todic của Thái Lan cần nhận bài học thích đáng'
+2019-11-23 03:12:43,160 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sasa Todic và những vụ miệt thị gây phẫn nộ
+2019-11-23 03:12:43,207 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Duy Nhất tỏa sáng tại ONE Championship
+2019-11-23 03:12:43,252 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Thái Lan mất ngôi sao đang lên trước thềm SEA Games 30
+2019-11-23 03:12:43,301 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Real lên kế hoạch giữ chân Benzema
+2019-11-23 03:12:43,344 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Solskjaer bình thản trước tin đồn về Pochettino
+2019-11-23 03:12:43,484 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quang Hải, Văn Hậu vui vẻ trước giờ lên đường dự SEA Games
+2019-11-23 03:12:43,526 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : HLV Park chụp ảnh cùng người hâm mộ trước giờ lên đường dự SEA Games
+2019-11-23 03:12:43,567 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Một người có thể mua 500 vé trận Việt Nam - Thái Lan ở SEA Games
+2019-11-23 03:12:43,613 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : HLV Park không có mặt cùng cầu thủ khi đến khách sạn Jen Manila
+2019-11-23 03:12:43,665 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đòn đá giúp Duy Nhất hạ đối thủ Nhật Bản
+2019-11-23 03:12:43,707 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : HLV Park luyện chiến thuật cho U22 Việt Nam trong buổi tập cuối
+2019-11-23 03:12:43,754 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Việt Nam gặp nhiều khó khăn trước trận ra quân tại SEA Games
+2019-11-23 03:12:43,797 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Việt Nam rời TP.HCM, sẵn sàng cho SEA Games 30
+2019-11-23 03:12:43,839 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Việt Nam chốt số áo tại SEA Games, không có số 10
+2019-11-23 03:12:43,883 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cháy vé trận U22 Việt Nam gặp Thái Lan ở SEA Games 30
+2019-11-23 03:12:43,927 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tuyển nữ Việt Nam gặp HLV Park trước khi dự SEA Games 30
+2019-11-23 03:12:43,971 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thái Lan mất hậu vệ gốc Italy trước thềm SEA Games 30
+2019-11-23 03:12:44,011 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Việt Nam tới Philippines, bắt đầu săn vàng SEA Games
+2019-11-23 03:12:44,053 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quế Ngọc Hải có thể trở thành đồng đội của Văn Lâm tại Thai League
+2019-11-23 03:12:44,099 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ronaldo bị loại khỏi đội hình Juventus đấu Atalanta
+2019-11-23 03:12:44,142 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trải nghiệm kẹt xe trên tuyến đường 40 km từ SVĐ về khách sạn U22 VN ở
+2019-11-23 03:12:52,494 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Kẻ giết người tình ở quán massage mang án 24 năm tù
+2019-11-23 03:12:52,696 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Kẻ cướp kề dao vào cổ, đoạt tiền của người mua xe
+2019-11-23 03:12:52,765 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Con rể nghi giết bố mẹ vợ rồi tự sát
+2019-11-23 03:12:52,812 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phó phòng nhận hối lộ 20 triệu đồng
+2019-11-23 03:12:52,856 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bắt nghi can đâm thấu bụng nam sinh lớp 10
+2019-11-23 03:12:52,968 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thiếu niên 15 tuổi cùng bạn đi cướp xe ôm trong đêm
+2019-11-23 03:12:53,014 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hàng trăm cảnh sát bao vây kẻ khống chế nữ tài xế taxi
+2019-11-23 03:12:53,058 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 9X tử vong khi đang bị tạm giam do bệnh lý
+2019-11-23 03:12:53,106 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hứa Thị Phấn lĩnh 20 năm tù, bồi thường hơn 1.300 tỷ
+2019-11-23 03:13:01,315 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trường lạm thu, suất ăn có vấn đề, ai chịu trách nhiệm?
+2019-11-23 03:13:01,361 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bộ trưởng cao cấp Singapore kêu gọi chú trọng đào tạo nghề
+2019-11-23 03:13:01,550 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Không ngủ trưa, 4 học sinh bị cô giáo phạt tự tát vào mặt
+2019-11-23 03:13:01,632 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quốc gia nào bầu cựu danh thủ bóng đá làm tổng thống?
+2019-11-23 03:13:01,673 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trạng nguyên bị vợ đầu độc vì ghen tuông
+2019-11-23 03:13:01,745 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bộ GD&ĐT công bố 32 cuốn sách giáo khoa lớp 1 mới
+2019-11-23 03:13:01,792 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bộ GD&ĐT sẽ báo cáo Thủ tướng về sách của GS Hồ Ngọc Đại bị loại
+2019-11-23 03:13:09,880 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thực hư về việc đã tìm ra cách tiêu diệt mọi loại ung thư
+2019-11-23 03:13:09,922 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Khuyết tật của tim khiến trẻ sơ sinh dễ tử vong
+2019-11-23 03:13:09,963 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Uống bia tưởng hại nhưng không ngờ lại giúp nhan sắc 'lên đời'
+2019-11-23 03:13:10,133 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bác sĩ dùng miệng hút nước tiểu cứu người trên máy bay
+2019-11-23 03:13:10,181 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Dùng điện thoại khi tắm, bé gái bị điện giật suýt chết
+2019-11-23 03:13:10,244 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Công an vào cuộc vụ sản phụ tử vong khi sinh mổ
+2019-11-23 03:13:10,288 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nữ sinh ở Hà Nội mắc sùi mào gà dù chưa quan hệ tình dục
+2019-11-23 03:13:10,343 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bác sĩ vừa mổ đẻ vừa cắt u xơ tử cung
+2019-11-23 03:13:18,198 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sân đấu diễn ra lễ khai mạc SEA Games độc nhất lịch sử
+2019-11-23 03:13:18,247 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Du khách nói gì trước lệnh cấm hút thuốc lá điện tử ở Philippines
+2019-11-23 03:13:18,299 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cuộc chiến cân sức giữa voi và tê giác
+2019-11-23 03:13:18,452 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chìm đắm trong sắc vàng đồi hoa dã quỳ ở ngoại thành Hà Nội
+2019-11-23 03:13:18,578 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Loạt khách sạn 5 sao tại Philippines
+2019-11-23 03:13:18,622 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tục treo quan tài trên vách đá ở Philippines
+2019-11-23 03:13:18,670 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những chuyến du lịch đắt tiền của hoàng tử Brunei
+2019-11-23 03:13:26,129 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : SKT T1 thay máu nhân sự gần 100%
+2019-11-23 03:13:26,174 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Điểm mặt những hảo thủ sẽ tranh tài tại Siêu Sao Đại Chiến 2019
+2019-11-23 03:13:26,225 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : WeChat lại hiển thị bản đồ có đường lưỡi bò phi pháp
+2019-11-23 03:13:26,303 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cơ hội phát triển cho startup lĩnh vực fintech
+2019-11-23 03:13:26,374 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Loạt máy lọc không khí đáng chú ý dưới 5 triệu đồng
+2019-11-23 03:13:26,438 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mua iPhone XS Max quốc tế, dùng 1 tháng thành máy lock tại VN
+2019-11-23 03:13:27,088 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Kỷ niệm 60 năm thành lập Bộ Khoa học và Công nghệ
+2019-11-23 03:13:27,135 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Toàn cảnh sự kiện công nghệ lớn nhất năm của FPT
+2019-11-23 03:13:27,200 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tên lửa của SpaceX nổ tung trong lần thử đầu tiên
+2019-11-23 03:13:27,242 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xiaomi giới thiệu công nghệ sạc nhanh kỷ lục, gấp 5 lần iPhone 11
+2019-11-23 03:13:27,442 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tên lửa SpaceX nổ tung trong lần thử đầu tiên
+2019-11-23 03:13:27,489 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đây là chiếc mũ bảo hiểm hiện đại nhất thế giới
+2019-11-23 03:13:27,565 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Khoa học chưa giải thích được tại sao thông minh nhưng vẫn nghèo
+2019-11-23 03:13:36,003 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xem nhanh sự kiện ra mắt Tesla Cybertruck trong 5 phút
+2019-11-23 03:13:36,044 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tài xế ôtô đánh lái kịp thời tránh người nằm giữa đường
+2019-11-23 03:13:36,084 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xe bán tải chống đạn Tesla bị vỡ kính ngay trên sân khấu
+2019-11-23 03:13:36,136 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đỗ xe ven đường, xe container bị vặt gương trong đêm
+2019-11-23 03:13:36,187 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nữ tài xế lùi ôtô tông trúng 3 mẹ con đi bộ trên đường
+2019-11-23 03:13:36,233 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nam thanh niên ngã xuống đường vì bốc đầu xe máy
+2019-11-23 03:13:36,281 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xe máy phóng nhanh đâm thẳng vào ôtô đang sang đường
+2019-11-23 03:13:36,406 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Elon Musk và tham vọng siêu bán tải kéo được 2 máy bay Boeing 737
+2019-11-23 03:13:36,525 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xe bán tải chống đạn của Tesla nhận đủ chê bai về thiết kế
+2019-11-23 03:13:36,565 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Toyota Mirai Concept - chiếc xe xanh trong thân xác Lexus
+2019-11-23 03:13:36,605 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xe cơ bắp 2.250 mã lực của Dominic Toretto được bán đấu giá
+2019-11-23 03:13:36,652 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xe bán tải chống đạn Tesla Cybertruck ra mắt, giá từ 39.900 USD
+2019-11-23 03:13:36,694 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xem trước thiết kế của Hyundai Tucson thế hệ mới
+2019-11-23 03:15:31,592 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tuoitre.vn
+2019-11-23 03:16:04,850 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 'Lâm tặc' lấy hàng trăm cây gỗ, kiểm lâm, chính quyền vẫn... giải trình
+2019-11-23 03:16:04,894 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đến nhà bạn chơi bị nhóm đòi nợ chém gần lìa cánh tay
+2019-11-23 03:16:04,935 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cầu đi bộ Suối Tiên chưa có thiết kế nhưng vẫn triển khai thi công
+2019-11-23 03:16:04,982 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đường sắt Nam Thăng Long - Trần Hưng Đạo chậm 12 năm, đội vốn 16.000 tỉ
+2019-11-23 03:16:05,033 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bến xe Miền Đông mới chưa thể hoạt động trước Tết Canh Tý
+2019-11-23 03:16:05,083 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Giao thông TP.HCM có bước chuyển mình
+2019-11-23 03:16:05,128 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những giọt nước mắt rơi ở triển lãm ‘Em không sợ’
+2019-11-23 03:16:05,173 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hệ thống sông Đồng Nai: tứ bề 'thọ' nguồn gây ô nhiễm
+2019-11-23 03:16:05,218 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Được tự nguyện từ chức, cấp quận không cần có HĐND phường
+2019-11-23 03:16:05,267 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bà Nguyễn Thị Kim Tiến chính thức rời ‘ghế nóng’ bộ trưởng Bộ Y tế
+2019-11-23 03:16:05,325 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vụ bé trai sinh mổ bị dao cắt rách da đầu, khâu 6 mũi: Bác sĩ thừa nhận sơ suất
+2019-11-23 03:16:05,384 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tìm kiếm du khách Canada để lại thư tuyệt mệnh rồi mất tích trên bán đảo Sơn Trà
+2019-11-23 03:16:05,437 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thủ tướng yêu cầu chống tham nhũng, lợi ích nhóm trong phát triển điện mặt trời
+2019-11-23 03:16:05,484 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Truy bắt nghi phạm khống chế nữ tài xế taxi đòi 200 triệu tiền 'chuộc mạng'
+2019-11-23 03:16:05,530 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Khởi tố bị can làm giả sổ đỏ, đốt cả đài truyền thanh huyện để hủy chứng cứ
+2019-11-23 03:16:05,579 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phanh gấp khi phát hiện gờ giảm tốc, người đàn ông bị xe tải cán tử vong
+2019-11-23 03:16:16,853 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sốc ở Israel: Bộ trưởng buộc tội tham nhũng đối với Thủ tướng
+2019-11-23 03:16:16,902 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đối thủ đáng gờm của ông Trump - tỉ phú Bloomberg đã nộp hồ sơ tranh cử
+2019-11-23 03:16:16,963 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Boeing 777 cháy phừng phừng trên bầu trời Los Angeles
+2019-11-23 03:16:17,005 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hong Kong nín thở chờ cuộc bầu cử ngày 24-11
+2019-11-23 03:16:17,049 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cô gái 23 tuổi được chọn vào nhóm cố vấn trẻ của Tổng thống Indonesia
+2019-11-23 03:16:17,098 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trung Quốc lớn giọng dọa Mỹ về 'xui rủi bất ngờ' trên Biển Đông
+2019-11-23 03:16:17,144 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vụ 39 người Việt chết trong container: cảnh sát Anh bắt thêm 1 nghi phạm
+2019-11-23 03:16:32,638 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hàng ngàn người tham gia chuỗi sự kiện hợp tác quốc tế tại Bình Dương
+2019-11-23 03:16:32,706 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thưởng thức phở tươi trong thố đá ở Sài Gòn
+2019-11-23 03:16:32,760 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ông Tập Cận Bình nói 'không ngại' phản công Mỹ
+2019-11-23 03:16:32,826 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thí sinh thi nấu phở ngon phía Nam muốn mang theo nhiều 'bí kíp' riêng
+2019-11-23 03:16:32,878 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Khánh Hòa yêu cầu dừng ngay việc huy động vốn dự án Cồn Tân Lập
+2019-11-23 03:16:32,932 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chậm làm sổ đỏ cho khách hàng, chủ đầu tư có thể bị phạt tới 1 tỉ đồng
+2019-11-23 03:16:32,983 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : VN-Index lao dốc cùng chứng khoán Mỹ - Trung
+2019-11-23 03:16:33,033 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : ADB áp dụng cách định giá khoản vay mới cho một số nước
+2019-11-23 03:16:33,083 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Campuchia tha thiết mời gọi doanh nghiệp Việt Nam sang đầu tư
+2019-11-23 03:16:33,139 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đề xuất tiếp tục miễn thuế sử dụng đất nông nghiệp đến hết năm 2030
+2019-11-23 03:16:44,175 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Siết chặt quản lý nội dung trên YouTube, có bảo vệ được trẻ em?
+2019-11-23 03:16:44,244 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Từ bao tải tiền giấu trong bồn nước phim 'Sinh tử', nghĩ đến hàng triệu đôla cất ngoài bancông
+2019-11-23 03:16:44,287 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phim 'Sinh tử' nhầm tên nhân vật lung tung, một nhân vật mang 2 họ
+2019-11-23 03:16:44,337 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hiểu con qua màn ảnh nhỏ: Có khi nào em thất vọng về mẹ?
+2019-11-23 03:16:44,391 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Táo quân lần đầu không lên sóng sau 15 năm quen thuộc mỗi giao thừa
+2019-11-23 03:16:44,440 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trương Ngọc Ánh làm giám khảo Liên hoan phim Việt Nam 21
+2019-11-23 03:17:43,309 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đề nghị truy tố phó phòng Kinh tế - Hạ tầng huyện nhận hối lộ
+2019-11-23 03:17:43,391 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Một bị can 'môi giới mại dâm' bất ngờ tử vong trong trại tạm giam ở Hà Nam
+2019-11-23 03:17:43,431 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thu bẫy thú của dân, cán bộ bảo vệ rừng bị hành hung ngay tại cơ quan
+2019-11-23 03:17:54,535 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : TP.HCM chấn chỉnh nạn học sinh đánh nhau: Phải có quy tắc ứng xử tại các trường
+2019-11-23 03:17:54,581 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Học sinh, sinh viên được vay ưu đãi tối đa 2,5 triệu/tháng
+2019-11-23 03:17:54,627 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nam sinh tốt nghiệp loại giỏi cùng lúc hai ngành học
+2019-11-23 03:17:54,668 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phục vụ vì yêu thương
+2019-11-23 03:17:54,714 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vụ cô giáo bị đặt camera quay lén: TP.HCM đề nghị xử lý nội dung tố cáo
+2019-11-23 03:17:54,757 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Kiến nghị đưa bơi lội là môn học chính khóa cho học sinh phổ thông
+2019-11-23 03:18:05,681 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chuyện khó tin: con cá bằng 2 ngón tay 'bơi' thẳng vào phổi
+2019-11-23 03:18:05,722 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nối thành công bàn tay bé trai 1 tuổi bị đứt lìa, nhiều y bác sĩ được khen thưởng
+2019-11-23 03:18:05,763 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thay xương bánh chè nhân tạo đầu tiên trên thế giới
+2019-11-23 03:18:05,803 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đột phá y học: 'Thay máu' giúp hồi sinh người bị tim ngừng đập?
+2019-11-23 03:18:05,842 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nhân viên tiếp tay bạo lực, Bệnh viện Từ Dũ xin lỗi nữ điều dưỡng bị đánh
+2019-11-23 03:18:05,881 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vụ sản phụ tử vong ở Đà Nẵng: Đã từng đề xuất Cục Quản lý Dược ngưng sử dụng
+2019-11-23 03:18:05,998 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Khuyến cáo không dùng thuốc lá điện tử để cai thuốc lá
+2019-11-23 03:18:16,827 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những công nhân tỉ phú ở Binh đoàn 15
+2019-11-23 03:18:16,923 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 'Lúc ấy, tim tôi nhói đau, không muốn các bé đau đớn thêm'
+2019-11-23 03:18:16,962 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sinh viên sáng tạo thiết bị giữ ấm chân cho người già
+2019-11-23 03:21:11,977 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://24h.com.vn
+2019-11-23 03:21:26,580 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lập trình viên xây dựng Cộng Đồng Vận Chuyển giúp anh em tài xế có thu nhập tốt hơn
+2019-11-23 03:21:26,627 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nhìn lại chặng đường phát triển của Giải độc gan Tuệ Linh
+2019-11-23 03:21:26,674 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tránh sai lầm khi trang trí nội thất nhà ở nhờ giải pháp đến từ chuyên gia
+2019-11-23 03:21:26,721 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : “Chắc tay” lợi nhuận khi đầu tư shophouse tại Hạ Long
+2019-11-23 03:21:26,763 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vào quán massage giết nữ nhân viên phục vụ rồi hiếp dâm
+2019-11-23 03:21:26,811 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xinh như hotgirl, cô gái 9x ở Hà Nội khiến nhiều người thán phục vì...
+2019-11-23 03:21:26,935 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vụ xe Mercedes đâm liên hoàn: Nữ nạn nhân tử vong là thạc sỹ, đi du học...
+2019-11-23 03:21:27,009 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ai phụ trách Bộ Y tế sau khi Quốc hội miễn nhiệm Bộ trưởng Nguyễn Thị...
+2019-11-23 03:21:27,066 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vụ xe container kéo sập dầm cầu ở Sài Gòn: Sở GTVT chia sẻ thông tin...
+2019-11-23 03:21:27,148 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Còn 64 ngày nữa mới đến Tết, nhiều người đã “rinh” quất về chơi Tết sớm
+2019-11-23 03:21:27,220 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bé gái mệt lả trên vỉa hè và hành động ấm áp của CSGT
+2019-11-23 03:21:27,320 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sinh mổ, bác sĩ làm rách đầu trẻ sơ sinh phải khâu 6 mũi
+2019-11-23 03:21:27,650 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xe Mercedes gây tai nạn trên đường Lê Văn Lương được bồi thường bảo hiểm...
+2019-11-23 03:21:27,701 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quốc hội chính thức miễn nhiệm Bộ trưởng Bộ Y tế Nguyễn Thị Kim Tiến
+2019-11-23 03:21:27,750 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vụ xe Mercedes đâm liên hoàn: Người thân bàng hoàng khi nghe tin nạn...
+2019-11-23 03:21:35,192 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Còn 64 ngày nữa mới đến Tết, nhiều người đã “rinh” quất về chơi Tết...
+2019-11-23 03:21:43,392 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Công an đã mời cán bộ nghi dâm ô 2 bé gái ở Trung tâm hỗ trợ xã hội làm...
+2019-11-23 03:22:13,297 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vụ xe container kéo sập dầm cầu ở Sài Gòn: Sở GTVT chia sẻ...
+2019-11-23 03:22:13,338 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thông tin mới vụ nữ tài xế Mercedes gây tai nạn liên hoàn, ô...
+2019-11-23 03:22:13,381 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ai phụ trách Bộ Y tế sau khi Quốc hội miễn nhiệm Bộ trưởng...
+2019-11-23 03:22:13,438 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vụ xe Mercedes đâm liên hoàn: Người thân bàng hoàng khi nghe...
+2019-11-23 03:22:13,513 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những phát ngôn “đốt nóng” dư luận của nguyên Bộ trưởng Y tế...
+2019-11-23 03:22:13,573 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xe Mercedes gây tai nạn trên đường Lê Văn Lương được bồi...
+2019-11-23 03:22:13,632 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vụ xe Mercedes đâm liên hoàn: Nữ nạn nhân tử vong là thạc...
+2019-11-23 03:22:21,376 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cách Thành Cát Tư Hãn biến quân Mông Cổ thành nỗi khiếp sợ của hàng...
+2019-11-23 03:22:21,527 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Người Trung Quốc khiến một nửa số lừa trên thế giới sắp biến mất?
+2019-11-23 03:22:21,569 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cô gái Nga nóng bỏng không muốn dấn thân vào chính trị vì “lo người khác...
+2019-11-23 03:22:21,674 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ireland: Nghe tiếng động lạ trong container, phát hiện 16 "người Đông...
+2019-11-23 03:22:21,730 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thái Lan: Nữ tiếp viên ngực "khủng" thả rông vòng 1 phục vụ khách bị...
+2019-11-23 03:22:22,073 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : “Người tên lửa” Anh bay như chim từ tàu sân bay 4 tỷ USD
+2019-11-23 03:22:22,125 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mỹ bắt công dân Trung Quốc ngay trước khi lên máy bay
+2019-11-23 03:22:22,179 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tình hình Biển Đông mới nhất: Hai tàu chiến Mỹ thách thức yêu sách của...
+2019-11-23 03:22:44,823 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cuộc thảm sát đẫm máu đầu tiên trong lịch sử Mỹ thời nằm dưới ách cai...
+2019-11-23 03:22:52,125 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cực kì lạ: Giống khoai tây nấu lên có vị… hạt dẻ, giá lên tới 260...
+2019-11-23 03:22:52,408 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cận cảnh tuyến đường 2km cao ốc bủa vây bị thanh tra về quy...
+2019-11-23 03:22:52,497 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bán giày như giao dịch chứng khoán, start-up được định giá...
+2019-11-23 03:22:52,644 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Dừng sản xuất Táo quân, VTV mất khoản thu khổng lồ
+2019-11-23 03:22:52,699 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đại gia đồng loạt mất tài sản, riêng tỷ Phú Phạm Nhật Vượng...
+2019-11-23 03:22:52,786 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : "Núi tiền" bị quên lãng trong nhà kho 5 năm, lấy ra đem bán...
+2019-11-23 03:22:52,869 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cận cảnh tuyến đường 2km cao ốc bủa vây bị thanh tra về quy hoạch
+2019-11-23 03:22:52,918 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đại gia đồng loạt mất tài sản, riêng tỷ Phú Phạm Nhật Vượng kiếm bộn...
+2019-11-23 03:23:08,162 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cứ đi vớt mấy thứ này là kiểu gì cũng kiếm bộn tiền
+2019-11-23 03:23:16,074 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quyền biểu quyết tại hội nghị chung cư tính theo m2: Nhà giàu sẽ nhiều...
+2019-11-23 03:23:16,624 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mua Apec Mandala Wyndham Mũi Né sở hữu chuỗi khách sạn 5 sao trên toàn...
+2019-11-23 03:23:32,191 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hyundai Long Biên sưởi ấm vùng cao tại trường tiểu học Nà Lốc
+2019-11-23 03:23:39,587 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mở thẻ ATM hộ người khác có thể bị phạt tới 100 triệu đồng
+2019-11-23 03:23:40,157 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thu nhập tăng vọt tại các ngân hàng: Có nơi đang trả gần 1 lượng...
+2019-11-23 03:23:55,932 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : "Núi tiền" bị quên lãng trong nhà kho 5 năm, lấy ra đem bán "hốt" 37 tỷ...
+2019-11-23 03:24:11,217 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bắt tay "ông lớn", tivi của tỷ phú Phạm Nhật Vượng sẽ ra mắt cuối...
+2019-11-23 03:24:18,240 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hoa "ngoáy mũi" và Trân "răng hô" kinh điển: Người giờ là CEO giàu sụ,...
+2019-11-23 03:24:18,363 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Y tá lẳng lơ chuyên gạ gẫm đàn ông trên phim, ngoài đời nhận nhiều lời...
+2019-11-23 03:24:18,415 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Số phận sao nhí Việt: "Bé An" bán hàng online lấy vợ sexy, Hà Duy "phi...
+2019-11-23 03:24:18,585 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thắng 100 triệu nhờ chê Nhã Phương, cô gái này liền làm điều bất ngờ
+2019-11-23 03:24:18,633 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mạc Văn Khoa cạo đầu 9 lần vì đóng phim 23 tỷ với Trường Giang
+2019-11-23 03:24:18,682 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mai Phương bất ngờ đóng phim khi đang điều trị ung thư
+2019-11-23 03:24:18,730 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thanh Hà mặc váy xẻ bạo, khéo khoe vòng 1 lấp ló khi vừa trở lại
+2019-11-23 03:24:18,997 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quyến rũ như Model diễn viên Thanh Hương chia sẻ bí quyết gìn giữ...
+2019-11-23 03:24:19,081 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sở hữu làn da trắng mịn không tùy vết và đây là bí quyết của Ốc Thanh Vân
+2019-11-23 03:24:19,172 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sao nữ bị ép đóng cảnh khỏa thân 100% trong phim truyền hình "gây nghẽn...
+2019-11-23 03:24:19,247 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trường Giang hợp tác Lê Dương Bảo Lâm mang cả “sạp” kem trộn lên sóng...
+2019-11-23 03:24:26,900 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hậu ồn ào 24 tỷ, MC Phan Anh thừa nhận tham gia chương trình cộng đồng...
+2019-11-23 03:24:27,001 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sao nam ở nhà cổ trăm tỷ nhưng "chưa bao giờ dám ngủ ở gian trên" vì lý...
+2019-11-23 03:24:27,233 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : "Toát mồ hôi" với ảnh trong phòng thay đồ của dàn mỹ nữ "nóng bỏng nhất...
+2019-11-23 03:24:42,245 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trấn Thành từng nắm tay, đòi Hoài Linh làm điều này trước khi vào...
+2019-11-23 03:24:57,820 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Triệu Ký Voòng - Trùm ma túy khoác vỏ bọc đại gia xứ Lạng lĩnh án tử
+2019-11-23 03:24:57,883 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tiễn biệt Trung úy Tống Duy Tân - người chiến sĩ ngã xuống vì bình yên...
+2019-11-23 03:24:57,948 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Con rể đâm mẹ vợ tử vong, chém bố vợ trọng thương rồi tự tử
+2019-11-23 03:24:58,022 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đến nhà bạn chơi, bị nhóm đòi nợ chém gần lìa cánh tay
+2019-11-23 03:24:58,068 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thanh niên biến thái dụ gái trẻ khoe thân trên webcam rồi bí mật ghi lại...
+2019-11-23 03:24:58,146 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Triệu Ký Voòng - Trùm ma túy khoác vỏ bọc đại gia xứ Lạng...
+2019-11-23 03:24:58,243 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Công bố nguyên nhân bị can vụ môi giới mại dâm tử vong trong...
+2019-11-23 03:24:58,317 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sau án tử, khối tài sản "khủng" của trùm ma túy Triệu Ký...
+2019-11-23 03:24:58,417 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hành vi bất thường của con rể giết mẹ vợ, ném xác vào bể...
+2019-11-23 03:24:58,496 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thanh niên biến thái dụ gái trẻ khoe thân trên webcam rồi bí...
+2019-11-23 03:24:58,566 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sau án tử, khối tài sản "khủng" của trùm ma túy Triệu Ký Voòng ra sao?
+2019-11-23 03:24:58,617 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nghi án mẹ ruột cho con trai 1 tuổi uống thuốc độc rồi tự tử
+2019-11-23 03:24:58,669 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xót xa cuộc đời truân chuyên của người phụ nữ bị con rể sát hại, phi...
+2019-11-23 03:25:20,900 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thanh niên biến thái dụ gái trẻ khoe thân trên webcam rồi bí mật ghi...
+2019-11-23 03:25:58,508 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Rộ tin Ronaldo dứt tình Juventus cuối mùa này: 2 bom tấn nào thế chỗ?
+2019-11-23 03:25:58,552 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 2 bại tướng Từ Hiểu Đông choảng nhau choáng váng: 1 hiệp đấm ngã 3 lần
+2019-11-23 03:25:58,646 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tin thể thao HOT 22/11 Anthony Joshua biết ơn huấn luyện viên
+2019-11-23 03:25:58,707 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Dailymotion và Next Media hợp tác thương mại độc quyền tại Việt Nam
+2019-11-23 03:25:58,767 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Động trời WWE: Đấu sĩ 138kg làm "chuyện ấy" với mỹ nhân trên truyền hình
+2019-11-23 03:25:58,860 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tiến Minh săn Vàng cầu lông SEA Games 30: Xuất hiện thêm đối thủ “khủng”
+2019-11-23 03:25:58,930 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Knock-out chấn động MMA: Bay 360 độ vung cước triệt hạ như phim chưởng
+2019-11-23 03:25:58,998 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phát hoảng với võ sĩ boxing khổng lồ 177 kg, ai xứng làm đối thủ?
+2019-11-23 03:25:59,110 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bảng xếp hạng bóng chuyền Việt Nam tại SEA Games 30
+2019-11-23 03:25:59,161 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phát hoảng với võ sĩ boxing khổng lồ 177 kg, ai xứng làm đối...
+2019-11-23 03:25:59,238 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tin thể thao HOT 22/11 Anthony Joshua biết ơn huấn luyện...
+2019-11-23 03:25:59,285 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Món lạ chỉ có ở "ao làng" SEA Games 30: Chủ nhà mơ đoạt Vàng...
+2019-11-23 03:25:59,340 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sao bi-a Việt chọi 3 cơ thủ Hàn Quốc: Thăng hoa lấy điểm...
+2019-11-23 03:25:59,416 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vang dội võ sĩ Duy Nhất: Tung cước sấm sét, knock-out siêu...
+2019-11-23 03:25:59,474 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Knock-out chấn động MMA: Bay 360 độ vung cước triệt hạ như...
+2019-11-23 03:25:59,534 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : "Siêu" VĐV bố có 20 tỷ USD: Hoàng tử đẹp trai khuynh đảo SEA...
+2019-11-23 03:25:59,601 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lịch tường thuật trực tiếp các môn thi đấu SEA Games 30: Xem môn gì ở...
+2019-11-23 03:25:59,649 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : "Gã điên" Kyrgios lại tuyên bố sốc về tennis: Ăn cây táo rào cây sung
+2019-11-23 03:25:59,698 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : SEA Games: Nữ hoàng đi bộ Đông Nam Á chấn thương, Việt Nam có mất 1 HCV?
+2019-11-23 03:26:06,931 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tin thể thao HOT 23/11: “Gấu Nga” Khabib nói câu bẽ mặt McGregor
+2019-11-23 03:26:22,830 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lịch thi đấu các môn thể thao tại SEA Games 2019
+2019-11-23 03:26:45,759 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nữ cơ thủ bi-a tung seri “khủng” khiến đồng nghiệp nam muối mặt
+2019-11-23 03:27:23,619 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bảng xếp hạng huy chương SEA Games 30
+2019-11-23 03:27:38,367 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cực nóng: Vợ Schumacher lần đầu tiên trả lời phỏng vấn về chồng
+2019-11-23 03:28:52,969 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Các em học sinh, sinh viên xuất sắc nhận học bổng Toyota hỗ trợ tài năng trẻ âm nhạc Việt...
+2019-11-23 03:28:53,021 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thánh nữ Ấn Độ có đôi mắt “đổi màu” khoe váy cưới, triệu thanh niên...
+2019-11-23 03:28:53,066 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những thứ ảnh hưởng tới trí thông minh của trẻ từ trong trứng nước
+2019-11-23 03:28:53,433 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tâm sự xót xa của cô giáo 12 năm biên chế viết đơn xin ra...
+2019-11-23 03:28:53,554 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bộ GD-ĐT công bố 32 sách giáo khoa của 8 môn học, hoạt động...
+2019-11-23 03:28:53,603 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chiều nay, Bộ GD-ĐT công bố sách giáo khoa lớp 1 theo chương...
+2019-11-23 03:28:53,715 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 13 lời khuyên chân thành từ nam giới giúp ích cho những bà mẹ đang nuôi...
+2019-11-23 03:29:08,635 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Các em học sinh, sinh viên xuất sắc nhận học bổng Toyota hỗ trợ tài...
+2019-11-23 03:29:16,403 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Căn bệnh liên quan đến “ngứa vùng không muốn gãi” cũng có thể tử vong
+2019-11-23 03:29:16,699 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nếu có đốm đỏ hoặc tím trên da cùng với những dấu hiệu này hãy nghĩ ngay...
+2019-11-23 03:29:16,931 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quyến rũ như Model diễn viên Thanh Hương chia sẻ bí quyết gìn giữ vóc dáng
+2019-11-23 03:29:16,987 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sở hữu làn da trắng mịn không tùy vết và đây là bí quyết của Ốc...
+2019-11-23 03:29:38,363 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Da tay biến đổi lạ, coi chừng... ung thư phổi, dạ dày
+2019-11-23 03:29:38,441 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bác sĩ dùng miệng hút 800ml nước tiểu cứu bệnh nhân không bị...
+2019-11-23 03:29:38,501 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nếu có đốm đỏ hoặc tím trên da cùng với những dấu hiệu này...
+2019-11-23 03:29:38,583 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lười nấu ăn, suốt ngày đi ăn quán, người đàn ông gần như bị...
+2019-11-23 03:29:38,630 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 7 thời điểm tuyệt đối không nên làm "chuyện ấy" kẻo nhận...
+2019-11-23 03:30:08,399 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Viêm hang vị dạ dày là gì? Chế độ ăn và kinh nghiệm chữa bệnh đơn giản
+2019-11-23 03:30:08,546 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phương pháp mới giúp cải thiện đau bụng kinh do lạc nội mạc tử cung
+2019-11-23 03:30:08,591 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bệnh u nang buồng trứng và những ảnh hưởng mà phụ nữ phải đối mặt
+2019-11-23 03:30:08,639 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hỗ trợ điều trị u xơ tử cung hiệu quả bằng sản phẩm thảo dược
+2019-11-23 03:30:08,722 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cô Đẩu Công Lý: 5 năm đờm, ho, khó thở, hen suyễn hành hạ đến mức suýt...
+2019-11-23 03:30:08,776 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cách đơn giản giúp con ăn giảm ốm vặt, tăng 3kg sau 2 tháng
+2019-11-23 03:30:09,089 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Năm 2019 rồi mà nhiều người vẫn nghĩ tiểu đêm nhiều lần là do thận yếu!?...
+2019-11-23 03:30:09,149 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Kỳ lạ: Nắm hạt dân giã đánh bại tiểu đêm, tiểu nhiều lần khiến nghìn...
+2019-11-23 03:30:09,197 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lộ diện “thủ phạm” giấu mặt gây tiểu đêm, tiểu nhiều lần ở cả nam và nữ
+2019-11-23 03:30:16,255 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Travel Blogger Tô Thái Hùng chia sẻ 5 lý do nhất định phải đến đảo Hải Nam một lần trong...
+2019-11-23 03:30:16,349 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thiên đường nghỉ mát đẹp bất chấp bốn mùa ở Malaysia
+2019-11-23 03:30:16,776 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những phong tục làm đẹp dị nhất thế giới
+2019-11-23 03:30:16,858 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quốc gia nào bằng phẳng nhất thế giới, nội các từng họp dưới biển?
+2019-11-23 03:30:31,846 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Travel Blogger Tô Thái Hùng chia sẻ 5 lý do nhất định phải đến đảo Hải...
+2019-11-23 03:30:32,323 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Khám phá thế giới ẩm thực hấp dẫn tại Premier Residences Phu Quoc...
+2019-11-23 03:30:53,909 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thích iPhone 11 nhưng không đủ tiền, chiếc iPhone cũ này vẫn rất tốt
+2019-11-23 03:30:53,953 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Alex Zhu: Từ startup thất bại tới người điều hành ứng dụng khiến...
+2019-11-23 03:30:54,227 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Alex Zhu: Từ startup thất bại tới người điều hành ứng dụng...
+2019-11-23 03:30:54,332 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tim Cook tiết lộ "giác ngộ" muộn màng khiến ông nhận ra "giá...
+2019-11-23 03:30:54,391 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cho Xiaomi, Samsung "ngửi khói", Apple “vô đối” trên thị...
+2019-11-23 03:30:54,460 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tổng thống Trump muốn Apple phát triển 5G nhưng đó là điều...
+2019-11-23 03:30:54,528 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xôn xao thông tin 1 ngân hàng TMCP lộ dữ liệu 2 triệu khách...
+2019-11-23 03:30:54,618 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cho Xiaomi, Samsung "ngửi khói", Apple “vô đối” trên thị trường tai nghe...
+2019-11-23 03:30:54,696 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Khám phá những trải nghiệm của nhân viên Tek Experts trên toàn thế giới
+2019-11-23 03:31:09,403 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tổng thống Trump muốn Apple phát triển 5G nhưng đó là điều bất khả thi
+2019-11-23 03:32:10,324 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xôn xao thông tin 1 ngân hàng TMCP lộ dữ liệu 2 triệu khách hàng vào...
+2019-11-23 03:32:24,737 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ứng dụng My Honda+ chính thức sử dụng được cho xe hơi và xe máy tại...
+2019-11-23 03:33:14,800 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : "Liêm sỉ của một người chồng" vứt đâu hết rồi?
+2019-11-23 03:33:15,021 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Muốn qua mặt mẹ không dễ thế đâu con trai!
+2019-11-23 03:33:15,181 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Gareth Bale và xứ Wales có pha "cà khịa" Real Madrid cực...
+2019-11-23 03:33:15,249 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cầu thủ Việt Nam ngỡ ngàng nghe tin Táo Quân ngừng phát sóng
+2019-11-23 03:33:15,349 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chết cười với ông bố bá đạo nhất trên đời
+2019-11-23 03:34:42,871 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://thanhnien.vn/
+2019-11-23 03:35:12,153 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hơn 30 nhà đầu tư trong nước dự tuyển thầu cao tốc Bắc - Nam
+2019-11-23 03:35:12,193 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : ĐBSCL, TP.HCM có nơi sụt lún 81 cm trong 10 năm qua
+2019-11-23 03:35:12,232 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xe mới, xe cũ đua hạ giá bán tết
+2019-11-23 03:35:12,272 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tòa án Hồng Kông gia hạn lệnh cấm đeo mặt nạ
+2019-11-23 03:35:12,313 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chủ tịch Tập Cận Bình không e ngại chiến tranh thương mại với Mỹ
+2019-11-23 03:35:12,354 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tổng thống Trump tuyên bố sốc về Hồng Kông, Trung Quốc
+2019-11-23 03:35:12,396 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nhiều công trình vốn ngân sách ở Gia Lai bị 'bớt xén'
+2019-11-23 03:35:12,436 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ngang nhiên khám, chữa bệnh không phép giữa trung tâm TP.HCM
+2019-11-23 03:35:12,476 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bộ trưởng có quyền cho cán bộ từ chức
+2019-11-23 03:35:12,513 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cà Mau đề nghị phạt 3 cơ sở massage
+2019-11-23 03:35:12,555 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Gần 37.000 dân Quảng Trị chấm điểm cán bộ và nhân viên y tế
+2019-11-23 03:35:12,599 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chém người tử vong, băng côn đồ miệt vườn lãnh án
+2019-11-23 03:35:12,658 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lãnh án vì tội ác giết nhân viên massage rồi hiếp dâm
+2019-11-23 03:35:12,708 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đề nghị truy tố một Phó phòng ở Quảng Nam nhận tiền ‘bôi trơn’
+2019-11-23 03:35:12,753 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bắt nghi phạm trộm cắp trốn khỏi bệnh viện khi điều trị
+2019-11-23 03:35:12,796 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đâm chết hàng xóm sau khi ăn nhậu nhân ngày đại đoàn kết
+2019-11-23 03:35:12,839 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tài xế tông 2 cô giáo ngày 20.11 ở Gia Lai ra trình diện
+2019-11-23 03:35:12,879 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cà Mau 'cầu cứu' về vụ phó phòng gửi đơn nghỉ việc từ nước ngoài
+2019-11-23 03:35:12,917 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bắt thanh niên đâm trọng thương nam sinh lớp 10 ở Hà Tĩnh
+2019-11-23 03:35:12,954 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bị án Phạm Công Danh sẽ được nhận lại 97 bất động sản
+2019-11-23 03:35:12,992 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Không cấp hộ chiếu ngoại giao cho uỷ viên ban thường vụ các tỉnh, thành uỷ
+2019-11-23 03:35:13,030 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vừa ra tay cướp hụt ở TP.HCM, đã bị trinh sát hình sự tóm gọn
+2019-11-23 03:35:13,068 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hoàng Thùy khẳng định vòng 1 thay đổi là nhờ tăng cân
+2019-11-23 03:35:13,107 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cận cảnh khu biệt thự xây trái phép trên đất rừng ở Hạ Long
+2019-11-23 03:35:13,148 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Máy bay cháy động cơ khi vừa cất cánh
+2019-11-23 03:35:13,188 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nơi chào đời của trùm phát xít Hitler sẽ trở thành đồn cảnh sát
+2019-11-23 03:35:13,231 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nghĩa vụ quân sự ở Hàn Quốc: đến BTS cũng không phải ngoại lệ
+2019-11-23 03:35:13,272 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 7 người chết vẫn 'xuất hiện' khám chữa bệnh bảo hiểm y tế
+2019-11-23 03:35:13,311 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Can phạm môi giới mại dâm chết tại bệnh viện
+2019-11-23 03:35:13,350 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đại tá Trần Mưu lên tiếng sau sự cố sản khoa nghiêm trọng ở Đà Nẵng
+2019-11-23 03:35:13,389 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : GS Đặng Hùng Võ: Tăng thuế để hạn chế dân di cư vào Hà Nội, TP.HCM
+2019-11-23 03:35:13,429 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 30 đại biểu không đồng ý miễn nhiệm Bộ trưởng Y tế Nguyễn Thị Kim Tiến
+2019-11-23 03:35:36,246 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Giám sát việc sử dụng camera trong nhóm trẻ mầm non
+2019-11-23 03:35:36,287 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Muốn 'từ' bố chỉ vì bố hay so sánh với 'con nhà người ta'
+2019-11-23 03:35:36,334 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 32 sách giáo khoa 8 môn học lớp 1 chính thức được phê duyệt
+2019-11-23 03:35:36,406 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : TP.HCM lập vành đai cấm xe vào trung tâm 2 ngày cuối tuần
+2019-11-23 03:35:36,768 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thủ tướng Israel Netanyahu bị truy tố tội tham nhũng, nhận hối lộ
+2019-11-23 03:35:36,906 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hàn Quốc hoãn quyết định ngưng thỏa thuận chia sẻ tình báo với Nhật
+2019-11-23 03:35:36,943 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vụ 39 thi thể trong container: thêm một nghi phạm bị bắt
+2019-11-23 03:35:36,980 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tổng thống Putin lại nhắc đến vũ khí ‘vô song’ trong vụ nổ bí ẩn
+2019-11-23 03:35:48,222 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Á hậu Oanh Lê dự thi Mrs International World 2019
+2019-11-23 03:35:48,312 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sinh tử tập 14: Hoàng bị truy nã, dọa khai hết mọi chuyện
+2019-11-23 03:35:48,354 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trấn Thành từng nắm tay Hoài Linh đòi dẫn đi diễn
+2019-11-23 03:35:48,393 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 'Không lối thoát': Lương Thế Thành tiếp tục hại đồng nghiệp
+2019-11-23 03:35:48,466 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 'Pháp sư mù' cán mốc 55 tỉ đồng sau 2 tuần công chiếu
+2019-11-23 03:35:48,508 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 2 đội U.22 nam và tuyển nữ Việt Nam đã đến Philippines với khí thế ngùn ngụt
+2019-11-23 03:35:48,553 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : VTV trực tiếp 31 trận bóng đá nam, nữ SEA Games 30
+2019-11-23 03:35:48,599 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bóng bàn 5 lần liên tiếp vô địch đồng đội nam, Vũ Mạnh Cường lập kỳ tích
+2019-11-23 03:35:48,677 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bé trai vừa chào đời đã phải khâu 6 mũi do dao mổ làm rách da đầu
+2019-11-23 03:35:48,725 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Black Friday - Thứ Sáu đen: 'Cơn bão' mua sắm sắp đổ bộ
+2019-11-23 03:35:48,788 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Áo dài Việt Nam: Còn gì tự hào hơn khi được mặc áo dài!
+2019-11-23 03:35:48,835 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 'Bất cứ ai nhìn áo dài đều biết là quốc phục Việt Nam'
+2019-11-23 03:35:48,873 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thực hư bác sĩ bị tố khiến bé gái sơ sinh 4,1kg 'đứt dây chằng cánh tay'
+2019-11-23 03:35:48,914 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Người Sài Gòn mê tơi 8 món bánh xứ Quảng hơn 30 năm ở chợ Bà Hoa
+2019-11-23 03:35:48,956 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thêm người tè bậy ngay trong thang máy chung cư, dân mạng nói: 'Không biết xấu hổ!'
+2019-11-23 03:35:48,997 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phim về vụ giải cứu đội bóng nhí Thái Lan ra rạp
+2019-11-23 03:35:49,040 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trao giải cuộc thi ảnh Di sản Việt Nam 2019
+2019-11-23 03:35:49,084 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Kể chuyện thành Hà Nội xưa
+2019-11-23 03:35:49,148 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hoàng Thùy chọn ‘Cà phê phin sữa đá' thi Hoa hậu Hoàn vũ
+2019-11-23 03:35:49,242 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ngọc Châu mang trang phục dân tộc sexy, hoành tráng tới 'Hoa hậu Siêu quốc gia 2019'
+2019-11-23 03:35:49,283 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : ‘Ký sinh trùng’ đại thắng giải ‘Oscar Hàn Quốc’
+2019-11-23 03:35:49,343 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Độc đáo những bức ảnh đoạt giải 'Di sản Việt Nam 2019'
+2019-11-23 03:35:49,405 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hương Tràm bị móc túi ở Mỹ
+2019-11-23 03:35:49,449 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Á hậu Hoàng Oanh tất bật thử váy cưới chuẩn bị cho hôn lễ với chồng Tây
+2019-11-23 03:35:49,599 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : MC gợi cảm nhất showbiz Việt sinh con trai cho chồng Tây
+2019-11-23 03:35:49,656 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Con trai Nguyễn Sanh bật khóc kể chuyện bạn gái bán máu lo cho anh cai nghiện
+2019-11-23 03:36:40,637 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Không ai được góp ý trước khi SGK ban hành?
+2019-11-23 03:36:50,016 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : “Nằm lòng” bí quyết làm đẹp giúp bạn rạng rỡ bất chấp việc nhiều cuối năm
+2019-11-23 03:36:50,088 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sao Kpop gốc Hoa từng chia sẻ 'đường lưỡi bò' đến Việt Nam dự ‘AAA 2019’
+2019-11-23 03:36:50,440 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bụi mịn do ô nhiễm không khí làm tăng nguy cơ ung thư não
+2019-11-23 03:36:50,481 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 4 dấu hiệu căng thẳng vì công việc và cách chống lại nó
+2019-11-23 03:37:02,490 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Làm thế nào để hưởng thụ spa tại nhà?
+2019-11-23 03:37:02,957 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ăn sò điệp 'áo 2 mảnh 2 màu'
+2019-11-23 03:37:03,170 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Kết quả xổ số - KQXS trực tiếp nhanh nhất hôm nay thứ Năm 21.11.2019
+2019-11-23 03:37:03,321 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 9X mồ côi mở tiệm bánh mì thịt 0 đồng mong người nghèo được ăn no bụng
+2019-11-23 03:37:03,374 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Khó xử lý hình sự võ sư đấm đá nhiều học sinh để 'làm màu'
+2019-11-23 03:37:32,782 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xe chống đạn Tesla Cybertruck thiết kế dị, chạy bằng điện
+2019-11-23 03:37:32,824 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Suzuki Wagon thế hệ mới có giá 142 triệu đồng
+2019-11-23 03:37:32,862 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Toyota Yaris Cross nâng gầm cao giống Mitsubishi Xpander Cross
+2019-11-23 03:37:33,248 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Apple công bố khuôn viên xanh mới ở Mỹ
+2019-11-23 03:37:33,408 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Google hạn chế quảng cáo nhắm vào chính trị
+2019-11-23 03:37:33,451 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Microsoft tích hợp Gmail, Google Drive và Google Calendar vào Outlook.com
+2019-11-23 03:37:33,492 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Galaxy Fold: Từ ý tưởng đến kiệt tác
+2019-11-23 03:37:52,762 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://dantri.com.vn/
+2019-11-23 03:38:08,726 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bé gái 13 tuổi từ Thanh Hóa ra Hà Nội tìm việc, nằm lả ở bến xe
+2019-11-23 03:38:08,768 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quốc hội phê chuẩn việc miễn nhiệm Bộ trưởng Y tế
+2019-11-23 03:38:08,816 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bí thư Hà Nam yêu cầu công an làm rõ vụ nghi phạm tử vong khi bị tạm giam
+2019-11-23 03:38:08,857 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Gỡ tấm biển “Đường Park Hang Seo” ở Sài Gòn
+2019-11-23 03:38:08,896 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quảng Trị truy điệu và an táng 4 hài cốt liệt sĩ
+2019-11-23 03:38:08,936 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ban hành cáo trạng vụ xe container đâm Innova đi lùi trên cao tốc
+2019-11-23 03:38:08,979 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Kết luận thanh tra Lã Vọng: Xử nghiêm sai phạm tại Sở KH-ĐT Hà Nội
+2019-11-23 03:38:09,020 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tài xế tông trúng 2 cô giáo trong ngày 20/11 đã ra đầu thú
+2019-11-23 03:38:09,057 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bến xe xây xong mà chưa được khai thác vì vướng thủ tục
+2019-11-23 03:38:17,671 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chủ tịch Ủy ban tình báo Hạ viện: "Ông Trump còn tệ hơn cả Nixon"
+2019-11-23 03:38:17,715 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lo ngại luật biển bị đe dọa, Pháp tăng cường điều tàu tới Biển Đông
+2019-11-23 03:38:17,757 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thủ tướng bị truy tố, Israel lâm vào thế rối ren
+2019-11-23 03:38:17,798 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cựu cố vấn cấp cao Nhà Trắng "bật lại" Tổng thống Trump
+2019-11-23 03:38:17,835 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vụ "cướp xác" hy hữu của hàng chục tài xế xe ôm ở Indonesia
+2019-11-23 03:38:17,873 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trung Quốc điều tàu theo dõi tàu chiến Mỹ đi qua Biển Đông
+2019-11-23 03:38:17,913 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hàn Quốc lập đường dây nóng cảnh sát bảo vệ cô dâu ngoại quốc bị bạo hành
+2019-11-23 03:38:17,954 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sai lầm khiến tàu sân bay phát xít Nhật phát nổ bởi một quả ngư lôi
+2019-11-23 03:38:17,994 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Anh bắt nghi phạm vụ 39 người Việt thiệt mạng trong xe tải
+2019-11-23 03:38:26,210 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cơn thèm ăn của người Trung Quốc đang giết chết lá phổi xanh của thế giới -Amazon?
+2019-11-23 03:38:26,266 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bộ Giao thông phải báo cáo Thủ tướng về việc thu phí không dừng
+2019-11-23 03:38:26,307 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vỡ quy hoạch điện mặt trời, dự báo chưa chuẩn: Bộ Công Thương cần rút kinh nghiệm?
+2019-11-23 03:38:26,348 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quảng Trị khởi công xây dựng Nhà máy nhiệt điện hơn 55 ngàn tỷ đồng
+2019-11-23 03:38:26,390 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nghi vấn lộ thông tin 2 triệu khách hàng của một ngân hàng Việt
+2019-11-23 03:38:26,439 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Điều đặc biệt ở 4 mẫu xe mà doanh nghiệp tặng ông Park Hang Seo
+2019-11-23 03:38:26,480 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hàn Quốc muốn bán thêm nhiều nho, lê, táo, nhân sâm…sang Việt Nam
+2019-11-23 03:38:35,910 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Quỳnh Trần JP và bé Sa về Việt Nam tham gia talkshow cùng NSND Hồng Vân
+2019-11-23 03:38:35,951 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Người đẹp Anh mặc gợi cảm bế bụng bầu chụp hình
+2019-11-23 03:38:35,991 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : “Phó Thiên Lôi” Duy Nam: “4 năm đá sân Thiên Đình chưa từng nghĩ phải nghỉ hưu”
+2019-11-23 03:38:36,035 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Victoria's Secret hủy show nội y đình đám
+2019-11-23 03:38:36,079 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Song Hye Kyo chụp ảnh cùng người khác phái nhân dịp sinh nhật
+2019-11-23 03:38:36,122 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Kim Kardashian tiết lộ lối sống lành mạnh
+2019-11-23 03:38:36,161 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hoàng Thùy đặt mục tiêu giành vương miện Hoa hậu Hoàn vũ
+2019-11-23 03:38:36,200 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hồ Ngọc Hà ôm Kim Lý ngồi xem Lệ Quyên diễn thời trang
+2019-11-23 03:38:44,172 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Giá vé vào sân xem U22 Việt Nam rẻ nhất chỉ... 20.000 đồng
+2019-11-23 03:38:44,219 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Việt Nam rạng rỡ lên đường dự SEA Games 30
+2019-11-23 03:38:44,258 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đội tuyển nữ Việt Nam sang Philippines chung chuyến bay với U22 Việt Nam
+2019-11-23 03:38:44,301 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Báo Thái Lan đưa tin Muangthong muốn chiêu mộ Quế Ngọc Hải
+2019-11-23 03:38:44,337 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ngôi sao Malaysia... vui mừng vì không tham dự SEA Games
+2019-11-23 03:38:44,376 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : HLV Park Hang Seo trải lòng trên báo Hàn Quốc trước SEA Games
+2019-11-23 03:38:44,419 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Với HLV Park Hang Seo, đội tuyển Việt Nam “dám chơi lớn”
+2019-11-23 03:38:44,461 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Việt Nam đổ bộ Philippines, sẵn sàng “săn vàng” SEA Games 30
+2019-11-23 03:38:44,501 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : HLV U22 Singapore gây sốc khi triệu tập hai con trai dự SEA Games 30
+2019-11-23 03:38:52,525 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cận cảnh "lô cốt" sới bạc ở Vĩnh Phúc vừa bị cảnh sát triệt phá, bắt 52 người
+2019-11-23 03:38:52,571 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cả gia đình đi bẫy thú rừng xông vào trạm bảo vệ rừng tấn công cán bộ
+2019-11-23 03:38:52,621 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đề nghị truy tố nguyên Phó phòng Kinh tế - hạ tầng huyện nhận hối lộ
+2019-11-23 03:38:52,662 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cảnh sát giải cứu một cụ bà bị hàng xóm dùng dao khống chế
+2019-11-23 03:38:52,715 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bắt giữ nghi phạm đâm gục nam sinh lớp 10 khi vừa rời cổng trường
+2019-11-23 03:38:52,768 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hàng trăm cây cần sa được trồng trong... rẫy cà phê
+2019-11-23 03:38:52,814 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Kết luận ban đầu vụ can phạm tử vong trong thời gian tạm giam
+2019-11-23 03:39:00,742 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chiều nay, công bố sách giáo khoa lớp 1 mới
+2019-11-23 03:39:00,786 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 106 nhân tài từ nước ngoài về dự Diễn đàn Trí thức trẻ Việt Nam toàn cầu 2
+2019-11-23 03:39:00,855 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phụ huynh bức xúc vì nhà trường “bắt tay” Hội phụ huynh làm công trình xã hội hóa
+2019-11-23 03:39:00,901 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Công bố sách giáo khoa lớp 1 mới: NXB Giáo dục chiếm ưu thế
+2019-11-23 03:39:00,946 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : “Thành thạo ứng dụng CNTT là “chìa khoá vàng” để thành công”
+2019-11-23 03:39:00,988 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Người thầy nặng lòng với giáo dục vùng cao
+2019-11-23 03:39:09,122 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 50% các loại bệnh ung thư có thể phòng ngừa
+2019-11-23 03:39:09,208 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vietnamnet.vn/
+2019-11-23 03:39:24,557 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 03:39:24,607 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.nguoiduatin.vn
+2019-11-23 03:39:36,172 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 03:39:36,210 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : http://kenh14.vn/
+2019-11-23 03:40:02,972 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 03:40:03,030 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://soha.vn/
+2019-11-23 03:40:12,467 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 03:40:12,506 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vtc.vn/
+2019-11-23 03:40:21,685 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 03:40:21,723 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://congly.vn/
+2019-11-23 03:40:49,424 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 03:40:49,475 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.tienphong.vn/
+2019-11-23 03:41:02,392 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 03:41:02,435 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tintuconline.com.vn
+2019-11-23 03:41:19,992 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 03:41:20,081 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vnexpress.net
+2019-11-23 03:44:59,489 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://news.zing.vn/
+2019-11-23 03:47:56,468 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tuoitre.vn
+2019-11-23 03:54:09,397 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://24h.com.vn
+2019-11-23 04:07:15,401 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://thanhnien.vn/
+2019-11-23 04:10:26,966 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://dantri.com.vn/
+2019-11-23 04:11:09,015 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nhã Phương "rục rịch" trở lại sau khi sinh con
+2019-11-23 04:11:41,235 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vietnamnet.vn/
+2019-11-23 04:11:54,728 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:11:54,777 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.nguoiduatin.vn
+2019-11-23 04:12:06,904 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:12:06,943 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : http://kenh14.vn/
+2019-11-23 04:12:14,738 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:12:14,778 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://soha.vn/
+2019-11-23 04:12:24,304 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:12:24,345 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vtc.vn/
+2019-11-23 04:12:34,551 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:12:34,590 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://congly.vn/
+2019-11-23 04:13:02,003 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:13:02,044 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.tienphong.vn/
+2019-11-23 04:13:15,072 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:13:15,111 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tintuconline.com.vn
+2019-11-23 04:13:31,385 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:13:31,462 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vnexpress.net
+2019-11-23 04:15:00,256 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cựu thủ quân Tottenham lo Kane theo chân Pochettino
+2019-11-23 04:15:00,293 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tottenham treo thưởng lớn cho Mourinho
+2019-11-23 04:15:00,329 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Philippines đặt chỉ tiêu 180 HC vàng ở SEA Games 30
+2019-11-23 04:15:00,365 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Indonesia thưởng 14.000 USD cho HC vàng SEA Games
+2019-11-23 04:15:00,403 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cú gạt bóng 'nghiệt ngã' của á quân Mayakoba Golf Classic
+2019-11-23 04:16:21,103 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Học sinh lớp 7 sáng chế mô hình hãm thang máy
+2019-11-23 04:17:11,492 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://news.zing.vn/
+2019-11-23 04:20:15,355 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tuoitre.vn
+2019-11-23 04:26:00,511 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://24h.com.vn
+2019-11-23 04:26:15,279 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chấn động vụ sát hại con gái nữ diễn viên nổi tiếng: Thi thể không có...
+2019-11-23 04:29:37,215 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Huy động hàng trăm công an truy bắt đối tượng khống chế nữ tài xế đòi...
+2019-11-23 04:39:26,081 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://thanhnien.vn/
+2019-11-23 04:41:28,773 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 5 sai lầm khiến chế độ ăn kiêng keto mất tác dụng và cách khắc phục
+2019-11-23 04:42:37,641 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://dantri.com.vn/
+2019-11-23 04:42:55,690 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đốt than sưởi ấm, cả nhà nhập viện, sản phụ tử vong
+2019-11-23 04:43:21,175 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hoa hậu thế giới có con nhờ người mang thai hộ
+2019-11-23 04:43:55,420 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vietnamnet.vn/
+2019-11-23 04:44:08,938 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:44:08,984 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.nguoiduatin.vn
+2019-11-23 04:44:21,128 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:44:21,166 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : http://kenh14.vn/
+2019-11-23 04:44:45,715 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:44:45,756 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://soha.vn/
+2019-11-23 04:44:54,855 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:44:54,893 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vtc.vn/
+2019-11-23 04:45:21,851 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:45:21,891 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://congly.vn/
+2019-11-23 04:45:49,874 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:45:49,912 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.tienphong.vn/
+2019-11-23 04:46:07,891 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:46:07,930 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tintuconline.com.vn
+2019-11-23 04:46:23,054 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 04:46:23,140 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vnexpress.net
+2019-11-23 04:50:14,921 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://news.zing.vn/
+2019-11-23 04:53:13,324 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tuoitre.vn
+2019-11-23 04:58:03,880 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://24h.com.vn
+2019-11-23 04:59:01,101 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vận động nữ phó phòng ở Cà Mau du học nước ngoài trở về nước
+2019-11-23 05:00:13,327 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Loài bé tẹo hôi hám ai cũng sợ lại cho ra loại sữa siêu bổ dưỡng cho...
+2019-11-23 05:00:13,376 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Siêu giàu có nhưng Dubai lại lo ngại thừa khu ăn chơi mua sắm
+2019-11-23 05:11:31,888 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://thanhnien.vn/
+2019-11-23 05:15:10,420 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://dantri.com.vn/
+2019-11-23 05:15:45,496 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bộ trưởng có quyền cho thuộc cấp từ chức
+2019-11-23 05:16:35,107 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : GS Hồ Ngọc Đại: "Tôi sẵn sàng đối thoại về Chương trình và sách công nghệ giáo dục"
+2019-11-23 05:16:44,695 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vietnamnet.vn/
+2019-11-23 05:17:00,609 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:17:00,657 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.nguoiduatin.vn
+2019-11-23 05:17:11,633 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:17:11,670 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : http://kenh14.vn/
+2019-11-23 05:17:41,739 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:17:41,814 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://soha.vn/
+2019-11-23 05:17:53,767 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:17:53,807 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vtc.vn/
+2019-11-23 05:18:23,003 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:18:23,046 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://congly.vn/
+2019-11-23 05:18:50,378 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:18:50,419 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.tienphong.vn/
+2019-11-23 05:19:01,459 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:19:01,511 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tintuconline.com.vn
+2019-11-23 05:19:52,090 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:19:52,182 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vnexpress.net
+2019-11-23 05:21:35,454 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Thái Lan chỉ còn 19 cầu thủ dự SEA Games
+2019-11-23 05:21:35,494 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Malaysia công bố danh sách dự SEA Games
+2019-11-23 05:22:11,164 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mẹo chọn rau củ ăn an toàn
+2019-11-23 05:23:46,419 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://news.zing.vn/
+2019-11-23 05:25:04,274 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cuộc săn nai sừng tấm của bầy sói
+2019-11-23 05:26:46,009 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tuoitre.vn
+2019-11-23 05:32:27,446 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://24h.com.vn
+2019-11-23 05:45:23,635 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://thanhnien.vn/
+2019-11-23 05:49:19,636 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://dantri.com.vn/
+2019-11-23 05:50:50,340 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Dấu hiệu căn bệnh “khó nói” 40% chị em phụ nữ dễ mắc phải
+2019-11-23 05:50:50,453 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vietnamnet.vn/
+2019-11-23 05:51:04,859 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:51:04,907 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.nguoiduatin.vn
+2019-11-23 05:51:16,261 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:51:16,301 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : http://kenh14.vn/
+2019-11-23 05:51:23,470 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:51:23,506 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://soha.vn/
+2019-11-23 05:51:32,968 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:51:33,004 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vtc.vn/
+2019-11-23 05:51:42,003 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:51:42,041 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://congly.vn/
+2019-11-23 05:52:09,521 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:52:09,560 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.tienphong.vn/
+2019-11-23 05:52:28,109 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:52:28,150 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tintuconline.com.vn
+2019-11-23 05:52:42,529 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 05:52:42,615 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vnexpress.net
+2019-11-23 05:56:32,387 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://news.zing.vn/
+2019-11-23 05:56:56,215 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : TT Trump: Không có tôi, Hong Kong đã có thể bị xóa sổ trong 14 phút
+2019-11-23 05:56:56,254 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cô gái mang thai bị đánh tới tấp giữa quán cà phê
+2019-11-23 05:57:12,114 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vẻ quyến rũ của thiên thần nội y hai con
+2019-11-23 05:57:27,768 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tiếp tục truy tố 2 tài xế vụ xe container đâm Innova đi lùi
+2019-11-23 05:58:21,613 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cô gái mang thai bị đấm đá tới tấp giữa quán cà phê
+2019-11-23 05:59:50,907 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tuoitre.vn
+2019-11-23 06:04:51,757 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://24h.com.vn
+2019-11-23 06:14:16,840 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xác nhận: Galaxy S11 5G sẽ hỗ trợ sạc 25W
+2019-11-23 06:15:43,396 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Siêu SUV Bentley Bentayga sẽ có thêm tùy chọn hàng ghế thứ 3 với 07...
+2019-11-23 06:15:43,889 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mercedes-AMG GLS 63 chính thức ra mắt, sở hữu động cơ V8 mạnh 625 mã lực
+2019-11-23 06:18:17,606 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://thanhnien.vn/
+2019-11-23 06:19:39,086 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nguyễn Trần Duy Nhất knock out đối thủ Nhật Bản trong lần tái xuất ONE Championship
+2019-11-23 06:21:46,177 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://dantri.com.vn/
+2019-11-23 06:22:36,528 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Việt Nam sẽ xây dựng sân bay gần 6.000 tỷ đồng “sát nách” Trung Quốc
+2019-11-23 06:22:36,606 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đường sắt Lào Cai - Hà Nội - Hải Phòng: Có liên quan đến kế hoạch "Vành đai - Con đường"?
+2019-11-23 06:23:34,909 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bất ngờ tính năng "khóa" ung thư của 3 loại thuốc viêm khớp
+2019-11-23 06:23:34,947 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Công an Đà Nẵng điều tra vụ 2 sản phụ tử vong nghi do thuốc gây tê
+2019-11-23 06:23:34,990 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Một số cơ sở y tế đã được đầu tư mới nhưng phải cải tạo lại vì bất hợp lý
+2019-11-23 06:23:35,079 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vietnamnet.vn/
+2019-11-23 06:23:48,070 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:23:48,117 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.nguoiduatin.vn
+2019-11-23 06:23:59,320 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:23:59,359 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : http://kenh14.vn/
+2019-11-23 06:24:43,534 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:24:43,569 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://soha.vn/
+2019-11-23 06:24:55,283 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:24:55,335 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vtc.vn/
+2019-11-23 06:25:04,208 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:25:04,243 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://congly.vn/
+2019-11-23 06:25:31,745 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:25:31,780 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.tienphong.vn/
+2019-11-23 06:25:43,571 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:25:43,608 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tintuconline.com.vn
+2019-11-23 06:26:17,840 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:26:17,930 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vnexpress.net
+2019-11-23 06:27:50,214 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Icardi nối dài mạch trận thăng hoa
+2019-11-23 06:29:28,564 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những thứ không nên sử dụng khi lái xe
+2019-11-23 06:29:42,028 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hai nguyên nhân đạp nhầm chân ga khi lái ôtô
+2019-11-23 06:30:09,615 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://news.zing.vn/
+2019-11-23 06:30:25,327 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vải địa kỹ thuật rách toạc ở vòng xoay cao tốc 34.500 tỷ
+2019-11-23 06:30:33,282 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cảnh sát Anh bắt một người đàn ông vụ 39 nạn nhân Việt trong xe tải
+2019-11-23 06:30:40,681 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Làm nội thất chung cư như quán cà phê cho cuộc sống độc thân
+2019-11-23 06:30:41,152 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chi hàng trăm nghìn USD học cách tạo dáng, cầm nĩa và cưỡi ngựa
+2019-11-23 06:30:41,190 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Khuyến mãi Black Friday kết thúc trước cả tuần
+2019-11-23 06:30:48,782 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cuộc sống giàu sang, không con cái của Trương Vệ Kiện
+2019-11-23 06:30:48,834 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lương Mạnh Hải: 'Tăng Thanh Hà không còn như xưa'
+2019-11-23 06:30:56,288 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Philippines gọi Stephan Schrock dự SEA Games 30
+2019-11-23 06:30:56,327 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : HLV Lampard: 'Tôi sẽ không bao giờ dẫn dắt Tottenham'
+2019-11-23 06:30:56,489 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Icardi và Di Maria ghi bàn giúp PSG đánh bại Lille
+2019-11-23 06:30:56,530 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Marco Reus ghi bàn giúp Dortmund thoát thua
+2019-11-23 06:30:56,625 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vì sao châu Âu chưa phải vùng đất màu hồng với Quang Hải?
+2019-11-23 06:30:56,675 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ông Park Hang-seo về khách sạn Jen Manila trễ 1 tiếng
+2019-11-23 06:30:56,760 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thái Lan còn 19 cầu thủ cho SEA Games 30
+2019-11-23 06:31:04,551 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cảnh sát 4 lần kết hôn thuê người giết vợ giá 25.000 USD
+2019-11-23 06:31:11,504 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Wow - tín hiệu của người ngoài hành tinh gửi đến Trái Đất?
+2019-11-23 06:31:42,357 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xe bán tải đang chạy đột ngột văng bánh ra đường
+2019-11-23 06:31:42,555 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : SUV Kia Seltos có mặt tại Mỹ, đủ công nghệ hỗ trợ lái
+2019-11-23 06:31:58,087 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ký túc xá đại học tăng giá 1.500% gây sốc ở Ấn Độ
+2019-11-23 06:31:58,136 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 19 năm tù cho cựu sĩ quan CIA bán mình cho Trung Quốc
+2019-11-23 06:32:05,971 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vì sao có rất ít phi công là phụ nữ?
+2019-11-23 06:32:06,128 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tiểu thương chợ Bình Điền lao đao vì giá lợn tăng vọt
+2019-11-23 06:32:13,837 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thanh Bình thân thiết với mẹ của Ngọc Lan sau ly hôn
+2019-11-23 06:33:07,258 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tuoitre.vn
+2019-11-23 06:35:08,525 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hơn 40 trường học ở Mỹ đóng cửa dài ngày vì xuất hiện bệnh lạ
+2019-11-23 06:35:20,595 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Gần 4.000 video về phòng chống bạo lực tình dục với phụ nữ
+2019-11-23 06:38:21,490 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://24h.com.vn
+2019-11-23 06:41:32,905 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Y tá lẳng lơ chuyên gài bẫy đàn ông trên phim, ngoài đời nhận nhiều...
+2019-11-23 06:41:33,281 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sao nữ bị ép đóng cảnh nhạy cảm trong "Trò chơi vương quyền"
+2019-11-23 06:41:40,497 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : "Nam Tào" Xuân Bắc: Không có Táo quân thì Tết vẫn bình thường!
+2019-11-23 06:43:13,603 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vang dội võ sĩ Duy Nhất: Tung cước sấm sét, knock-out siêu sao Nhật...
+2019-11-23 06:47:44,723 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bạn sẽ thực sự thích thú với AirPods Pro 2 trong video mới nhất?
+2019-11-23 06:47:45,113 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xôn xao thông tin 1 ngân hàng TMCP lộ dữ liệu 2 triệu khách hàng vào tay...
+2019-11-23 06:51:27,171 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://thanhnien.vn/
+2019-11-23 06:52:27,147 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Con nghiện cướp giật điện thoại của du khách Trung Quốc
+2019-11-23 06:52:27,187 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nữ tài xế taxi bị khống chế, đòi 200 triệu tiền chuộc
+2019-11-23 06:52:27,233 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cán bộ bảo vệ rừng ở Thừa Thiên - Huế bị tấn công ngay trụ sở
+2019-11-23 06:52:27,276 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : CSGT Bình Thuận bắt rượu ngoại nhập lậu
+2019-11-23 06:52:27,315 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : TP.HCM diễn tập khu vực sân bay Tân Sơn Nhất, nhà thờ Đức Bà
+2019-11-23 06:52:27,358 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chất lượng không khí được đo như thế nào?
+2019-11-23 06:53:05,004 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nghệ sĩ nói về việc dừng Táo quân: ‘Là mất mát, là nghẹn ngào, là thương nhớ'
+2019-11-23 06:53:05,074 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 'Vợ ba' nhận 3 đề cử danh giá tại giải Tinh thần Độc lập của Mỹ
+2019-11-23 06:53:05,128 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : HLV Mai Đức Chung: ‘Ông Park chúc tuyển nữ may mắn để bảo vệ HCV SEA Games’
+2019-11-23 06:53:05,166 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lịch thi đấu, lịch phát sóng Ngoại hạng Anh đêm nay 23.11: Man City không dễ bắt nạt Chelsea
+2019-11-23 06:53:05,538 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hơn 1.000 tỉ đồng xây dựng khu văn hóa Công tử Bạc Liêu
+2019-11-23 06:55:04,327 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://dantri.com.vn/
+2019-11-23 06:55:55,568 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : "Núi tiền" bị quên lãng trong nhà kho 5 năm, lấy ra đem bán "hốt" 37 tỷ đồng về nhà
+2019-11-23 06:56:53,587 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vietnamnet.vn/
+2019-11-23 06:57:07,337 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:57:07,385 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.nguoiduatin.vn
+2019-11-23 06:57:19,174 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:57:19,212 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : http://kenh14.vn/
+2019-11-23 06:57:46,932 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:57:46,980 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://soha.vn/
+2019-11-23 06:57:56,282 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:57:56,318 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vtc.vn/
+2019-11-23 06:58:07,984 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:58:08,022 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://congly.vn/
+2019-11-23 06:58:35,433 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:58:35,469 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.tienphong.vn/
+2019-11-23 06:58:46,987 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:58:47,032 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tintuconline.com.vn
+2019-11-23 06:59:19,079 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 06:59:19,154 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vnexpress.net
+2019-11-23 07:00:18,043 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Linh dương sừng kiếm tự nộp mạng cho sư tử
+2019-11-23 07:00:18,590 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Singapore bỏ tù người bán hàng xa xỉ cho Triều Tiên
+2019-11-23 07:00:18,632 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trump nói đã ngăn Hong Kong khỏi 'bị xóa sổ trong 14 phút'
+2019-11-23 07:01:27,161 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nữ sinh 14 tuổi là chủ tịch hội sinh viên trường cao đẳng
+2019-11-23 07:02:05,945 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đi thuê nhà, đôi vợ chồng bị quay lén
+2019-11-23 07:02:47,276 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Obama cho rằng công nghệ gây 'bất bình đẳng'
+2019-11-23 07:03:41,903 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những màn tông vào ôtô ăn vạ đỉnh cao
+2019-11-23 07:03:41,992 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://news.zing.vn/
+2019-11-23 07:03:57,440 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phá dỡ biệt thự xây trái phép trên đồi ở Hạ Long
+2019-11-23 07:04:04,989 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trung Quốc bị tố hứa lèo về 8,6 tỷ USD
+2019-11-23 07:04:05,383 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Biểu tình bùng nổ vì ký túc xá đại học tăng giá 1.500% ở Ấn Độ
+2019-11-23 07:04:05,438 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 19 năm tù phạt cựu sĩ quan CIA bán mình cho Trung Quốc
+2019-11-23 07:04:20,980 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Minh Tú - Mâu Thủy tranh cãi khi hướng dẫn thí sinh
+2019-11-23 07:04:21,109 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Minh Tú chê Thúy Vân như ‘tô súp thiếu muối'
+2019-11-23 07:04:28,612 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những gương mặt vàng của thể thao Việt Nam tại SEA Games 30
+2019-11-23 07:04:28,790 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : HLV Mai Đức Chung: 'Thái Lan là đối thủ lớn nhất của chúng ta'
+2019-11-23 07:04:28,905 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tuyển thủ U22 Indonesia muốn giành HCV SEA Games 30
+2019-11-23 07:04:28,943 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Việt Nam ở cùng nơi với đối thủ trực tiếp tại SEA Games
+2019-11-23 07:04:29,031 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tuyển nữ Việt Nam được hứa thưởng ngay sau mỗi trận thắng
+2019-11-23 07:04:36,901 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vì sao Nhật Kim Anh quyết giành quyền nuôi con?
+2019-11-23 07:04:36,975 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cảnh sát 4 lần kết hôn thuê người giết vợ
+2019-11-23 07:04:37,015 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bị phát tán clip đang tắm, đòi bồi thường 2 tỷ
+2019-11-23 07:04:44,717 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phụ huynh bức xúc bữa ăn 20.000 đồng chỉ có đậu phụ, cá viên
+2019-11-23 07:04:44,754 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tại sao muối có thể làm tan băng tuyết?
+2019-11-23 07:04:52,300 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bác sĩ làm rách đầu bé sơ sinh khi mổ đẻ
+2019-11-23 07:04:52,350 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Điều gì xảy ra nếu bạn nhìn thẳng vào Mặt Trời?
+2019-11-23 07:04:59,621 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nụ cười Thái - quốc bảo chiếm trọn cảm tình của du khách
+2019-11-23 07:05:15,438 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : UX 300e - xe điện đầu tiên của Lexus ra mắt thế giới
+2019-11-23 07:06:31,895 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thử dán sticker có hình AirPods lên mặt đường để chơi khăm
+2019-11-23 07:06:39,490 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tuoitre.vn
+2019-11-23 07:08:08,927 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tại sao Victoria's Secret hủy show nội y đình đám khiến bao người sốc?
+2019-11-23 07:09:06,178 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cứ 5 bạn trẻ có 4 bạn lười vận động
+2019-11-23 07:12:38,058 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://24h.com.vn
+2019-11-23 07:13:42,370 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cách Thành Cát Tư Hãn biến quân Mông Cổ thành nỗi khiếp sợ của mọi...
+2019-11-23 07:13:42,821 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Video: Bức xúc cảnh dùng máy xúc giết bò dã man ở Ấn Độ
+2019-11-23 07:17:12,905 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tin thể thao HOT 23/11: Djokovic nhận cú sốc ở Davis Cup
+2019-11-23 07:18:32,074 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tin thể thao HOT 23/11: Djokovic nhận cú sốc, Nadal hú hồn ở Davis Cup
+2019-11-23 07:24:21,323 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tổng hợp những câu nói "kinh điển" trong chương trình Táo Quân
+2019-11-23 07:25:51,574 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://thanhnien.vn/
+2019-11-23 07:26:23,967 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mạnh tay với lô cốt
+2019-11-23 07:26:24,006 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hacker ồ ạt tấn công dữ liệu người dùng
+2019-11-23 07:26:24,046 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : TP.HCM sẽ điều chỉnh giá đất mỗi năm tăng 5 - 7%?
+2019-11-23 07:26:24,148 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bế tắc kéo dài tại Hồng Kông
+2019-11-23 07:26:24,541 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Phạm Công Danh ‘chịu’ thay 901 tỉ đồng cho Hứa Thị Phấn
+2019-11-23 07:26:24,604 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sụt lún không có dấu hiệu ngừng lại
+2019-11-23 07:26:24,644 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Không xử nghiêm cán bộ, sao nói được người dân?
+2019-11-23 07:26:24,683 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bà Nguyễn Thị Kim Tiến rời ‘ghế nóng’ Bộ trưởng Y tế
+2019-11-23 07:26:50,184 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : TP.HCM: Truy bắt băng nhóm đòi nợ chém gần đứt lìa cánh tay một người dân
+2019-11-23 07:27:03,247 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 10 cái nhất của môn bóng đá nam tại các kỳ SEA Games
+2019-11-23 07:27:03,288 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đêm điên rồ ở Dortmund, bị dẫn trước 3 bàn vẫn gượng dậy được
+2019-11-23 07:29:12,215 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những tính năng cao cấp trên Mitsubishi Xpander Cross so với bản thường
+2019-11-23 07:29:40,599 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://dantri.com.vn/
+2019-11-23 07:30:20,235 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chính phủ sắp quyết định mức lương mới, thí điểm cơ chế tiền thưởng
+2019-11-23 07:30:30,082 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ngọc Châu mang trang phục dân tộc vô cùng gợi cảm đến Hoa hậu Siêu quốc gia
+2019-11-23 07:30:40,125 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Thái Lan mất trụ cột ngay trước thềm SEA Games
+2019-11-23 07:30:40,164 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đập tan tin đồn cưới hỏi, C.Ronaldo khẳng định vẫn là “trai chưa vợ”
+2019-11-23 07:30:40,203 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : UEFA bốc thăm xác định 4 bảng đấu play-off tranh 4 suất cuối cùng tham dự Euro 2020
+2019-11-23 07:30:40,245 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cháy vé trận đại chiến U22 Việt Nam - U22 Thái Lan ở SEA Games
+2019-11-23 07:31:00,374 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cô giáo 16 năm là “mẹ hiền” của trẻ chuyên biệt
+2019-11-23 07:31:09,663 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vietnamnet.vn/
+2019-11-23 07:31:31,217 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 07:31:31,275 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.nguoiduatin.vn
+2019-11-23 07:31:46,101 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 07:31:46,140 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : http://kenh14.vn/
+2019-11-23 07:31:56,962 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 07:31:57,006 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://soha.vn/
+2019-11-23 07:32:10,403 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 07:32:10,441 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vtc.vn/
+2019-11-23 07:32:20,386 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 07:32:20,426 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://congly.vn/
+2019-11-23 07:32:48,077 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 07:32:48,119 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.tienphong.vn/
+2019-11-23 07:33:01,667 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 07:33:01,708 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tintuconline.com.vn
+2019-11-23 07:33:18,690 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 07:33:18,772 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vnexpress.net
+2019-11-23 07:33:46,116 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bài toán lớp 7 của Hungary
+2019-11-23 07:34:06,778 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Putin yêu cầu phát triển nhiều vũ khí hiện đại
+2019-11-23 07:34:20,726 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nhiều cửa hàng đua giảm giá trước Black Friday
+2019-11-23 07:34:34,345 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trương Ngọc Ánh chấm giải Bông Sen Vàng
+2019-11-23 07:34:47,783 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : PSG 2-0 Lille
+2019-11-23 07:34:48,082 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mourinho: 'Tôi luôn khiêm tốn'
+2019-11-23 07:34:48,124 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sân thi đấu ngổn ngang trước thềm SEA Games 2019
+2019-11-23 07:34:48,163 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Việt Nam có mặt tại Manila
+2019-11-23 07:35:38,211 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Dùng tiền phúng điếu cha mẹ làm đường làng
+2019-11-23 07:36:05,685 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chuột hamster kẹt đầu vào cổ chai vì tham ăn
+2019-11-23 07:37:10,262 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://news.zing.vn/
+2019-11-23 07:37:34,061 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Anh bỏ tù 2 thanh niên Italy hiếp dâm cô gái trẻ trong hộp đêm
+2019-11-23 07:37:50,492 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tiểu Vy, Đỗ Mỹ Linh và dàn người đẹp tiễn Lương Thùy Linh tại sân bay
+2019-11-23 07:37:50,544 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mẹ Ngọc Lan khen Thanh Bình sau khi ly hôn con gái
+2019-11-23 07:37:58,614 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nhà vô địch châu Á chưa nghĩ đến việc giải nghệ sau SEA Games 30
+2019-11-23 07:37:58,794 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Neymar bị thay ra giữa trận sau màn trình diễn tệ hại
+2019-11-23 07:38:15,164 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 12 dấu hiệu của đứa trẻ chưa ngoan
+2019-11-23 07:40:12,982 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tuoitre.vn
+2019-11-23 07:41:08,132 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Rộ tin nổ tàu ngầm hạt nhân trên vùng biển ngoài khơi Trung Quốc
+2019-11-23 07:46:30,493 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://24h.com.vn
+2019-11-23 07:49:47,005 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Số phận sao nhí Việt: Kẻ chạy xe ôm bán hàng online, người thành phi...
+2019-11-23 07:54:34,093 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những thứ ảnh hưởng tới trí thông minh của trẻ từ trong...
+2019-11-23 07:56:09,913 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vụ cháy tàu cá ở Hàn Quốc: Quê nhà thắt lòng chờ tin thuyền viên mất...
+2019-11-23 08:00:55,708 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://thanhnien.vn/
+2019-11-23 08:01:33,656 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thủ tướng phản hồi hội thảo du lịch do Báo Thanh Niên tổ chức
+2019-11-23 08:01:33,713 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mật vụ Mỹ trả nhiều tiền cho cơ sở của ông Trump
+2019-11-23 08:01:33,750 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mỹ thông qua dự luật chi tiêu tạm thời
+2019-11-23 08:01:34,120 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 'Sặc' vì cháy rừng, Sydney rơi vào nhóm thành phố ô nhiễm nhất thế giới
+2019-11-23 08:01:34,158 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những chân vịt có giá hàng trăm triệu đồng/cái được gia công như thế nào?
+2019-11-23 08:02:07,123 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lịch thi đấu, lịch phát sóng Serie A hôm nay 23.11: Juventus có 'nhu cầu' rửa hận
+2019-11-23 08:02:42,907 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bị Trung Quốc 'chê', than chất núi tồn kho
+2019-11-23 08:02:59,795 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trùng điệp dự luật Mỹ liên quan Biển Đông
+2019-11-23 08:03:00,114 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tuyển dụng đặc cách đối với giáo viên
+2019-11-23 08:03:00,264 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nhà Khoa học ĐH Duy Tân được trao Giải KHCN và Đổi mới ASEAN - Hàn Quốc
+2019-11-23 08:03:14,468 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : [TRỰC TIẾP] 12 thí sinh vào vòng chung kết thi Báo cáo viên giỏi toàn quốc
+2019-11-23 08:04:09,351 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mazda CX-5 bản cao cấp nhất có gì xứng với giá 1,149 tỉ đồng?
+2019-11-23 08:04:09,901 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Oppo M1 sẽ là chip di động đầu tiên của Oppo
+2019-11-23 08:04:09,962 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tổng thống Donald Trump nhờ CEO Tim Cook hỗ trợ xây dựng mạng 5G ở Mỹ
+2019-11-23 08:04:31,120 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://dantri.com.vn/
+2019-11-23 08:05:02,060 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Triều Tiên chỉ trích Mỹ “phản bội”
+2019-11-23 08:05:02,107 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mỹ muốn Thổ Nhĩ Kỳ phá hủy “Rồng lửa” S-400 mua của Nga
+2019-11-23 08:05:11,335 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : PINACO và hành trình lan toả sứ mệnh "Năng lượng vượt trội - Dẫn lối thành công"
+2019-11-23 08:05:20,073 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cara Delevingne khoe eo săn chắc, "khóa môi" bạn thân trong sự kiện
+2019-11-23 08:05:38,003 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vị khách khống chế nữ tài xế taxi đưa lên núi, đòi tiền chuộc 200 triệu đồng
+2019-11-23 08:05:38,151 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mâu thuẫn từ “loa kẹo kéo”, em rể đoạt mạng anh vợ
+2019-11-23 08:05:38,201 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bắt đối tượng tàng trữ ma túy, phát hiện nhóm chuyên trộm cây cảnh giá trị
+2019-11-23 08:05:48,238 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : “Luật Giáo dục rất hay nhưng sẽ khó khăn khi triển khai?”
+2019-11-23 08:05:57,790 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vietnamnet.vn/
+2019-11-23 08:06:15,433 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:06:15,473 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.nguoiduatin.vn
+2019-11-23 08:06:29,223 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:06:29,259 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : http://kenh14.vn/
+2019-11-23 08:06:40,077 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:06:40,125 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://soha.vn/
+2019-11-23 08:07:06,412 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:07:06,451 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vtc.vn/
+2019-11-23 08:07:15,745 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:07:15,781 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://congly.vn/
+2019-11-23 08:07:43,438 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:07:43,482 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.tienphong.vn/
+2019-11-23 08:07:54,818 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:07:54,857 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tintuconline.com.vn
+2019-11-23 08:08:13,318 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:08:13,408 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vnexpress.net
+2019-11-23 08:09:00,590 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bolton nói bị Nhà Trắng chiếm tài khoản Twitter
+2019-11-23 08:09:00,631 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hầu tòa vì để ngực trần trong nhà
+2019-11-23 08:09:14,004 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : HUD Building Nha Trang đảm bảo chất lượng căn hộ bàn giao
+2019-11-23 08:09:14,573 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Startup ưu tiên tiết kiệm chi phí thiết bị công nghệ
+2019-11-23 08:09:14,611 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chủ dự án đất nền trái phép đồng loạt phá bỏ hạ tầng
+2019-11-23 08:09:28,324 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nhan sắc tuổi 16 của sao 'Diệp Vấn 4'
+2019-11-23 08:09:28,363 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nhã Phương khoe sắc 'gái một con'
+2019-11-23 08:09:28,400 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đồng hồ nữ giảm gần nửa giá
+2019-11-23 08:09:42,440 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lee Nguyễn về đội của Beckham
+2019-11-23 08:09:56,484 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tài suy luận của thám tử khiến kẻ hiếp dâm sa lưới
+2019-11-23 08:09:56,524 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Rút súng bắn chủ nợ ở phòng công chứng
+2019-11-23 08:10:08,510 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 32 sách giáo khoa lớp 1 mới được phê duyệt
+2019-11-23 08:10:34,767 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Con gái cứu mẹ nhờ gọi cảnh sát đặt bánh pizza
+2019-11-23 08:10:48,631 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nên đến sân bay trước mấy tiếng?
+2019-11-23 08:11:14,025 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tai nghe true wireless giá 11 triệu đồng của B&O
+2019-11-23 08:12:06,387 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://news.zing.vn/
+2019-11-23 08:12:23,025 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bất chấp lệnh cấm, Hà Nội vẫn trông giữ xe dưới gầm cầu
+2019-11-23 08:12:47,590 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lương Mạnh Hải: 'Tôi giảm 7 kg sau Hoa hậu giang hồ'
+2019-11-23 08:12:47,722 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tấn Beo: 'Tôi đã nhiều lần trả nợ cho Tấn Bo'
+2019-11-23 08:12:47,830 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 2019 - năm tăm tối nhất của đế chế nội y
+2019-11-23 08:12:56,007 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Jose Mourinho trở lại cùng khát vọng vô địch Premier League
+2019-11-23 08:13:04,263 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nữ tài xế taxi nghi bị cướp khống chế đòi tiền chuộc
+2019-11-23 08:13:21,014 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chiều dài của bộ phận nào trên cơ thể gấp 2,5 lần chu vi Trái Đất?
+2019-11-23 08:13:37,895 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bản dựng chiếc Galaxy S11 với thiết kế 5 camera độc đáo
+2019-11-23 08:13:37,935 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Galaxy S11 qua thiết kế 5 camera, màn hình đục lỗ
+2019-11-23 08:13:47,120 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xe sang Genesis G90 2020 sử dụng kiểu la-zăng có từ thập niên 90
+2019-11-23 08:14:28,800 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Thái Lan lên đường sang Philippines dự SEA Games 30
+2019-11-23 08:15:17,235 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tuoitre.vn
+2019-11-23 08:15:54,301 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chuyến xe văn minh giúp tôi chia sẻ những chuyến xe an toàn
+2019-11-23 08:16:09,822 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hoảng hồn phát hiện bên dưới trường học có 145 ngôi mộ
+2019-11-23 08:16:09,865 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mỹ quan ngại khi Trung Quốc điều tàu sân bay gây sức ép với bầu cử Đài Loan
+2019-11-23 08:16:09,911 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cô dâu Việt ở Hàn bị chồng đánh có quyền báo cảnh sát bằng tiếng Việt
+2019-11-23 08:16:09,953 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chủ tịch Cuba dắt các bộ trưởng vi hành
+2019-11-23 08:17:17,137 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thủ tướng đề nghị Bộ trưởng Giáo dục đối thoại về chương trình thực nghiệm
+2019-11-23 08:17:17,174 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mấy năm nay tôi tặng quà bác bảo vệ, lao công
+2019-11-23 08:17:17,242 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nhà khoa học trẻ ĐH Duy Tân được trao giải thưởng KHCN và đổi mới ASEAN - Hàn Quốc
+2019-11-23 08:21:06,422 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://24h.com.vn
+2019-11-23 08:21:21,523 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Việt Nam chính thức bước vào hành trình chinh phục ngôi vàng tại Sea Games 30
+2019-11-23 08:21:21,566 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cùng Pulppy rước chuột Thần tài, đón Tết an khang
+2019-11-23 08:21:21,603 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thẩm mỹ cùng chuyên gia Hàn Quốc ngay tại Việt Nam
+2019-11-23 08:21:21,665 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đua phí “0 đồng”, ngân hàng nào đang “được lòng” khách hàng nhất?
+2019-11-23 08:21:22,168 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nóng 24h qua: Bảng tên đường Park Hang-seo bất ngờ xuất hiện trên đường...
+2019-11-23 08:22:15,195 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Vụ 39 người Việt chết trong contaier: Người dân Anh đã quyên góp được...
+2019-11-23 08:22:15,623 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bất ngờ tìm thấy chất quan trọng cho sự sống trong thiên thạch đâm vào...
+2019-11-23 08:22:51,459 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chặn doanh nghiệp FDI núp bóng chiếm các khu đất nhạy cảm
+2019-11-23 08:22:51,863 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tỉ phú Thái thở phào vì đối thủ lớn bất ngờ "chia tay" Sabeco
+2019-11-23 08:23:07,775 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nguồn cung mới cho người sinh sống tại Thanh Xuân muốn chuyển đổi không...
+2019-11-23 08:23:22,664 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lập trình viên xây dựng Cộng Đồng Vận Chuyển giúp anh em tài xế có thu...
+2019-11-23 08:24:06,678 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ra album âm nhạc thì chẳng ai để ý, hotgirl ngủ gật cứ khoe dáng sexy...
+2019-11-23 08:24:43,763 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bị can vụ "môi giới mại dâm" tử vong trong trại tạm giam
+2019-11-23 08:28:13,347 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Việt Nam chính thức bước vào hành trình chinh phục ngôi vàng tại...
+2019-11-23 08:28:49,558 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bất ngờ tính năng khóa ung thư của 3 loại thuốc viêm khớp
+2019-11-23 08:30:22,461 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xiaomi xây dựng nhà máy sản xuất smartphone 5G cao cấp
+2019-11-23 08:30:22,498 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xuất hiện "Uber" trong lĩnh vực bất động sản
+2019-11-23 08:34:07,029 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://thanhnien.vn/
+2019-11-23 08:35:05,020 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Còn nhiều nỗi lo sau phê duyệt sách giáo khoa lớp 1 mới
+2019-11-23 08:35:05,600 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hàn Quốc mở đường dây nóng hỗ trợ cô dâu ngoại
+2019-11-23 08:35:16,875 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U.22 Malaysia không kịp có tài năng trẻ bóng đá Mỹ cho SEA Games 30
+2019-11-23 08:35:16,995 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : [TRỰC TIẾP] Chung kết Hội thi Báo cáo viên giỏi toàn quốc
+2019-11-23 08:37:40,279 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://dantri.com.vn/
+2019-11-23 08:38:14,871 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tiếp tục xén dải phân cách, mở rộng đường gom Đại lộ Thăng Long
+2019-11-23 08:38:22,836 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ông Trump nói đã "cứu Hong Kong khỏi thảm họa"
+2019-11-23 08:38:22,875 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mỹ cảnh báo Pakistan nhận có thể “trái đắng” từ các dự án của Trung Quốc
+2019-11-23 08:38:47,891 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bóng đá nam Việt Nam chưa bao giờ thắng Thái Lan ở các kỳ SEA Games
+2019-11-23 08:38:47,937 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : U22 Việt Nam "săn vàng" SEA Games: Không bây giờ thì bao giờ ?
+2019-11-23 08:38:47,978 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Granit Xhaka trở lại sẽ giúp chiếc ghế của Unai Emery bớt nóng?
+2019-11-23 08:38:56,548 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hà Nội: Lái xe chở 16 bình khí cười chuẩn bị vào quán bar để "trả hàng"
+2019-11-23 08:39:13,185 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vietnamnet.vn/
+2019-11-23 08:39:27,443 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:39:27,484 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.nguoiduatin.vn
+2019-11-23 08:39:38,854 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:39:38,892 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : http://kenh14.vn/
+2019-11-23 08:40:03,546 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:40:03,591 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://soha.vn/
+2019-11-23 08:40:13,325 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:40:13,365 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vtc.vn/
+2019-11-23 08:40:23,554 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:40:23,594 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://congly.vn/
+2019-11-23 08:40:51,687 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:40:51,722 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.tienphong.vn/
+2019-11-23 08:41:03,654 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:41:03,690 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tintuconline.com.vn
+2019-11-23 08:41:18,595 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 08:41:18,679 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vnexpress.net
+2019-11-23 08:41:59,726 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lời khuyên của CEO dành cho sinh viên mới ra trường
+2019-11-23 08:42:00,194 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ôtô tông hai xe máy, một người chết
+2019-11-23 08:42:20,984 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mỹ muốn Thổ Nhĩ Kỳ phá hủy tên lửa S-400
+2019-11-23 08:42:34,919 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tuyến đường sắt qua Hồ Gươm chậm 12 năm, đội vốn 16.000 tỷ
+2019-11-23 08:44:43,477 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Toyota Fortuner G 2011 giá 550 triệu nên mua?
+2019-11-23 08:45:10,649 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Như người vô hồn khi tình cũ cưới vợ
+2019-11-23 08:45:10,687 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tôi không muốn đầu hàng số phận
+2019-11-23 08:45:10,725 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Muốn ăn Tết ở nhà đẻ để giúp đỡ mẹ
+2019-11-23 08:45:25,041 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://news.zing.vn/
+2019-11-23 08:45:56,018 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Căn hộ 56 m2 làm nội thất 250 triệu đồng như quán cà phê ở TP.HCM
+2019-11-23 08:45:56,619 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trung Quốc không còn vũ khí để trả đũa kinh tế Mỹ
+2019-11-23 08:46:04,192 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Justin Bieber đăng ảnh cưới mừng sinh nhật vợ
+2019-11-23 08:46:12,093 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Từ Hiểu Đông hạ knock-out võ sĩ Nhật Bản
+2019-11-23 08:46:12,132 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : HLV Nishino sợ U22 Thái Lan mất thêm cầu thủ tại SEA Games
+2019-11-23 08:46:58,605 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mercedes-Benz GLS350d 2020 ra mắt thị trường Thái Lan, giá 293.000 USD
+2019-11-23 08:48:23,256 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tuoitre.vn
+2019-11-23 08:48:44,882 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nối dài những chuyến xe văn minh
+2019-11-23 08:48:44,919 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Lau nước mắt cho nữ bác sĩ 'mũ nồi xanh'
+2019-11-23 08:53:15,345 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://24h.com.vn
+2019-11-23 08:53:29,968 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xế hộp Toyota Land Cruiser gây tai nạn liên hoàn, 2 người thương vong
+2019-11-23 08:53:30,474 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những phát ngôn “đốt nóng” dư luận của nguyên Bộ trưởng Y tế Nguyễn Thị...
+2019-11-23 08:54:15,570 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xinh như hotgirl, cô gái 9x ở Hà Nội khiến nhiều người thán...
+2019-11-23 08:56:50,802 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Chấn động vụ sát hại con gái nữ diễn viên nổi tiếng: Thi thể...
+2019-11-23 08:58:16,842 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Duy Nhất đại thắng sàn võ châu Á: Diệu kế “dương đông kích tây”
+2019-11-23 09:01:18,024 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Căn bệnh liên quan đến “ngứa vùng không muốn gãi” cũng có...
+2019-11-23 09:02:30,232 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Apple “mở cờ trong bụng” khi Tổng thống Trump xem xét miễn thuế
+2019-11-23 09:03:58,496 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : ASEAN NCAP trao chứng nhận chuẩn an toàn 5 sao cho Honda Accord 2020
+2019-11-23 09:06:15,355 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://thanhnien.vn/
+2019-11-23 09:08:39,051 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thời trang Trung Quốc 'lấy cảm hứng' áo dài Việt: Chẳng khác nào ăn cắp
+2019-11-23 09:09:43,495 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xác thực hai yếu tố trên Twitter không còn yêu cầu số điện thoại
+2019-11-23 09:10:07,184 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://dantri.com.vn/
+2019-11-23 09:10:25,134 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : “Núm ruột tôi mỏi mòn tìm kiếm hơn 40 năm đây rồi!”
+2019-11-23 09:10:25,185 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Xuất hiện vùng áp thấp tại Biển Đông
+2019-11-23 09:10:52,402 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tổng thống Putin: Nga đi trước các cường quốc quân sự khác một bước
+2019-11-23 09:11:00,588 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 5 bước bán hàng cơ bản mà các startup nên biết để thành công
+2019-11-23 09:11:00,657 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bí ẩn lớn trong bê bối Món Huế: Ai đã giành quyền kiểm soát?
+2019-11-23 09:11:09,269 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : NSƯT Quốc Thái bất ngờ tiết lộ về “người tình” Dương Cẩm Lynh
+2019-11-23 09:11:25,066 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bị phát tán clip đang tắm, đòi bồi thường 2 tỉ
+2019-11-23 09:11:32,961 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thần đồng 9 tuổi sắp phá kỷ lục "người nhận bằng đại học trẻ nhất thế giới"
+2019-11-23 09:11:41,343 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Soi kính lúp mổ cứu bé sơ sinh người Lào mắc bệnh tim phức tạp
+2019-11-23 09:11:41,429 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vietnamnet.vn/
+2019-11-23 09:11:56,109 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 09:11:56,150 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.nguoiduatin.vn
+2019-11-23 09:12:07,571 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 09:12:07,613 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : http://kenh14.vn/
+2019-11-23 09:12:17,994 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 09:12:18,044 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://soha.vn/
+2019-11-23 09:12:27,526 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 09:12:27,570 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vtc.vn/
+2019-11-23 09:12:36,685 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 09:12:36,726 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://congly.vn/
+2019-11-23 09:13:04,107 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 09:13:04,151 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.tienphong.vn/
+2019-11-23 09:13:16,603 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 09:13:16,644 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tintuconline.com.vn
+2019-11-23 09:13:32,681 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 09:13:32,769 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vnexpress.net
+2019-11-23 09:14:20,430 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mỹ phạt tù một cựu đặc vụ CIA
+2019-11-23 09:14:20,527 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mỹ trừng phạt Bộ trưởng Truyền thông Iran
+2019-11-23 09:14:33,729 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Cơ hội cho chủ shop online mua phần mềm OCM giá 0 đồng
+2019-11-23 09:14:33,866 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Người giàu tạo xu hướng về không gian sống cao cấp
+2019-11-23 09:14:48,662 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Những mẫu giày đá bóng Adidas dưới 2,5 triệu đồng
+2019-11-23 09:15:06,933 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Duy Nhất thắng knock-out nhà vô địch Muay Nhật Bản
+2019-11-23 09:15:43,236 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 9 mẹo giúp giảm buồn nôn ở mẹ bầu
+2019-11-23 09:15:43,715 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thế hệ trẻ ngày càng lười vận động
+2019-11-23 09:16:36,020 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hacker tung dữ liệu hai triệu người dùng ngân hàng lên mạng
+2019-11-23 09:16:36,064 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Trợ lý ảo cho tổng đài tiếng Việt
+2019-11-23 09:17:30,630 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Ngựa và chó con nằm ngủ say bên nhau
+2019-11-23 09:17:30,719 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://news.zing.vn/
+2019-11-23 09:17:54,022 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nữ tay đua đầu tiên trong lịch sử Saudi Arabia
+2019-11-23 09:18:01,709 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thương hiệu trang sức Việt thành công nhờ 'bắt trend' giới trẻ
+2019-11-23 09:18:10,008 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Diễn viên kém 26 tuổi đi chơi cùng Brad Pitt
+2019-11-23 09:18:18,191 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Từ Hiểu Đông tung đòn đấm đánh bại võ sĩ Nhật Bản
+2019-11-23 09:18:49,326 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Thái Lan hóa miền đất lạ trong ống kính khách Tây
+2019-11-23 09:18:57,445 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Sợ bị chê, Apple không cho người dùng đánh giá sản phẩm
+2019-11-23 09:19:05,016 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hàng hiếm Porsche 911 đời 1979 độ ngoại thất của 930 Turbo
+2019-11-23 09:19:12,493 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : AirVisual xếp Hà Nội vào top thành phố ô nhiễm nhất sáng 23/11
+2019-11-23 09:19:20,175 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Bóng hồng đầu tiên trên đường đua xe Saudi Arabia
+2019-11-23 09:20:30,392 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://tuoitre.vn
+2019-11-23 09:21:38,344 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Người Việt tăng độ chịu chi cho sản phẩm có thành phần tự nhiên
+2019-11-23 09:23:53,040 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Biển Đông xuất hiện vùng áp thấp, Nam Bộ đối mặt triều cường
+2019-11-23 09:26:49,406 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://24h.com.vn
+2019-11-23 09:29:45,562 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Giá vàng hôm nay (23/11/2019): Cuối tuần, giá vàng lao dốc
+2019-11-23 09:30:44,164 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Công bố nguyên nhân bị can vụ môi giới mại dâm tử vong trong thời gian...
+2019-11-23 09:34:27,249 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Gặp tai nạn xe cộ, cô gái lại nổi tiếng vì xinh đẹp, gợi cảm
+2019-11-23 09:47:14,989 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 601 - org.openqa.selenium.NoSuchSessionException: No active session with ID 5af84620f8faf6e8dc0cf3f277658874
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-H1F2K58', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\Anhkhoa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:57021}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 5af84620f8faf6e8dc0cf3f2776...}
+Session ID: 5af84620f8faf6e8dc0cf3f277658874
+2019-11-23 09:47:15,026 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://thanhnien.vn/
+2019-11-23 09:50:25,780 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Mỹ sẽ cấm cửa 2 đại gia viễn thông Trung Quốc Huawei, ZTE?
+2019-11-23 09:50:56,429 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Nga tiến sát bờ vực bị “gạch tên” khỏi Olympic 2020 do giả mạo mẫu doping
+2019-11-23 10:01:02,888 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 601 - org.openqa.selenium.NoSuchSessionException: No active session with ID bad04a5ce48c264ca4a53fb8f4294711
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-H1F2K58', ip: '192.168.99.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.108, chrome: {chromedriverVersion: 78.0.3904.105 (60e2d8774a81..., userDataDir: C:\Users\Anhkhoa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:59760}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: bad04a5ce48c264ca4a53fb8f42...}
+Session ID: bad04a5ce48c264ca4a53fb8f4294711
+2019-11-23 10:01:02,937 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://dantri.com.vn/
+2019-11-23 10:01:39,025 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đề nghị xử lý đơn vị, cá nhân dùng thuốc diệt cỏ để dọn đường
+2019-11-23 10:01:39,062 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : “Cuộc chiến” với chất thải rắn và trách nhiệm của nhà sản xuất
+2019-11-23 10:01:56,466 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Hơn 1.000 doanh nhân tham dự diễn đàn Hợp tác Kinh tế Châu Á 2019
+2019-11-23 10:01:56,507 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Tàu cá hàng chục tỷ đồng phải “đắp chiếu”, ngư dân lao đao, chính quyền sốt ruột!
+2019-11-23 10:01:56,546 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Đỏ lửa thị trường chứng khoán, đại gia Lê Phước Vũ gây thất vọng
+2019-11-23 10:02:13,569 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : Liverpool có thể tiếp tục thăng hoa dù thiếu Mohamed Salah?
+2019-11-23 10:02:37,952 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 234 - Inserted : 2 ca tử vong nghi thuốc gây tê, Bộ Y tế yêu cầu tăng cường xử trí tai biến
+2019-11-23 10:02:38,098 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vietnamnet.vn/
+2019-11-23 10:02:55,197 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 10:02:55,241 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.nguoiduatin.vn
+2019-11-23 10:03:06,579 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 10:03:06,620 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : http://kenh14.vn/
+2019-11-23 10:03:14,024 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 10:03:14,060 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://soha.vn/
+2019-11-23 10:03:41,011 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 10:03:41,054 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://vtc.vn/
+2019-11-23 10:04:19,903 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 10:04:19,943 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://congly.vn/
+2019-11-23 10:04:47,416 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 596 - Don't have website format..........!
+2019-11-23 10:04:47,450 DEBUG [Timer-0] - crawl.Main.run 644 - Tracking url : https://www.tienphong.vn/

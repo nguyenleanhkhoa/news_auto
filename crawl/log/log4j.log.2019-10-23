@@ -1,0 +1,132 @@
+2019-10-23 17:25:41,881 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 457 - mnTpx
+2019-10-23 17:25:42,400 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 499 - com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected a string but was BEGIN_ARRAY at line 1 column 39 path $.categoryTitle
+2019-10-23 17:27:18,381 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 457 - mnTpx
+2019-10-23 17:35:57,499 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 499 - com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected a string but was BEGIN_ARRAY at line 1 column 39 path $.categoryTitle
+2019-10-23 17:36:21,180 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 459 - mnTpx
+2019-10-23 17:36:21,760 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IllegalStateException: This is not a JSON Array.
+2019-10-23 19:58:26,614 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 460 - mnTpx
+2019-10-23 19:58:27,085 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 502 - java.lang.IllegalStateException: This is not a JSON Array.
+2019-10-23 20:17:15,704 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 460 - mnTpx
+2019-10-23 20:27:40,331 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 458 - mnTpx
+2019-10-23 20:46:49,828 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 500 - com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected a string but was BEGIN_ARRAY at line 1 column 39 path $.categoryTitle
+2019-10-23 20:47:49,994 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 458 - mnTpx
+2019-10-23 20:49:44,430 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 500 - com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected a string but was BEGIN_ARRAY at line 1 column 39 path $.categoryTitle
+2019-10-23 20:50:15,935 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 459 - mnTpx
+2019-10-23 20:51:40,710 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
+2019-10-23 20:52:25,710 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 459 - mnTpx
+2019-10-23 20:53:05,801 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected a string but was BEGIN_ARRAY at line 1 column 39 path $.categoryTitle
+2019-10-23 20:55:43,364 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 462 - mnTpx
+2019-10-23 20:55:43,821 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 504 - java.lang.IllegalStateException: This is not a JSON Array.
+2019-10-23 20:57:50,596 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 462 - mnTpx
+2019-10-23 21:00:25,651 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 504 - com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected a string but was BEGIN_ARRAY at line 1 column 39 path $.categoryTitle
+2019-10-23 21:00:50,766 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 462 - mnTpx
+2019-10-23 21:01:36,734 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 476 - https://24h.com.vn : Can't get url of category !
+2019-10-23 21:02:40,093 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 460 - mnTpx
+2019-10-23 21:09:05,777 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 474 - https://24h.com.vn : Can't get url of category !
+2019-10-23 21:09:29,763 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 462 - mnTpx
+2019-10-23 21:09:37,016 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tin tức trong ngày
+2019-10-23 21:09:37,017 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tin Hà Nội
+2019-10-23 21:09:37,018 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tin TP Hồ Chí Minh
+2019-10-23 21:09:37,019 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tin Đà Nẵng
+2019-10-23 21:09:37,019 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tai nạn giao thông
+2019-10-23 21:09:37,019 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tin Cần Thơ
+2019-10-23 21:09:37,019 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Dự báo thời tiết
+2019-10-23 21:09:37,025 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Thế giới
+2019-10-23 21:09:37,026 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Điểm nóng
+2019-10-23 21:09:37,026 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Quân sự
+2019-10-23 21:09:37,026 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Hồ sơ
+2019-10-23 21:09:37,031 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Kinh doanh
+2019-10-23 21:09:37,032 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Doanh nhân
+2019-10-23 21:09:37,032 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tài chính
+2019-10-23 21:09:37,032 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Bất động sản
+2019-10-23 21:09:37,035 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Khởi nghiệp
+2019-10-23 21:09:37,035 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Doanh nghiệp
+2019-10-23 21:09:37,035 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Ngân hàng
+2019-10-23 21:09:37,035 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tiền tiền tiền
+2019-10-23 21:09:37,037 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tỷ giá ngoại tệ
+2019-10-23 21:09:37,039 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Giá vàng hôm nay
+2019-10-23 21:09:37,040 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tin Chứng khoán
+2019-10-23 21:09:37,046 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Giải trí
+2019-10-23 21:09:37,046 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Phim
+2019-10-23 21:09:37,046 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Ca nhạc - MTV
+2019-10-23 21:09:37,046 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - TV Show
+2019-10-23 21:09:37,046 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tin tức giải trí
+2019-10-23 21:09:37,050 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Pháp luật
+2019-10-23 21:09:37,050 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Vụ án nổi tiếng
+2019-10-23 21:09:37,051 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Trọng án
+2019-10-23 21:09:37,051 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Kỳ án thế giới
+2019-10-23 21:09:37,051 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tệ nạn xã hội
+2019-10-23 21:09:37,051 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Cảnh giác
+2019-10-23 21:09:37,051 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Hồ sơ vụ án
+2019-10-23 21:09:37,052 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Phóng sự
+2019-10-23 21:09:37,062 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Thể thao
+2019-10-23 21:09:37,062 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tennis
+2019-10-23 21:09:37,062 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Lịch thi đấu – Livescore tennis
+2019-10-23 21:09:37,062 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Lịch thi đấu thể thao
+2019-10-23 21:09:37,062 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Võ thuật - UFC - Quyền Anh
+2019-10-23 21:09:37,063 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Video tennis
+2019-10-23 21:09:37,063 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Billard - Snooker
+2019-10-23 21:09:37,063 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Clip Đặc Sắc
+2019-10-23 21:09:37,063 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Sống cùng bóng đá
+2019-10-23 21:09:37,063 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Bảng xếp hạng tennis
+2019-10-23 21:09:37,064 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tin bên lề thể thao
+2019-10-23 21:09:37,064 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Bảng xếp hạng Thể thao
+2019-10-23 21:09:37,064 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Bóng chuyền
+2019-10-23 21:09:37,064 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Hậu trường ngôi sao thể thao
+2019-10-23 21:09:37,065 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Thể thao Việt Nam
+2019-10-23 21:09:37,065 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Ảnh thể thao
+2019-10-23 21:09:37,065 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Golf
+2019-10-23 21:09:37,065 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Đua xe thể thao - F1
+2019-10-23 21:09:37,065 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Môn thể thao khác
+2019-10-23 21:09:37,065 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Thuê sân tennis Hà Nội
+2019-10-23 21:09:37,066 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Thuê sân tennis HCM
+2019-10-23 21:09:37,066 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tin tức thể thao
+2019-10-23 21:09:37,066 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Bóng rổ NBA - VBA
+2019-10-23 21:09:37,071 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Giáo dục - du học
+2019-10-23 21:09:37,071 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tuyển sinh 2019
+2019-10-23 21:09:37,071 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tin tức Giáo dục
+2019-10-23 21:09:37,073 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Sức khỏe đời sống
+2019-10-23 21:09:37,073 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Bệnh đàn ông
+2019-10-23 21:09:37,074 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Bệnh phụ nữ
+2019-10-23 21:09:37,074 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Bài thuốc dân gian
+2019-10-23 21:09:37,074 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Sức khỏe dinh dưỡng
+2019-10-23 21:09:37,074 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Sức khỏe tình dục
+2019-10-23 21:09:37,074 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Ung thư
+2019-10-23 21:09:37,074 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tin tức sức khỏe
+2019-10-23 21:09:37,076 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Du lịch
+2019-10-23 21:09:37,076 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Du lịch Việt Nam
+2019-10-23 21:09:37,076 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tin tức du lịch
+2019-10-23 21:09:37,076 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Điểm du lịch
+2019-10-23 21:09:37,076 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Ảnh
+2019-10-23 21:09:37,079 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Công nghệ thông tin
+2019-10-23 21:09:37,079 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Máy tính để bàn
+2019-10-23 21:09:37,079 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - QC trực tuyến
+2019-10-23 21:09:37,079 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Phần mềm ngoại
+2019-10-23 21:09:37,079 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Máy in/phụ kiện
+2019-10-23 21:09:37,079 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Khám phá công nghệ
+2019-10-23 21:09:37,079 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tin học văn phòng
+2019-10-23 21:09:37,079 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Game
+2019-10-23 21:09:37,079 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Thủ thuật - Tiện ích
+2019-10-23 21:09:37,080 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Sản phẩm mới
+2019-10-23 21:09:37,080 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Sợ Virus ???
+2019-10-23 21:09:37,080 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Khoa học
+2019-10-23 21:09:37,083 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Ô tô
+2019-10-23 21:09:37,083 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tin tức ô tô
+2019-10-23 21:09:37,083 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Bảng giá xe ô tô
+2019-10-23 21:09:37,083 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tư vấn
+2019-10-23 21:09:37,084 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Ngắm xe
+2019-10-23 21:09:37,084 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Thuê xe ở TP.HCM
+2019-10-23 21:09:37,084 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Thuê xe ở Hà nội
+2019-10-23 21:09:37,088 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Cười 24H
+2019-10-23 21:09:37,089 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Hội quán 24H
+2019-10-23 21:09:37,089 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Video Clip Cười
+2019-10-23 21:09:37,089 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tin vịt
+2019-10-23 21:09:37,089 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tranh vui
+2019-10-23 21:09:37,089 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Thơ vui
+2019-10-23 21:09:37,090 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Truyện tiếu lâm
+2019-10-23 21:09:37,091 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Truyện cười
+2019-10-23 21:09:37,092 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Truyện cười mùa thi
+2019-10-23 21:09:37,092 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Đố vui
+2019-10-23 21:09:37,092 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Tiểu phẩm hài
+2019-10-23 21:09:37,093 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Cười dân gian
+2019-10-23 21:09:37,093 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 363 - Danh hài 3 miền

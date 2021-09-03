@@ -1,0 +1,120 @@
+<!-- <div class="pr-4 pl-4 bg-content">
+  <h5>Thông tin các trang web tin tức</h5>
+  <div class=" mt-2 white-bg border-lightgray p-3 ">
+      <div class="d-flex flex-row-reverse mb-2">
+          <div>
+              <button mat-raised-button class="btn-custom btn-custom-color ml-2" (click)="openDialogCreateWebsite()">
+        <mat-icon>add</mat-icon>
+        Thêm mới website
+      </button>
+          </div>
+          <div>
+              <button mat-raised-button class="btn-custom btn-custom-color" (click)="onRefreshData()">
+        <mat-icon>autorenew</mat-icon>
+        Refresh data
+      </button>
+          </div>
+          <div class="w-100 d-flex justify-content-left">
+              <input type="search" name="lastname" placeholder="Nhập tên trang web" class="input-custom mr-1 pl-2" [(ngModel)]="urlStr" />
+
+              <button mat-raised-button class="btn-custom-color" (click)="onSearch()">
+        <mat-icon>search</mat-icon>
+      </button>
+          </div>
+      </div>
+      <table mat-table [dataSource]="dataSource" id="websiteData" class="shadow-none" matSort matSortActive="created" matSortDisableClear matSortDirection="desc">
+          <ng-container matColumnDef="id">
+              <th class="column-size-id" mat-header-cell *matHeaderCellDef class="column-size-id">
+                  Id
+              </th>
+              <td mat-cell *matCellDef="let element" class="pr-4 pt-4 pb-4 text-align-center">
+                  {{element[0]}}
+              </td>
+          </ng-container>
+
+          <ng-container matColumnDef="url">
+              <th mat-header-cell *matHeaderCellDef class="column-size-url text-align-center">
+                  Đường dẫn trang web
+              </th>
+              <td matTooltip="{{ element.url }}" mat-cell *matCellDef="let element" class="pr-4">
+                  <div class="ellipse-custom text-align-center">
+                      <a target="_blank" href="{{element[1]}}">{{element[1]}}</a>
+                  </div>
+              </td>
+          </ng-container>
+
+          <ng-container matColumnDef="name">
+              <th class="column-size-name" mat-header-cell *matHeaderCellDef>Tên trang web</th>
+              <td class="text-align-center" mat-cell *matCellDef="let element" matTooltip="{{ element.name }}">
+                  {{element[2]}}
+              </td>
+          </ng-container>
+          <ng-container matColumnDef="display">
+              <th class="column-size-name" mat-header-cell *matHeaderCellDef>Số lượng tin tức hiển thị</th>
+              <td class="text-align-center" mat-cell *matCellDef="let element" matTooltip="{{ element[3] }}">
+                  {{element[3]}}
+              </td>
+          </ng-container>
+          <ng-container matColumnDef="notdisplay">
+              <th class="column-size-name" mat-header-cell *matHeaderCellDef>Số lượng tin tức chưa hiển thị</th>
+              <td class="text-align-center" mat-cell *matCellDef="let element" matTooltip="{{ element[4] }}">
+                  {{element[4]}}
+              </td>
+          </ng-container>
+          <ng-container matColumnDef="sum">
+              <th class="column-size-name" mat-header-cell *matHeaderCellDef>Tổng số lượng tin tức</th>
+              <td class="text-align-center" mat-cell *matCellDef="let element" matTooltip="{{ element[5] }}">
+                  {{element[5]}}
+              </td>
+          </ng-container>
+          <ng-container matColumnDef="status">
+              <th class="column-size-status text-align-center" mat-header-cell *matHeaderCellDef>
+                  <div class="d-inline-flex ">
+                      <div class="mr-1 ellipse-custom">Cài đặt hiển thị</div>
+                  </div>
+              </th>
+              <td class="column-size-status text-align-center" mat-cell *matCellDef="let row">
+
+                  <mat-slide-toggle (ngModelChange)="onChangeStatus(row)" [(ngModel)]="row[6]" (change)="$event ? selection.toggle(row) : null" [checked]="row[6] === '1'">
+                  </mat-slide-toggle>
+
+              </td>
+          </ng-container>
+          <ng-container matColumnDef="action">
+              <th class="column-size-action text-align-center" mat-header-cell *matHeaderCellDef>
+                  Cài đặt
+              </th>
+              <td mat-cell *matCellDef="let element" class="action-link text-align-center">
+                  <button style="color: #5f6a7d; background-color: transparent; border: none; width: 100px;" (click)="onSelectedRow(element)">
+          <mat-icon>settings</mat-icon>
+        </button>
+              </td>
+          </ng-container>
+
+          <tr mat-header-row *matHeaderRowDef="dataColumn"></tr>
+          <tr mat-row *matRowDef="let row; columns: dataColumn"></tr>
+      </table>
+
+      <div class="mt-2 mb-2">
+          <mat-paginator [length]="100" [pageSize]="7" showFirstLastButtons></mat-paginator>
+      </div>
+
+      <div id="snackbar" [ngClass]="{
+      show: updateProcessing && updateSuccess,
+      unshow: !updateProcessing && !updateSuccess
+    }" class="alert-custom">
+          <div *ngIf="updateProcessing && updateSuccess" class="alert alert-success alert-dismissible fade show m-0 w-fitcontent">
+              <strong>Cập nhật thành công</strong>
+          </div>
+      </div>
+
+      <div id="snackbar" [ngClass]="{
+      show: updateProcessing && !updateFail,
+      unshow: !updateProcessing && updateFail
+    }" class="alert-custom">
+          <div *ngIf="updateProcessing && updateFail" class="alert alert-danger alert-dismissible fade show m-0 w-fitcontent">
+              <strong>Cập nhật thất bại</strong>
+          </div>
+      </div>
+  </div>
+</div> -->

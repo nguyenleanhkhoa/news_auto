@@ -1,0 +1,151 @@
+2020-02-20 11:58:58,001 DEBUG [main] - crawl.Main.main 528 - Token was attached !
+2020-02-20 11:59:05,538 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net
+2020-02-20 12:05:55,614 DEBUG [main] - crawl.Main.main 528 - Token was attached !
+2020-02-20 12:06:03,083 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net
+2020-02-20 12:09:34,482 DEBUG [main] - crawl.Main.main 528 - Token was attached !
+2020-02-20 12:09:41,956 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net
+2020-02-20 12:12:55,982 DEBUG [main] - crawl.Main.main 528 - Token was attached !
+2020-02-20 12:13:03,432 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net
+2020-02-20 12:35:07,052 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://news.zing.vn/
+2020-02-20 12:41:54,870 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://tuoitre.vn
+2020-02-20 13:02:57,836 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://24h.com.vn
+2020-02-20 13:39:13,852 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://thanhnien.vn/
+2020-02-20 13:45:07,458 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://dantri.com.vn/
+2020-02-20 13:50:10,181 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vietnamnet.vn/
+2020-02-20 14:12:01,812 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.nguoiduatin.vn
+2020-02-20 14:28:16,693 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://kenh14.vn/
+2020-02-20 14:31:16,420 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://soha.vn/
+2020-02-20 14:32:24,110 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vtc.vn/
+2020-02-20 14:32:35,322 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.NullPointerException
+2020-02-20 14:32:35,325 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://congly.vn/
+2020-02-20 14:33:48,836 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.tienphong.vn/
+2020-02-20 14:36:26,743 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://tintuconline.com.vn
+2020-02-20 14:36:43,190 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.NullPointerException
+2020-02-20 14:36:43,190 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.vietnamplus.vn/
+2020-02-20 14:42:03,110 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vov.vn/
+2020-02-20 14:55:36,900 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.baogiaothong.vn/
+2020-02-20 15:01:06,567 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baodautu.vn/
+2020-02-20 15:04:19,098 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baodatviet.vn/
+2020-02-20 15:06:38,975 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://toquoc.vn/
+2020-02-20 15:13:39,330 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baoquocte.vn/
+2020-02-20 15:18:27,467 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baohatinh.vn/
+2020-02-20 15:25:29,449 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://phapluatxahoi.vn/
+2020-02-20 15:27:03,669 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://daidoanket.vn/
+2020-02-20 15:35:08,157 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://plo.vn/
+2020-02-20 15:46:08,245 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - org.openqa.selenium.NoSuchSessionException: No active session with ID 3084c251cacf5437e58b6a44628b6068
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-H1F2K58', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.116, chrome: {chromedriverVersion: 80.0.3987.16 (320f6526c1632..., userDataDir: C:\Users\Anhkhoa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:54923}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 3084c251cacf5437e58b6a44628...}
+Session ID: 3084c251cacf5437e58b6a44628b6068
+2020-02-20 15:46:10,408 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baocantho.com.vn/
+2020-02-20 15:55:23,897 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://viettimes.vn/
+2020-02-20 15:56:08,814 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://baodansinh.vn/
+2020-02-20 16:05:27,890 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://thoidai.com.vn/
+2020-02-20 16:06:18,006 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://anninhthudo.vn/
+2020-02-20 16:06:29,218 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element is not clickable at point (970, 24)
+  (Session info: headless chrome=80.0.3987.116)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-H1F2K58', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.116, chrome: {chromedriverVersion: 80.0.3987.16 (320f6526c1632..., userDataDir: C:\Users\Anhkhoa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:60316}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 7f2881ed523d0ff25de61fc8f52...}
+Session ID: 7f2881ed523d0ff25de61fc8f5205481
+2020-02-20 16:06:29,218 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://quochoi.vn/
+2020-02-20 16:08:12,086 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://haiquanonline.com.vn/
+2020-02-20 16:10:09,350 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://vietq.vn/
+2020-02-20 16:20:15,377 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - org.openqa.selenium.NoSuchSessionException: No active session with ID 4497eac5df1f302e469da9145b7ea8dc
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-H1F2K58', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.116, chrome: {chromedriverVersion: 80.0.3987.16 (320f6526c1632..., userDataDir: C:\Users\Anhkhoa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61906}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 4497eac5df1f302e469da9145b7...}
+Session ID: 4497eac5df1f302e469da9145b7ea8dc
+2020-02-20 16:20:15,378 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baotintuc.vn/
+2020-02-20 16:30:28,243 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://thanhtra.com.vn/
+2020-02-20 16:34:03,326 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baonghean.vn/
+2020-02-20 16:40:24,324 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://congthuong.vn/
+2020-02-20 16:42:45,451 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vietnamfinance.vn/
+2020-02-20 16:46:27,916 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://nghenhinvietnam.vn/
+2020-02-20 16:47:31,685 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vietnamdaily.net.vn/
+2020-02-20 16:48:05,464 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baoangiang.com.vn/
+2020-02-20 16:55:03,834 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://baochinhphu.vn/
+2020-02-20 16:58:08,299 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://bizlive.vn/
+2020-02-20 16:59:14,523 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://doisongvietnam.vn/
+2020-02-20 17:01:33,901 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://ngoisao.vn/
+2020-02-20 17:02:00,632 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.NullPointerException
+2020-02-20 17:02:01,386 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/khoa-hoc/tho-lan-quay-can-canh-ca-duoi-gai-doc-kiem-an-4056609.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-25&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:02:15,915 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/y-kien/loi-thoai-phim-viet-nhu-van-mau-4055891.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-25&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:02:29,894 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/kinh-doanh/mat-viec-vi-virus-corona-4057247.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-18&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:02:43,750 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/doi-song/nhung-coc-ca-phe-dac-biet-o-vu-han-4057667.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-5&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:02:57,981 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/giai-tri/music-home-khoi-dong-mua-hai-4057505.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-17&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:03:17,684 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/oto-xe-may/tai-xe-phong-oto-nguoc-chieu-cao-toc-bi-phat-17-trieu-dong-4056337.html?vn_source=Folder&vn_campaign=Box-DienDan&vn_medium=Item-1&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:03:31,841 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/the-gioi/cuu-thu-tuong-australia-malaysia-nghi-phi-cong-mh370-tu-sat-4057574.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-21&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:03:45,724 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/suc-khoe/who-than-phien-cac-nuoc-khong-chia-se-thong-tin-4057322.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-25&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:03:59,510 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/bong-da/messi-cho-bang-chung-cao-buoc-chu-tich-barca-4057692.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-5&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:04:13,142 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/topic/hoc-tro-cuoi-18213?vn_source=Folder&vn_campaign=Box-ThuGianTheoChuDe&vn_medium=Item-4&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:04:27,088 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/suc-khoe/cach-bac-si-bao-ho-khi-vao-phong-benh-4057672.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-10&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:04:44,124 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/so-hoa/mo-bung-samsung-galaxy-z-flip-4055945.html?vn_source=Folder&vn_campaign=Box-Video&vn_medium=Item-2&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:04:58,064 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://video.vnexpress.net/the-thao/f1-chay-thu-nghiem-truoc-mua-2020-4057789.html?vn_source=Folder&vn_campaign=Box-Video&vn_medium=Item-1&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:05:12,053 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/kinh-doanh/bo-tai-chinh-nghien-cuu-san-giao-dich-von-cho-startup-4057604.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-14&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:05:25,431 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/oto-xe-may/gui-cac-tai-xe-online-4050241.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-21&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:05:39,336 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/khoa-hoc/ho-bengal-duoi-theo-xe-bus-cho-khach-4056599.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-29&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:05:54,615 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/oto-xe-may/xe-khach-phanh-gap-tong-xe-16-cho-co-vuot-4056496.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-27&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:06:24,401 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/suc-khoe/be-gai-3-thang-tuoi-xet-nghiem-am-tinh-ncov-lan-hai-4057324.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-17&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:06:38,094 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/thoi-su/de-xuat-hop-nhat-bo-giam-pho-thu-tuong-4057607.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-5&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:06:51,693 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/giai-tri/ha-jung-woo-bi-dieu-tra-su-dung-chat-cam-4057096.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-24&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:07:33,992 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/so-hoa/robot-hut-bui-dung-ai-ve-duong-di-4056415.html?vn_source=Folder&vn_campaign=Box-Video&vn_medium=Item-1&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:07:47,853 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/the-gioi/so-ca-nhiem-ncov-o-han-quoc-tiep-tuc-tang-manh-4057683.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-10&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:08:01,403 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/suc-khoe/dinh-duong-cho-nguoi-tieu-duong-4056676.html?vn_source=Folder&vn_campaign=Box-DinhDuong&vn_medium=Item-1&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:08:25,627 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/khoa-hoc/phat-hien-hoat-tinh-chong-lao-hoa-da-trong-gao-4017060.html?vn_source=Folder&vn_campaign=Box-NghienCuuMoiVeDuocLieu&vn_medium=Item-1&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:08:39,585 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/du-lich/ben-trong-tau-6-sao-cap-cang-chan-may-4057561.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-6&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:08:52,965 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/the-thao/boston-marathon-thay-doi-thoi-gian-xuat-phat-4056258.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-15&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:09:06,505 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/kinh-doanh/bloomberg-se-ban-cong-ty-neu-dac-cu-tong-thong-4057615.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-7&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:09:19,743 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/quat-tran-royal/quat-den-chum-lam-moi-khong-gian-song-4008997.html?vn_source=Folder&vn_campaign=Box-RoyalHomeQuatTranChoNguoiGiau&vn_medium=Item-1&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:09:33,612 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/giao-duc/trac-nghiem-ve-cac-nuoc-dong-a-4053145.html?vn_source=Folder&vn_campaign=Box-TracNghiem&vn_medium=Item-1&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:09:48,012 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/kinh-doanh/thu-tuong-goi-y-doi-ten-bo-ke-hoach-amp-dau-tu-4039943.html?vn_source=Folder&vn_campaign=Box-KinhTeDem&vn_medium=Item-1&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:10:01,330 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/y-kien/de-nhung-ngay-nghi-tranh-dich-khong-lang-phi-4055688.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-29&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:10:17,526 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/du-lich/nhay-mua-tren-tau-bi-cach-ly-4056913.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-26&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:10:32,488 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/so-hoa/galaxy-s20-co-gia-tu-21-49-trieu-dong-4057489.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-12&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:10:46,226 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://video.vnexpress.net/du-lich/nhung-mon-nong-hoi-tren-duong-pho-da-lat-3444482.html?vn_source=Folder&vn_campaign=Box-Anh&vn_medium=Item-3&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:11:00,213 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/kinh-doanh/ty-phu-ly-gia-thanh-phat-khau-trang-cho-nguoi-ngheo-4057388.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-19&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:11:13,957 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://startup.vnexpress.net/tin-tuc/xu-huong/yeu-to-quyet-dinh-su-thanh-cong-cua-startup-cong-nghe-4054116.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-15&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:11:27,702 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/phap-luat/bi-bat-vi-hiep-dam-vo-4057787.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-5&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:11:41,264 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/tam-su/khong-no-xa-nguoi-yeu-de-lam-vua-long-bo-me-4054835.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-12&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:11:55,276 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/the-thao/fury-wilder-se-bi-knock-out-sau-hai-hiep-4057383.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-25&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:12:09,817 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/tam-su/em-dau-nhat-dinh-khong-ve-que-chong-song-4057719.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-5&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:12:28,507 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/kinh-doanh/vinaphone-ra-mat-goi-cuoc-data-toc-do-cao-4057063.html?vn_source=Folder&vn_campaign=Box-DoanhNghiepViet&vn_medium=Item-4&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:12:42,034 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/phap-luat/tai-xe-giau-hon-720-trieu-dong-cua-khach-4057451.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-8&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:12:55,615 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/suc-khoe/bac-si-tu-van-che-do-dinh-duong-tang-de-khang-phong-covid-19-4057227.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-29&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:13:09,283 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/cuoi/nhan-ngay-the-vang-vi-pha-bong-luc-doi-thu-sut-phat-4055005.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-14&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:13:41,908 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/du-lich/tao-dang-tren-mep-vuc-cao-gan-1-000-m-4056643.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-28&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:13:58,665 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/infographics/nguy-co-phoi-nhiem-covid-19-tren-may-bay-4056232.html?vn_source=Folder&vn_campaign=Box-TuVan&vn_medium=Item-1&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:14:12,483 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/phap-luat/lua-ban-khau-trang-y-te-4056928.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-27&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:14:29,070 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/suc-khoe/benh-vien-quoc-te-city-chua-co-ca-nhiem-covid-19-4057537.html?vn_source=Folder&vn_campaign=Box-TinTuc&vn_medium=Item-1&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:14:42,501 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/giao-duc/dinh-cu-canada-bang-con-duong-du-hoc-4056832.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-20&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:14:56,462 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/so-hoa/samsung-khong-bi-anh-huong-boi-covid-19-4057233.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-17&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:15:11,333 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/phap-luat/cam-sung-ruot-duoi-kiem-lam-4057602.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-20&vn_term=Desktop&vn_thumb=0
+2020-02-20 17:15:26,094 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/giao-duc/bay-cau-khong-nen-noi-voi-con-gai-4057632.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-6&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:15:39,579 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/cuoi/dap-mat-na-duong-da-cac-me-doa-be-khoc-thet-4056937.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-17&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:15:53,668 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/du-lich/nhung-diem-quay-ha-canh-noi-anh-4056669.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-20&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:16:07,674 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/so-hoa/nhung-tinh-nang-moi-cua-chu-ky-so-esign-4057333.html?vn_source=Folder&vn_campaign=Box-DoiSongSo&vn_medium=Item-2&vn_term=Desktop&vn_thumb=0
+2020-02-20 17:16:21,567 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/giai-tri/12-nam-hon-nhan-kwon-sang-woo-son-tae-young-4057051.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-8&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:16:35,316 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/thoi-su/ong-vuong-dinh-hue-lam-truong-doan-dai-bieu-quoc-hoi-tp-ha-noi-4056927.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-26&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:16:49,192 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/the-gioi/cuu-tong-thong-han-quoc-bi-tang-an-tu-4057647.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-13&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:17:03,007 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/kinh-doanh/tranh-nhau-giai-cuu-tom-hum-4057426.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-16&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:17:16,700 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/kinh-doanh/cong-ty-tran-nguyen-co-700-khach-hang-moi-dung-online-office-4054840.html?vn_source=Folder&vn_campaign=Box-DoanhNghiepViet&vn_medium=Item-3&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:17:30,298 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/phap-luat/toi-co-the-kien-ban-nhau-cua-chong-4050251.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-23&vn_term=Desktop&vn_thumb=0
+2020-02-20 17:17:44,452 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/kinh-doanh/chung-khoan-ngay-19-2-rung-lac-co-the-day-dac-4057128.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-29&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:17:55,124 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/giai-tri/harry-styles-bi-cuop-4057327.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-20&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:18:09,039 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/khoa-hoc/su-tu-duc-giet-trau-rung-800-kg-giup-ban-tinh-4056604.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-27&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:18:23,357 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/doi-song/chang-trai-gianh-lai-ban-gai-tu-tay-than-chet-4057465.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-6&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:18:39,626 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/phap-luat/hai-ten-cuop-giat-tui-xach-cua-du-khach-4057605.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-10&vn_term=Desktop&vn_thumb=0
+2020-02-20 17:18:53,257 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/the-gioi/luc-luong-tu-quan-chong-dich-o-trung-quoc-4056885.html?vn_source=Folder&vn_campaign=Box-PhanTich&vn_medium=Item-1&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:19:07,471 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/so-hoa/apple-thua-nhan-dich-benh-anh-huong-lon-den-iphone-4056587.html?vn_source=Folder&vn_campaign=Box-DoiSongSo&vn_medium=Item-3&vn_term=Desktop&vn_thumb=0
+2020-02-20 17:19:21,363 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/doi-song/o-lai-vu-han-vi-meo-cung-4056778.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-13&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:19:35,025 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/phap-luat/di-tu-vi-chiem-doat-5-500-chiec-khau-trang-4057339.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-17&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:19:45,250 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: 
+2020-02-20 17:19:50,571 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/doi-song/giai-cuu-dua-hau-kieu-nguoi-sai-gon-4056034.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-23&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:20:04,535 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/the-gioi/noi-so-lan-nhanh-hon-virus-o-chau-au-4057289.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-6&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:20:18,146 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/giao-duc/xet-tuyen-sinh-vien-gioi-vao-nganh-lao-dong-4054174.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-29&vn_term=Desktop&vn_thumb=0
+2020-02-20 17:20:32,336 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/cuoi/hai-bo-con-phoi-hop-cau-tien-cua-me-4057390.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-10&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:20:46,206 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/kinh-doanh/masan-mua-52-co-phan-bot-giat-net-4057743.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-6&vn_term=Desktop&vn_thumb=1
+2020-02-20 17:20:59,508 DEBUG [Timer-0] - crawl.Main.getAndInsertContentDetailByIdNews 220 - website: https://vnexpress.net/so-hoa/my-sap-cat-nguon-cung-cap-chip-cua-huawei-4056987.html?vn_source=Folder&vn_campaign=Stream&vn_medium=Item-24&vn_term=Desktop&vn_thumb=1

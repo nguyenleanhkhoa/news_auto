@@ -1,0 +1,24 @@
+<div class="container">
+  <div class="card card-container">
+      <img id="profile-img" class="profile-img-card" src="//ssl.gstatic.com/accounts/ui/avatar_2x.png" />
+      <div class="d-flex justify-content-center">
+        <h2>Đăng nhập</h2>
+      </div>
+      <p id="profile-name" class="profile-name-card"></p>
+          <span id="reauth-email" class="reauth-email"></span>
+          <input type="email" id="inputEmail" [(ngModel)]="email" class="form-control" placeholder="Email address"/>
+          <br>
+          <input type="password" id="inputPassword" [(ngModel)]="password" class="form-control" placeholder="Password" />
+          <br>
+          <div id="remember" class="checkbox">
+              <label>
+                  <input type="checkbox" value="remember-me"> Remember me
+              </label>
+          </div>
+          <button (click)="loginEvent()" class="btn btn-lg btn-primary btn-block btn-signin" >Sign in</button>
+          <br>
+      <a href="#" class="forgot-password">
+          Forgot the password?
+      </a>
+  </div><!-- /card-container -->
+</div><!-- /container -->

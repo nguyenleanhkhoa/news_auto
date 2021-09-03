@@ -1,0 +1,38 @@
+<div class="p-4">
+
+    <div>
+        <h3>Thêm người dùng</h3>
+        <mat-form-field class="w-100">
+            <input matInput placeholder="Tên đăng nhập" [(ngModel)]="username">
+        </mat-form-field>
+        <mat-form-field class="w-100">
+            <input matInput placeholder="Email" [(ngModel)]="email">
+        </mat-form-field>
+        <mat-form-field class="w-100">
+            <input type="password" matInput placeholder="Mật khẩu" [(ngModel)]="password">
+        </mat-form-field>
+        <mat-form-field class="w-100">
+            <input matInput placeholder="Họ tên người dùng" [(ngModel)]="name">
+        </mat-form-field>
+        <mat-form-field>
+            <mat-label>Cấp quyền</mat-label>
+            <mat-select [(value)]="role">
+                <mat-option [value]="0">
+                    Admin
+                </mat-option>
+                <mat-option [value]="1">
+                    Duyệt bài
+                </mat-option>
+            </mat-select>
+        </mat-form-field>
+    </div>
+    <div>
+        <button mat-raised-button color="primary" cdkFocusInitial (click)="addNewUser()">Thêm</button>
+    </div>
+    <div *ngIf="alertWarning !== ''" class="alert alert-danger mt-2">
+        <span>{{alertWarning}}</span>
+    </div>
+    <div *ngIf="alertSaved !== ''" class="alert alert-success mt-2">
+        <span>{{alertSaved}}</span>
+    </div>
+</div>

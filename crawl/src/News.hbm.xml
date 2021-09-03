@@ -1,0 +1,30 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name = "entity.News" table = "NEWS">
+
+        <meta attribute = "class-description">
+            This class contains the employee detail.
+        </meta>
+
+        <id name = "id" type = "int" column = "id">
+            <generator class="native"/>
+        </id>
+
+        <property name = "title" column = "title" type = "string"/>
+        <property name = "link" column = "link" type = "string"/>
+        <property name="image" column="image" type = "string" />
+        <property name="href" column="href" type="string" />
+        <property name="idWebsource" column="websource_id" type="long"/>
+        <property name="idCategory" column="category_id" type="string" />
+        <property name="description" column="description" type="string" />
+        <property name="status" column="display" type="integer" />
+        <property name="numberOfAccess" column="number_of_access" type="long" />
+<!--        <property name="timeCreated" column="time_created" type="timestamp" />-->
+<!--        <property name="timeUpdated" column="time_updated" type="timestamp" />-->
+
+    </class>
+</hibernate-mapping>

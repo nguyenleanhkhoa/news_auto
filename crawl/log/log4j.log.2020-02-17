@@ -1,0 +1,105 @@
+2020-02-17 15:15:16,250 DEBUG [main] - crawl.Main.main 528 - Token was attached !
+2020-02-17 15:15:21,446 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net
+2020-02-17 15:16:45,190 DEBUG [main] - crawl.Main.main 528 - Token was attached !
+2020-02-17 15:16:50,500 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net
+2020-02-17 15:19:24,766 DEBUG [main] - crawl.Main.main 528 - Token was attached !
+2020-02-17 15:19:30,177 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net
+2020-02-17 15:21:32,600 DEBUG [main] - crawl.Main.main 528 - Token was attached !
+2020-02-17 15:21:38,003 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net
+2020-02-17 15:22:55,800 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Đồng Nai ôn tập cho học sinh qua truyền hình
+2020-02-17 15:22:55,826 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Cao tốc Bắc Giang - Lạng Sơn thu phí từ 18/2
+2020-02-17 15:22:55,851 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Rau cải xà lách xoong
+2020-02-17 15:22:55,876 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Lễ tạ ơn ‘Thần Nước, Thần Rừng’ của người Hà Nhì
+2020-02-17 15:22:55,907 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Thủ tướng gợi ý đổi tên Bộ Kế hoạch & Đầu tư
+2020-02-17 15:22:55,931 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Xe khách lao xuống vực sau tai nạn
+2020-02-17 15:22:55,951 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Ông Vũ Đức Đam: 'Phải an toàn mới cho học sinh học trở lại'
+2020-02-17 15:22:55,972 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Nông dân ngừng cho thanh long ra trái
+2020-02-17 15:22:56,000 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Vĩnh Phúc bổ sung chốt kiểm tra vùng dịch
+2020-02-17 15:22:56,029 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : 'Vĩnh Phúc sẽ không để dịch corona lây lan ra ngoài'
+2020-02-17 15:22:56,052 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : 'Dịch viêm phổi còn diễn biến phức tạp'
+2020-02-17 15:22:56,076 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Trung tâm nuôi dạy trẻ mồ côi cho trẻ về nhà để chống dịch
+2020-02-17 15:22:56,104 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Không để người nghi nhiễm nCoV rời nơi cách ly
+2020-02-17 15:22:56,127 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Lật thuyền chở 12 người
+2020-02-17 15:22:56,147 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Phú Thọ khẳng định không có người nhiễm Covid-19 trên xe khách
+2020-02-17 15:22:56,182 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Thanh tra dự án công viên nước Thanh Hà
+2020-02-17 15:22:56,201 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Đường sắt vắng khách
+2020-02-17 15:22:56,219 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Cam sành rụng hàng loạt
+2020-02-17 15:22:56,239 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Chiều nay miền Bắc đón gió mùa
+2020-02-17 15:22:56,261 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Cục CSGT đưa dịch vụ nộp phạt lên mạng
+2020-02-17 15:22:56,282 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Quảng Nam đề nghị Đà Nẵng giám sát chặt hành khách tại sân bay
+2020-02-17 15:22:56,303 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : TP HCM giám sát 1.189 người tự cách ly thế nào
+2020-02-17 15:22:56,325 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Cách ly 173 lao động từ Trung Quốc về
+2020-02-17 15:22:56,346 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : 13 người bị cách ly tại nhà
+2020-02-17 15:22:56,367 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Cụ ông 90 tuổi bán lạc làm từ thiện
+2020-02-17 15:22:56,393 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Chuyến tàu duy nhất đưa hàng qua biên giới Việt - Trung
+2020-02-17 15:22:56,418 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Quảng Ninh bị yêu cầu rút kinh nghiệm
+2020-02-17 15:22:56,437 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Ôtô 16 chỗ tông xe khách, một người chết
+2020-02-17 15:22:56,458 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Hơn 300 bẫy thú rừng bị phát hiện
+2020-02-17 15:22:56,476 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : 'Biệt đội' trung chuyển container ở cửa khẩu
+2020-02-17 15:22:56,496 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : 'Khánh Hoà đủ điều kiện công bố hết dịch corona'
+2020-02-17 15:24:44,401 DEBUG [main] - crawl.Main.main 528 - Token was attached !
+2020-02-17 15:24:49,584 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net
+2020-02-17 15:25:59,316 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Học sinh cuối cấp lo lắng vì nghỉ kéo dài
+2020-02-17 15:25:59,351 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Cao tốc Bắc Giang - Lạng Sơn thu phí từ 18/2
+2020-02-17 15:25:59,372 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Rau cải xà lách xoong
+2020-02-17 15:25:59,393 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Lễ tạ ơn ‘Thần Nước, Thần Rừng’ của người Hà Nhì
+2020-02-17 15:25:59,415 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Thủ tướng gợi ý đổi tên Bộ Kế hoạch & Đầu tư
+2020-02-17 15:25:59,437 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Xe khách lao xuống vực sau tai nạn
+2020-02-17 15:25:59,459 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Ông Vũ Đức Đam: 'Phải an toàn mới cho học sinh học trở lại'
+2020-02-17 15:25:59,488 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Nông dân ngừng cho thanh long ra trái
+2020-02-17 15:25:59,506 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Vĩnh Phúc bổ sung chốt kiểm tra vùng dịch
+2020-02-17 15:25:59,536 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : 'Vĩnh Phúc sẽ không để dịch corona lây lan ra ngoài'
+2020-02-17 15:25:59,561 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : 'Dịch viêm phổi còn diễn biến phức tạp'
+2020-02-17 15:25:59,581 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Trung tâm nuôi dạy trẻ mồ côi cho trẻ về nhà để chống dịch
+2020-02-17 15:25:59,608 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Không để người nghi nhiễm nCoV rời nơi cách ly
+2020-02-17 15:25:59,634 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Lật thuyền chở 12 người
+2020-02-17 15:25:59,660 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Phú Thọ khẳng định không có người nhiễm Covid-19 trên xe khách
+2020-02-17 15:25:59,691 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Thanh tra dự án công viên nước Thanh Hà
+2020-02-17 15:25:59,720 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Đường sắt vắng khách
+2020-02-17 15:25:59,740 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Cam sành rụng hàng loạt
+2020-02-17 15:25:59,767 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Chiều nay miền Bắc đón gió mùa
+2020-02-17 15:25:59,786 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Cục CSGT đưa dịch vụ nộp phạt lên mạng
+2020-02-17 15:25:59,808 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Quảng Nam đề nghị Đà Nẵng giám sát chặt hành khách tại sân bay
+2020-02-17 15:25:59,846 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : TP HCM giám sát 1.189 người tự cách ly thế nào
+2020-02-17 15:25:59,865 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Cách ly 173 lao động từ Trung Quốc về
+2020-02-17 15:25:59,882 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : 13 người bị cách ly tại nhà
+2020-02-17 15:25:59,905 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Cụ ông 90 tuổi bán lạc làm từ thiện
+2020-02-17 15:25:59,928 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Chuyến tàu duy nhất đưa hàng qua biên giới Việt - Trung
+2020-02-17 15:25:59,950 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Quảng Ninh bị yêu cầu rút kinh nghiệm
+2020-02-17 15:25:59,972 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Ôtô 16 chỗ tông xe khách, một người chết
+2020-02-17 15:25:59,998 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Hơn 300 bẫy thú rừng bị phát hiện
+2020-02-17 15:26:00,024 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : 'Biệt đội' trung chuyển container ở cửa khẩu
+2020-02-17 15:26:00,048 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : 'Khánh Hoà đủ điều kiện công bố hết dịch corona'
+2020-02-17 15:27:11,621 DEBUG [main] - crawl.Main.main 528 - Token was attached !
+2020-02-17 15:27:17,024 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net
+2020-02-17 15:27:54,109 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Học sinh cuối cấp lo lắng vì nghỉ kéo dài
+2020-02-17 15:27:54,130 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Cao tốc Bắc Giang - Lạng Sơn thu phí từ 18/2
+2020-02-17 15:27:54,159 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Rau cải xà lách xoong
+2020-02-17 15:27:54,190 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Lễ tạ ơn ‘Thần Nước, Thần Rừng’ của người Hà Nhì
+2020-02-17 15:27:54,210 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Thủ tướng gợi ý đổi tên Bộ Kế hoạch & Đầu tư
+2020-02-17 15:27:54,230 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Xe khách lao xuống vực sau tai nạn
+2020-02-17 15:27:54,252 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Ông Vũ Đức Đam: 'Phải an toàn mới cho học sinh học trở lại'
+2020-02-17 15:27:54,271 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Nông dân ngừng cho thanh long ra trái
+2020-02-17 15:27:54,293 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Vĩnh Phúc bổ sung chốt kiểm tra vùng dịch
+2020-02-17 15:27:54,319 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : 'Vĩnh Phúc sẽ không để dịch corona lây lan ra ngoài'
+2020-02-17 15:27:54,338 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : 'Dịch viêm phổi còn diễn biến phức tạp'
+2020-02-17 15:27:54,357 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Trung tâm nuôi dạy trẻ mồ côi cho trẻ về nhà để chống dịch
+2020-02-17 15:27:54,375 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Không để người nghi nhiễm nCoV rời nơi cách ly
+2020-02-17 15:27:54,409 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Lật thuyền chở 12 người
+2020-02-17 15:27:54,434 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Phú Thọ khẳng định không có người nhiễm Covid-19 trên xe khách
+2020-02-17 15:27:54,458 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Thanh tra dự án công viên nước Thanh Hà
+2020-02-17 15:27:54,474 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Đường sắt vắng khách
+2020-02-17 15:27:54,493 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Cam sành rụng hàng loạt
+2020-02-17 15:27:54,510 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Chiều nay miền Bắc đón gió mùa
+2020-02-17 15:27:54,550 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Cục CSGT đưa dịch vụ nộp phạt lên mạng
+2020-02-17 15:27:54,571 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Quảng Nam đề nghị Đà Nẵng giám sát chặt hành khách tại sân bay
+2020-02-17 15:27:54,611 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : TP HCM giám sát 1.189 người tự cách ly thế nào
+2020-02-17 15:27:54,651 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Cách ly 173 lao động từ Trung Quốc về
+2020-02-17 15:27:54,675 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : 13 người bị cách ly tại nhà
+2020-02-17 15:27:54,695 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Cụ ông 90 tuổi bán lạc làm từ thiện
+2020-02-17 15:27:54,712 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Chuyến tàu duy nhất đưa hàng qua biên giới Việt - Trung
+2020-02-17 15:27:54,733 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Quảng Ninh bị yêu cầu rút kinh nghiệm
+2020-02-17 15:27:54,767 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Ôtô 16 chỗ tông xe khách, một người chết
+2020-02-17 15:27:54,796 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : Hơn 300 bẫy thú rừng bị phát hiện
+2020-02-17 15:27:54,828 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : 'Biệt đội' trung chuyển container ở cửa khẩu
+2020-02-17 15:27:54,860 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 232 - Inserted : 'Khánh Hoà đủ điều kiện công bố hết dịch corona'

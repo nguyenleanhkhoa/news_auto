@@ -1,0 +1,312 @@
+2019-11-19 10:36:36,137 DEBUG [Timer-0] - crawl.Main.run 619 - Tracking url : https://vnexpress.net
+2019-11-19 10:41:49,173 DEBUG [Timer-0] - crawl.Main.run 619 - Tracking url : https://vnexpress.net
+2019-11-19 10:44:22,073 DEBUG [Timer-0] - crawl.Main.run 619 - Tracking url : https://vnexpress.net
+2019-11-19 10:46:37,337 DEBUG [Timer-0] - crawl.Main.run 619 - Tracking url : https://vnexpress.net
+2019-11-19 10:52:25,662 DEBUG [Timer-0] - crawl.Main.run 619 - Tracking url : https://news.zing.vn/
+2019-11-19 10:57:58,732 DEBUG [Timer-0] - crawl.Main.run 619 - Tracking url : https://tuoitre.vn
+2019-11-19 14:51:46,261 ERROR [main] - crawl.Main.main 635 - Error attach token when login ................ !
+2019-11-19 15:04:54,751 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 15:05:02,880 DEBUG [Timer-0] - crawl.Main.run 634 - Tracking url : https://vnexpress.net
+2019-11-19 15:05:41,606 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Hai người thoát chết trong ôtô bẹp rúm
+2019-11-19 15:05:41,658 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Hơn 6.000 trẻ em bị xâm hại trong gần 5 năm
+2019-11-19 15:05:41,709 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Cô giáo chạy xe 50 km đường rừng đến trường
+2019-11-19 15:05:41,792 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Hai con hổ bị vứt trên quốc lộ
+2019-11-19 15:06:14,331 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Xác ướp phôi thai trong mộ vua Tutankhamun
+2019-11-19 15:06:14,902 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Putin nổi giận vì tham nhũng tại dự án vũ trụ
+2019-11-19 15:06:14,955 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Vợ tố chồng ôm vé số 200.000 USD bỏ trốn
+2019-11-19 15:06:15,009 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Mỹ tiếp tục ngăn Ai Cập mua Su-35S Nga
+2019-11-19 15:06:15,057 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Bác sĩ bác tin đồn về sức khỏe Trump
+2019-11-19 15:06:15,102 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Quán bar bán không khí sạch
+2019-11-19 15:06:15,154 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Triều Tiên muốn Mỹ - Hàn chấm dứt tập trận
+2019-11-19 15:06:15,210 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Chiến dịch 'Mắt ưng' truy tìm thủ lĩnh tối cao IS
+2019-11-19 15:06:15,255 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Bolivia nguy cơ thêm khủng hoảng vì Tổng thống lâm thời
+2019-11-19 15:06:34,760 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Manulife Việt Nam đồng hành cùng diễn đàn và triển lãm về bảo hiểm
+2019-11-19 15:06:34,875 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : MSB giảm 2% lãi vay cho doanh nghiệp và chủ hộ kinh doanh
+2019-11-19 15:06:34,962 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Ưu thế giúp bất động sản Nam TP HCM giữ nhịp phát triển
+2019-11-19 15:06:35,057 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Doanh nghiệp Việt đang chuyển đổi số như thế nào
+2019-11-19 15:06:35,577 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Airbus phủ nhận hưởng lợi vì lệnh cấm bay Boeing 737 Max
+2019-11-19 15:06:35,620 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Kylie Jenner thu 600 triệu USD từ bán cổ phần hãng mỹ phẩm
+2019-11-19 15:06:35,667 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Bộ Xây dựng lần đầu thanh tra phí bảo trì chung cư
+2019-11-19 15:06:35,711 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Căn hộ 3 phòng ngủ Le Grand Jardin giá bán từ 2,1 tỷ đồng
+2019-11-19 15:06:54,975 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : La Phạm mang cảm hứng về 'Lady Macbeth' vào áo dài
+2019-11-19 15:06:55,313 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Michael Jackson bị tái kiện ấu dâm
+2019-11-19 15:06:55,377 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Đỗ Mỹ Linh, Kiều Loan so dáng với đầm lụa
+2019-11-19 15:06:55,421 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Trương Bá Chi khoe con trai út
+2019-11-19 15:06:55,468 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Tường San về nước sau Miss International 2019
+2019-11-19 15:06:55,514 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Phim Italy 21 năm trước khuấy động phòng vé
+2019-11-19 15:06:55,557 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Hồng Nhung: 'Các con tôi vượt qua sang chấn tâm lý'
+2019-11-19 15:07:15,241 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Brendon Todd vô địch Mayakoba Golf Classic
+2019-11-19 15:07:15,288 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Italy lập hai kỷ lục với chiến thắng 9-1
+2019-11-19 15:07:15,465 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Nishino coi nhẹ thống kê đối đầu Việt Nam - Thái Lan
+2019-11-19 15:07:15,507 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Cầu thủ Thái Lan: 'Việt Nam đã khác xưa'
+2019-11-19 15:07:15,565 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Theerathon: 'Việt Nam rất tự tin, nhưng Thái Lan sẽ thắng'
+2019-11-19 15:07:35,217 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Bộ Công an cảnh báo thủ đoạn lừa đảo trên Facebook
+2019-11-19 15:07:35,262 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Bà lão bị hiếp dâm
+2019-11-19 15:07:35,306 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Trò đùa giả gái của nhóm nam sinh
+2019-11-19 15:07:35,349 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : ADN giải oan cho người có dung mạo giống kẻ hiếp dâm
+2019-11-19 15:07:35,394 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Người đàn ông bám theo bé gái để ôm ấp
+2019-11-19 15:07:50,633 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Ngày Nhà giáo ở các nước trên thế giới
+2019-11-19 15:07:50,679 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Trường tiểu học hướng dẫn học sinh đội mũ bảo hiểm
+2019-11-19 15:08:09,895 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : 3 phương pháp phát hiện sớm ung thư vú
+2019-11-19 15:08:09,941 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Vì sao người hút thuốc lá thường thâm môi?
+2019-11-19 15:08:10,015 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Nữ điều dưỡng bị bố bệnh nhi đánh sưng mặt
+2019-11-19 15:08:10,446 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Mẹ cùng bốn con ngộ độc thuốc diệt cỏ
+2019-11-19 15:08:10,498 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Em bé thứ 1.000 mổ nang ống mật ở viện Nhi
+2019-11-19 15:08:25,028 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Nhà 'có sẵn' vợ, con để người mua trải nghiệm
+2019-11-19 15:08:25,067 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Người dân New Delhi rủ nhau đi mua oxy
+2019-11-19 15:08:25,106 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Đồ dùng pha lê cho bàn ăn
+2019-11-19 15:08:44,473 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Cho trẻ một tuổi đi nước ngoài cần giấy tờ gì?
+2019-11-19 15:08:44,886 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Lễ hội mùa đông phong cách châu Âu tại Bà Nà
+2019-11-19 15:08:44,947 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Ba sân bóng tuyển Việt Nam từng thi đấu với Thái Lan
+2019-11-19 15:08:44,987 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Campuchia cấm cưỡi voi ở Angkor Wat
+2019-11-19 15:09:05,309 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Siêu xe Anh đạt tốc độ hơn 1.000 km mỗi giờ
+2019-11-19 15:09:05,367 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : 250 startup tham gia Ngày hội khởi nghiệp sáng tạo quốc gia 2019
+2019-11-19 15:09:05,413 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Báo hoa mai vồ hụt người đi xe máy
+2019-11-19 15:09:25,123 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Những cách chụp ảnh 'sống ảo' với Galaxy Note10
+2019-11-19 15:09:25,353 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Máy rang hạt được điều khiển từ xa
+2019-11-19 15:09:25,456 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Trên tay Nokia 7.2
+2019-11-19 15:09:25,832 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Mở hộp Macbook Pro 16 inch
+2019-11-19 15:09:25,877 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Facebook, Messenger gặp sự cố khó nhắn tin
+2019-11-19 15:09:25,919 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : iOS 13.2.3 sửa lỗi Mail cho iPhone và iPad
+2019-11-19 15:09:41,181 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Honda Civic bị đâm dúi dụi vì phanh gấp trước đầu xe Hummer
+2019-11-19 15:09:41,226 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Tài xế gây sự nhầm người có võ
+2019-11-19 15:09:41,461 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Những lưu ý về bảo dưỡng xe máy đúng cách
+2019-11-19 15:09:41,626 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Mitsubishi Attrage và Mirage thay đổi giống Xpander
+2019-11-19 15:09:41,701 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Cá nhân có thể nhập xe dưới 9 chỗ từ nước ngoài?
+2019-11-19 15:09:41,748 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Nên mua Honda CR-V 2016 hay Honda Civic mới?
+2019-11-19 15:09:41,791 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Ford Mustang Mach-E - crossover điện đầu tiên của Ford
+2019-11-19 15:09:56,748 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Bác hàng xóm xin chó nhà tôi về ăn thịt
+2019-11-19 15:09:56,790 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : 'Người Sài Gòn quay lưng vì văn hóa xe buýt xấu xí'
+2019-11-19 15:10:16,273 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Không thể yêu anh khi người phụ nữ khác phải khổ
+2019-11-19 15:10:16,313 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Sao tôi không thể có đôi như người ta
+2019-11-19 15:10:36,024 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Khi Ronaldo và các siêu sao dùng điện thoại 'cục gạch'
+2019-11-19 15:10:36,102 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Học sinh làm sai phép toán dễ khiến cô giáo 'chấm mà tức'
+2019-11-19 15:10:36,143 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Chó nhà tung cước đá bay mèo trong chớp mắt
+2019-11-19 15:10:37,886 DEBUG [Timer-0] - crawl.Main.run 634 - Tracking url : https://news.zing.vn/
+2019-11-19 15:11:12,069 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 15:11:19,826 DEBUG [Timer-0] - crawl.Main.run 634 - Tracking url : https://vnexpress.net
+2019-11-19 15:12:48,839 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Nhiều thương hiệu quản lý khách sạn quốc tế đến Việt Nam
+2019-11-19 15:15:55,175 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Nằm ăn vạ giữa đường khi bị CSGT phạt
+2019-11-19 15:16:55,320 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Thử sức với bài toán tính diện tích hình tam giác đỏ
+2019-11-19 15:16:57,125 DEBUG [Timer-0] - crawl.Main.run 634 - Tracking url : https://news.zing.vn/
+2019-11-19 15:17:22,377 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Dịp Quốc khánh 2/9 có thể được nghỉ 2 ngày
+2019-11-19 15:17:22,420 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Mẫu Sơn 7 độ C, rét nhất từ đầu đông
+2019-11-19 15:17:22,461 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Những cây cầu mang niềm vui đến người dân vùng lũ ở 2 miền đất nước
+2019-11-19 15:17:22,621 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Cháy tầng hầm gửi xe ở Hà Nội
+2019-11-19 15:17:22,670 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Vứt lại 2 con hổ khi gặp cảnh sát
+2019-11-19 15:17:22,863 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Hà Nội tổ chức lại lộ trình nhiều tuyến buýt để thi công trường đua F1
+2019-11-19 15:17:22,932 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Bão Kalmaegi suy yếu trước khi vào Biển Đông
+2019-11-19 15:17:22,975 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : CĐV khuấy động không khí trước trận Việt Nam - Thái Lan
+2019-11-19 15:17:23,018 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Thầy dạy võ không hợp đồng, tự ý vào 'đạp' võ sinh
+2019-11-19 15:17:23,058 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Dân chặn xe CSGT đòi trả phương tiện vi phạm
+2019-11-19 15:17:35,959 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Cảnh sát bao vây 100 người cố thủ trong đại học ở Hong Kong
+2019-11-19 15:17:36,001 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Công chúa Thái Lan nhập viện
+2019-11-19 15:17:36,043 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : 24.392 sinh viên VN du học tại Mỹ, đóng gần 1 tỷ USD/năm
+2019-11-19 15:17:36,083 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Tác phẩm nghệ thuật của Banksy ở Venice bị ngập
+2019-11-19 15:17:36,405 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Chia tay cán bộ bệnh viện dã chiến lên đường đi Nam Sudan
+2019-11-19 15:17:49,519 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Công suất buồng phòng 90%, Crystal Bay Hospitality tiết lộ bí quyết
+2019-11-19 15:17:49,810 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Chạm mốc 200.000 đồng/kg, giá thịt lợn sẽ đắt hơn thịt bò?
+2019-11-19 15:17:50,122 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Biệt thự xa xỉ 26 triệu USD nhà Beckham thuê nghỉ dưỡng
+2019-11-19 15:17:50,176 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Vì sao máy bay thường được sơn màu trắng?
+2019-11-19 15:17:50,217 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Ngôi nhà ống gần thiên nhiên giữa lòng thành phố Đà Nẵng
+2019-11-19 15:18:03,999 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Sao nữ Thái Lan hạnh phúc bên tình mới sau khi chia tay Chanathip
+2019-11-19 15:18:04,038 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Lưu Đức Hoa nổi giận với hai diễn viên trẻ
+2019-11-19 15:18:04,075 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Dàn WAGs diễn viên, người mẫu của tuyển thủ Thái Lan
+2019-11-19 15:18:04,302 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Noo Phước Thịnh: 'Tôi chủ động cứu vãn mối quan hệ với Đông Nhi'
+2019-11-19 15:18:04,478 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Thái Thiếu Phân sinh con thứ 3 ở tuổi 46
+2019-11-19 15:18:04,526 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Diễm Hương định cư ở Malaysia
+2019-11-19 15:18:04,571 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Nhan sắc thời son trẻ của Diễm Hương
+2019-11-19 15:18:18,103 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Danh dự HLV Nishino đặt vào trận Việt Nam - Thái Lan
+2019-11-19 15:18:18,217 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Ngân hàng Hàn Quốc tiếp lửa để HLV Park Hang-seo viết tiếp giấc mơ
+2019-11-19 15:18:18,265 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : 3 bước đơn giản để tận hưởng SEA Games
+2019-11-19 15:18:18,310 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Top 3 lời chúc từ fan Việt gửi đến vận động viên SEA Games
+2019-11-19 15:18:41,008 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 15:18:48,822 DEBUG [Timer-0] - crawl.Main.run 634 - Tracking url : https://vnexpress.net
+2019-11-19 15:19:55,112 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : NASA phát hiện hơi nước trên mặt trăng của sao Mộc
+2019-11-19 15:21:01,378 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Apostolos Tsitsipas - từ người cha đến HLV tình cờ
+2019-11-19 15:21:17,986 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Người nghiện rượu truy sát bố con hàng xóm
+2019-11-19 15:21:56,945 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Cứu hàng trăm người bệnh tim mạch nhờ kỹ thuật can thiệp
+2019-11-19 15:21:57,017 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Bệnh viện Chợ Rẫy bác bỏ thông tin giả mạo lừa tiền
+2019-11-19 15:22:16,881 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Cục trưởng nhảy sông cứu người chết đuối
+2019-11-19 15:22:55,774 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : 'Mũ bảo hiểm' làm từ hộp sọ hàng nghìn năm trước
+2019-11-19 15:23:14,966 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Trên tay Vivo V17 Pro
+2019-11-19 15:23:15,312 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Nguy cơ mất mật khẩu khi sạc smartphone nơi công cộng
+2019-11-19 15:24:34,836 DEBUG [Timer-0] - crawl.Main.run 634 - Tracking url : https://news.zing.vn/
+2019-11-19 15:25:14,054 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Đại sứ EU đến Zing.vn
+2019-11-19 15:25:55,200 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : 'Kiatisak khen Việt Nam mạnh hơn Thái không phải lời xã giao'
+2019-11-19 15:25:55,239 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Vì sao Văn Hậu có thể khiến Thái Lan vỡ mộng tại Mỹ Đình
+2019-11-19 15:25:55,281 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Tiền đạo Anh Đức chúc đội tuyển gặt hái thêm thành tích
+2019-11-19 15:25:55,325 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Tuyển Việt Nam phải lo xong vé cho người thân trước trận Thái Lan
+2019-11-19 15:25:55,370 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Chế độ ăn tập giúp Chanathip duy trì đẳng cấp ở J.League
+2019-11-19 15:25:55,419 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : CĐV Thái Lan chỉ ra cái tên đủ khả năng ngăn chặn Quang Hải
+2019-11-19 15:25:55,461 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : 'Đừng lo lắng, Việt Nam chẳng phải Brazil'
+2019-11-19 15:25:55,502 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Anh Đức xin rút khỏi tuyển Việt Nam sau trận Thái Lan
+2019-11-19 15:25:55,539 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Hàng thủ Việt Nam là điểm tựa, hậu vệ Thái Lan là nỗi lo
+2019-11-19 15:26:09,221 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Vì sao thầy chùa đập vỡ kính ôtô bị khởi tố dù có chứng loạn thần?
+2019-11-19 15:26:09,284 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Công an vào cuộc vụ thầy dạy võ đạp học sinh
+2019-11-19 15:26:09,322 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Giám đốc ngân hàng cùng cấp dưới tham ô hơn 400 tỷ
+2019-11-19 15:26:09,487 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Ông Nguyễn Bắc Son và đồng phạm sắp hầu tòa
+2019-11-19 15:26:09,540 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Đại gia trình báo mất 1,5 tỷ đồng để trong ôtô
+2019-11-19 15:26:09,581 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Bắt nữ gia sư trộm tiền của chủ nhà
+2019-11-19 15:26:23,111 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : MBA - tấm bằng giá trị của người trẻ thời 4.0
+2019-11-19 15:26:23,275 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Thầy giáo đặt điện thoại quay lén nữ sinh
+2019-11-19 15:26:23,373 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : 98% lao động có việc làm nhưng chất lượng còn hạn chế
+2019-11-19 15:26:23,431 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Nữ giáo viên và vết chân tròn trên bục giảng
+2019-11-19 15:26:36,945 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Kiểm tra sức khỏe trước khi cưới, chàng trai phát hiện sự thật bất ngờ
+2019-11-19 15:26:50,101 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Những bàn tay kỳ dị vươn lên trời trong ngôi chùa Thái Lan
+2019-11-19 15:26:50,214 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Tiết lộ các quốc gia nguy hiểm nhất thế giới năm 2020
+2019-11-19 15:26:50,373 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Xuất hiện điểm check-in giống hệt Bali tại Đà Lạt
+2019-11-19 15:26:50,426 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Chill hết mình cùng loạt lễ hội đặc sắc ở Quảng Ninh
+2019-11-19 15:26:50,488 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Nhật Bản - xứ sở của những chiếc xe đạp
+2019-11-19 15:27:03,421 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Fan Việt cà khịa cổ động viên Thái trên Faceboook của Chanathip
+2019-11-19 15:27:03,467 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Đá 20h, cầu thủ cần ăn lúc mấy giờ?
+2019-11-19 15:27:03,530 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Video: Người dùng nói gì về Oppo Reno2, Reno2 F sau một tháng sử dụng?
+2019-11-19 15:27:03,573 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Người dùng nói gì về Oppo Reno2 và Reno2 F sau một tháng sử dụng?
+2019-11-19 15:27:04,099 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Vì sao không nên lưu mật khẩu trên trình duyệt?
+2019-11-19 15:27:04,267 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Nghĩa địa phóng xạ 100.000 năm chôn dưới lòng đất
+2019-11-19 15:27:17,196 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Châu Bùi, Phương Ly và dàn sao xuất hiện trong trailer ra mắt xe Yadea
+2019-11-19 15:27:17,317 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Người phụ nữ đỗ ôtô giữa đường để đi chợ
+2019-11-19 15:27:17,356 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Container nát đầu sau khi đâm vào đuôi xe tải phanh gấp
+2019-11-19 15:27:17,404 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Video: Châu Bùi, Phương Ly và dàn sao trong trailer ra mắt xe
+2019-11-19 15:27:17,447 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Ôtô vượt ẩu đâm vào xe cảnh sát đang làm nhiệm vụ
+2019-11-19 15:27:17,606 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Những siêu xe mang thiết kế đặc biệt - không kính chắn gió
+2019-11-19 15:27:17,652 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Siêu xe mới của Bugatti sẽ có giá dưới 1 triệu USD để phục vụ số đông
+2019-11-19 15:27:17,696 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Chi tiết Ferrari Roma - ngựa chiến thời hiện đại
+2019-11-19 15:27:17,737 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Xiaomi ra mắt xe điện gập lại chỉ bằng tờ giấy A3
+2019-11-19 15:27:17,779 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Chiếc Lamborghini của Cường Đô La mở đầu phong trào siêu xe ở VN
+2019-11-19 15:27:17,821 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Toyota Rush về đúng giá, Hyundai Tucson, Kia Sorento giảm 30 triệu
+2019-11-19 15:29:52,288 DEBUG [Timer-0] - crawl.Main.run 634 - Tracking url : https://tuoitre.vn
+2019-11-19 15:30:27,313 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Xe ben lại cán chết người trên quốc lộ 51
+2019-11-19 15:30:27,364 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Nhà nước không nên góp vốn PPP bằng 'đất vàng' gây bức xúc
+2019-11-19 15:30:27,409 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Tỉnh Kanagawa muốn tiếp nhận nhiều lao động Việt Nam
+2019-11-19 15:30:27,447 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Bổ sung một ngày nghỉ lễ, dịp Quốc khánh có thể nghỉ 2 ngày
+2019-11-19 15:30:27,488 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Chủ cây xăng bị phạt gần 50 triệu đồng vì tự ý đấu nối đường vào quốc lộ
+2019-11-19 15:30:27,529 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Giận chồng, mẹ pha thuốc diệt cỏ cho 4 con cùng uống
+2019-11-19 15:30:27,568 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Công an Hà Tĩnh giải cứu 2 con hổ con
+2019-11-19 15:30:43,065 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Việt Nam đã đưa 40 sinh viên tại Hong Kong về nước giữa biểu tình
+2019-11-19 15:30:43,106 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Trung Quốc phản pháo khi bị tung tài liệu mật về Tân Cương
+2019-11-19 15:30:43,147 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Bị thách ra điều trần, ông Trump nói 'sợ gì không thử'
+2019-11-19 15:30:43,190 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Hãy tạo ra những nơi an toàn và để yên cho động vật sống ở đó
+2019-11-19 15:30:43,229 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Singapore cho kích nổ quả bom từ Thế chiến 2 giữa trung tâm thành phố
+2019-11-19 15:30:58,811 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Nhà sáng lập Món Huế: 'Đã sẵn sàng tiền thanh toán công nợ cho nhà cung cấp'
+2019-11-19 15:30:58,877 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Đà Nẵng sẽ đầu tư xây dựng cảng Liên Chiểu
+2019-11-19 15:30:58,928 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Lãi suất huy động ngắn hạn xuống dưới 5%/năm
+2019-11-19 15:32:12,424 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Ngày 16-12 sẽ xét xử vụ 2 cựu bộ trưởng nhận hối lộ hơn 3 triệu USD
+2019-11-19 15:32:28,985 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Ông bố người Anh ở Việt Nam chia sẻ chuyện dạy con trẻ
+2019-11-19 15:32:46,310 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Không phải cứ hẹp mạch máu là đặt stent
+2019-11-19 15:33:06,426 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Những công nhân tỉ phú ở Binh đoàn 15
+2019-11-19 15:33:55,065 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Xe cũ xe mới đua nhau giảm giá kích cầu mùa cuối năm
+2019-11-19 15:33:55,109 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Video: Container đổ dốc cầu đâm vào xe khách 29 chỗ
+2019-11-19 15:33:55,153 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 233 - Inserted : Tài xế quên chìa khóa, xe bị trộm, gây tai nạn liên hoàn
+2019-11-19 15:37:02,717 ERROR [main] - crawl.Main.main 650 - Error attach token when login ................ !
+2019-11-19 15:37:28,498 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 15:40:01,975 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 15:43:07,914 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 15:45:47,176 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 15:47:25,990 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 15:47:54,291 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :471
+2019-11-19 15:48:14,261 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3869
+2019-11-19 15:48:46,410 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :466
+2019-11-19 15:49:05,871 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3073
+2019-11-19 15:49:21,964 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :522
+2019-11-19 15:49:41,634 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3182
+2019-11-19 15:50:01,011 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3190
+2019-11-19 15:50:20,332 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3290
+2019-11-19 15:50:39,771 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :517
+2019-11-19 15:51:57,234 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3332
+2019-11-19 15:52:20,382 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 15:52:49,121 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3330
+2019-11-19 15:53:08,961 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3281
+2019-11-19 15:53:47,524 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=3828}
+2019-11-19 15:54:06,799 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=3114}
+2019-11-19 15:54:27,045 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3164
+2019-11-19 15:54:46,422 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3830
+2019-11-19 15:56:25,464 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=3826}
+2019-11-19 15:57:24,491 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3291
+2019-11-19 15:57:41,527 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3073
+2019-11-19 16:00:06,284 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :533
+2019-11-19 16:00:48,299 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3862
+2019-11-19 16:01:07,496 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=3117}
+2019-11-19 16:01:27,067 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3348
+2019-11-19 16:02:07,782 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3339
+2019-11-19 16:02:47,106 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3806
+2019-11-19 16:03:23,547 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=3175}
+2019-11-19 16:04:02,387 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=3102}
+2019-11-19 16:04:41,150 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :525
+2019-11-19 16:05:19,562 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3289
+2019-11-19 16:05:39,648 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3200
+2019-11-19 16:06:25,597 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=3167}
+2019-11-19 16:06:45,091 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3804
+2019-11-19 16:07:35,849 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 16:08:16,201 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 16:12:06,757 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 16:17:01,004 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 16:25:21,303 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 16:31:43,357 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 16:32:40,305 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 16:33:30,012 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 16:41:41,787 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 16:55:37,246 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 16:58:41,838 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 17:02:10,293 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 17:03:18,528 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :278
+2019-11-19 17:03:41,490 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :499
+2019-11-19 17:04:00,896 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=323}
+2019-11-19 17:04:20,594 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :472
+2019-11-19 17:04:40,390 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3076
+2019-11-19 17:04:59,544 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=109}
+2019-11-19 17:05:19,107 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=416}
+2019-11-19 17:05:38,704 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :294
+2019-11-19 17:05:58,203 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=332}
+2019-11-19 17:06:21,867 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=3852}
+2019-11-19 17:06:41,205 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :288
+2019-11-19 17:07:00,447 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=146}
+2019-11-19 17:07:20,194 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :519
+2019-11-19 17:07:39,423 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :34
+2019-11-19 17:07:58,592 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=3127}
+2019-11-19 17:08:18,015 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :173
+2019-11-19 17:08:37,316 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3255
+2019-11-19 17:08:56,506 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=3845}
+2019-11-19 17:09:15,757 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3806
+2019-11-19 17:09:32,243 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :51
+2019-11-19 17:24:32,801 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 17:25:54,202 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 17:28:18,507 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 17:38:05,663 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 17:38:33,795 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=77}
+2019-11-19 17:39:18,095 DEBUG [main] - crawl.Main.main 624 - Token was attached !
+2019-11-19 17:40:37,737 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :489
+2019-11-19 17:41:32,527 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :520
+2019-11-19 17:41:54,080 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :348
+2019-11-19 17:42:18,065 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3848
+2019-11-19 17:42:38,600 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :461
+2019-11-19 17:43:08,571 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3255
+2019-11-19 17:43:29,151 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :236
+2019-11-19 17:43:59,843 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=164}
+2019-11-19 17:44:20,825 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=3265}
+2019-11-19 17:44:42,557 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3801
+2019-11-19 17:45:17,322 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :198
+2019-11-19 17:45:39,959 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :225
+2019-11-19 17:46:01,731 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :466
+2019-11-19 17:46:22,830 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=396}
+2019-11-19 17:46:44,130 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=3307}
+2019-11-19 17:47:07,936 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3089
+2019-11-19 17:47:39,614 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3812
+2019-11-19 17:48:01,856 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=275}
+2019-11-19 17:48:29,959 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :228
+2019-11-19 17:48:51,840 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=101}
+2019-11-19 17:49:12,544 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3326
+2019-11-19 17:49:33,070 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3220
+2019-11-19 17:49:56,823 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=393}
+2019-11-19 17:50:18,168 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :64
+2019-11-19 17:50:42,010 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=3113}
+2019-11-19 17:51:10,876 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :52
+2019-11-19 17:51:30,409 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=130}
+2019-11-19 17:52:13,173 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=3235}
+2019-11-19 17:52:33,592 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=335}
+2019-11-19 17:52:55,671 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=327}
+2019-11-19 17:53:20,305 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 273 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:5000/getdetailweb/api/v1/content/id=400}
+2019-11-19 17:53:44,666 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :37
+2019-11-19 17:54:05,375 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :373
+2019-11-19 17:54:30,321 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3286
+2019-11-19 17:55:06,015 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 271 - Inserted content :3080

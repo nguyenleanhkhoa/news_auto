@@ -1,0 +1,60 @@
+2020-02-27 17:07:38,184 DEBUG [main] - crawl.Main.main 528 - Token was attached !
+2020-02-27 17:07:46,900 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net
+2020-02-27 17:07:51,285 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://news.zing.vn/
+2020-02-27 17:07:55,313 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://tuoitre.vn
+2020-02-27 17:07:59,339 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://24h.com.vn
+2020-02-27 17:08:03,377 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://thanhnien.vn/
+2020-02-27 17:08:07,413 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://dantri.com.vn/
+2020-02-27 17:08:11,426 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vietnamnet.vn/
+2020-02-27 17:08:15,453 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.nguoiduatin.vn
+2020-02-27 17:08:19,500 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://kenh14.vn/
+2020-02-27 17:08:23,514 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://soha.vn/
+2020-02-27 17:08:27,537 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vtc.vn/
+2020-02-27 17:08:31,552 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://congly.vn/
+2020-02-27 17:08:35,577 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.tienphong.vn/
+2020-02-27 17:08:39,592 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://tintuconline.com.vn
+2020-02-27 17:09:53,233 DEBUG [main] - crawl.Main.main 528 - Token was attached !
+2020-02-27 17:10:00,424 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net
+2020-02-27 17:11:36,806 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:11:36,807 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://news.zing.vn/
+2020-02-27 17:11:49,304 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:11:49,304 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://tuoitre.vn
+2020-02-27 17:12:04,549 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:12:04,550 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://24h.com.vn
+2020-02-27 17:12:15,454 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:12:15,454 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://thanhnien.vn/
+2020-02-27 17:12:34,597 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:12:34,598 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://dantri.com.vn/
+2020-02-27 17:12:49,273 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:12:49,273 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vietnamnet.vn/
+2020-02-27 17:13:10,500 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:13:10,500 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.nguoiduatin.vn
+2020-02-27 17:13:30,832 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:13:30,832 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://kenh14.vn/
+2020-02-27 17:13:46,739 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:13:46,740 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://soha.vn/
+2020-02-27 17:14:03,978 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:14:03,978 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vtc.vn/
+2020-02-27 17:14:19,172 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:14:19,173 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://congly.vn/
+2020-02-27 17:14:40,686 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:14:40,687 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.tienphong.vn/
+2020-02-27 17:15:03,688 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:15:03,689 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://tintuconline.com.vn
+2020-02-27 17:15:23,757 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:15:23,758 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.vietnamplus.vn/
+2020-02-27 17:15:36,343 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:15:36,344 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vov.vn/
+2020-02-27 17:15:50,997 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:15:50,997 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.baogiaothong.vn/
+2020-02-27 17:16:03,260 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2020-02-27 17:16:03,260 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baodautu.vn/
+2020-02-27 17:17:42,787 DEBUG [main] - crawl.Main.main 528 - Token was attached !
+2020-02-27 17:17:51,380 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net
+2020-02-27 17:22:07,186 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://news.zing.vn/
+2020-02-27 17:24:07,096 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://tuoitre.vn
+2020-02-27 17:30:13,773 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://24h.com.vn
+2020-02-27 17:44:48,228 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://thanhnien.vn/
+2020-02-27 17:47:01,960 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://dantri.com.vn/
+2020-02-27 17:49:15,747 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vietnamnet.vn/
+2020-02-27 18:01:25,417 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.nguoiduatin.vn

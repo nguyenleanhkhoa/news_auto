@@ -1,0 +1,1394 @@
+2019-11-14 16:58:32,431 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thời sự
+2019-11-14 16:58:32,437 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Góc nhìn
+2019-11-14 16:58:32,439 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thế giới
+2019-11-14 16:58:32,440 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Kinh doanh
+2019-11-14 16:58:32,441 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giải trí
+2019-11-14 16:58:32,441 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thể thao
+2019-11-14 16:58:32,442 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Pháp luật
+2019-11-14 16:58:32,443 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giáo dục
+2019-11-14 16:58:32,444 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Sức khỏe
+2019-11-14 16:58:32,445 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Đời sống
+2019-11-14 16:58:32,446 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Du lịch
+2019-11-14 16:58:32,447 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Khoa học
+2019-11-14 16:58:32,447 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Số hóa
+2019-11-14 16:58:32,448 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Xe
+2019-11-14 16:58:32,449 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Ý kiến
+2019-11-14 16:58:32,450 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Tâm sự
+2019-11-14 16:58:32,451 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Cười
+2019-11-14 17:01:14,850 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thời sự
+2019-11-14 17:01:14,854 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Góc nhìn
+2019-11-14 17:01:14,855 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thế giới
+2019-11-14 17:01:14,856 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Kinh doanh
+2019-11-14 17:01:14,857 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giải trí
+2019-11-14 17:01:14,858 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thể thao
+2019-11-14 17:01:14,859 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Pháp luật
+2019-11-14 17:01:14,860 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giáo dục
+2019-11-14 17:01:14,860 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Sức khỏe
+2019-11-14 17:01:14,861 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Đời sống
+2019-11-14 17:01:14,862 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Du lịch
+2019-11-14 17:01:14,862 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Khoa học
+2019-11-14 17:01:14,863 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Số hóa
+2019-11-14 17:01:14,863 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Xe
+2019-11-14 17:01:14,864 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Ý kiến
+2019-11-14 17:01:14,865 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Tâm sự
+2019-11-14 17:01:14,866 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Cười
+2019-11-14 17:06:24,866 DEBUG [Timer-0] - crawl.Main.run 619 - Tracking url : https://vnexpress.net
+2019-11-14 17:06:58,906 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thời sự
+2019-11-14 17:06:58,907 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Góc nhìn
+2019-11-14 17:06:58,909 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thế giới
+2019-11-14 17:06:58,910 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Kinh doanh
+2019-11-14 17:06:58,911 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giải trí
+2019-11-14 17:06:58,913 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thể thao
+2019-11-14 17:06:58,914 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Pháp luật
+2019-11-14 17:06:58,915 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giáo dục
+2019-11-14 17:06:58,916 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Sức khỏe
+2019-11-14 17:06:58,917 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Đời sống
+2019-11-14 17:06:58,918 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Du lịch
+2019-11-14 17:06:58,919 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Khoa học
+2019-11-14 17:06:58,920 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Số hóa
+2019-11-14 17:06:58,921 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Xe
+2019-11-14 17:06:58,922 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Ý kiến
+2019-11-14 17:06:58,927 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Tâm sự
+2019-11-14 17:06:58,928 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Cười
+2019-11-14 17:07:32,721 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 12 nguyên tắc an toàn giao thông trẻ cần biết
+2019-11-14 17:07:32,746 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sẽ xóa trạm BOT gần cầu Vàm Cống
+2019-11-14 17:07:32,771 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những dòng sông 'chết' ở Hà Nội
+2019-11-14 17:07:32,799 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nuôi ốc hương thu gần 1,5 tỷ mỗi năm
+2019-11-14 17:07:32,825 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sống bên những dòng sông chết
+2019-11-14 17:07:32,851 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quốc hội giám sát công tác phòng cháy, chữa cháy
+2019-11-14 17:07:32,875 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : TP HCM cấm đường Lê Duẩn trong 3 ngày
+2019-11-14 17:07:32,900 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Buôn làng xơ xác sau lũ
+2019-11-14 17:07:32,926 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Xóm chạy sạt lở
+2019-11-14 17:07:32,953 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hơn 5.000 ngày đêm sáng đèn trên công trường sông Đà
+2019-11-14 17:07:32,979 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bệnh viện dã chiến số 2 nhận quyết định sang Nam Sudan
+2019-11-14 17:07:33,005 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vốn đầu tư Metro Số 1 giảm 3.400 tỷ đồng
+2019-11-14 17:07:33,032 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ôtô khách tông 3 xe máy, lao vào nhà dân
+2019-11-14 17:07:33,059 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đề xuất giáng chức cán bộ lơ là phòng cháy chữa cháy
+2019-11-14 17:07:33,086 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hà Nội cấm hơn 20 tuyến đường trước trận Việt Nam - UAE
+2019-11-14 17:07:33,122 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 9 trường hợp buộc thu hồi biển số ôtô, xe máy
+2019-11-14 17:07:33,149 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : TP HCM bác nghi vấn quanh gói thầu 307 triệu USD
+2019-11-14 17:07:33,177 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phương tiện vào sân bay sẽ được miễn phí 10-15 phút
+2019-11-14 17:07:33,206 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thầy giáo vẽ tranh biếm họa bằng phấn trắng
+2019-11-14 17:07:33,234 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lắp 5 màn hình ở đường Nguyễn Huệ cổ vũ tuyển Việt Nam
+2019-11-14 17:07:33,263 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hà Nội lấy ý kiến việc bơm nước sông Hồng 'cứu' sông Tô Lịch
+2019-11-14 17:07:33,292 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đại biểu Quốc hội đề xuất không để xe trong hầm chung cư
+2019-11-14 17:07:33,319 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vé chợ đen trận Việt Nam - UAE tăng gấp 3 lần
+2019-11-14 17:07:33,347 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trình UNESCO công nhận ca Huế là 'Di sản văn hóa phi vật thể'
+2019-11-14 17:07:33,374 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hà Nội ngày càng ô nhiễm 'vì không gom được nước thải'
+2019-11-14 17:07:33,423 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 9 cao tốc kết nối các tỉnh phía Bắc với thủ đô
+2019-11-14 17:07:33,450 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quốc hội thảo luận việc miễn thị thực cho du khách vào khu kinh tế ven biển
+2019-11-14 17:07:33,479 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thủy điện Hòa Bình - Công trình kỳ vĩ của thế kỷ 20
+2019-11-14 17:07:33,506 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Học sinh lớp 11 sáng chế máy ấp trứng cua đinh
+2019-11-14 17:08:10,287 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bão Hagibis tàn phá Nhật Bản
+2019-11-14 17:08:10,320 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dàn vũ khí tại triển lãm quân sự ADEX-2019
+2019-11-14 17:08:10,351 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chile chìm trong biển lửa biểu tình
+2019-11-14 17:08:10,379 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đường tới ngai vàng của tân Nhật hoàng Naruhito
+2019-11-14 17:08:10,404 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lợn hoang phá hủy túi ma tuý trị giá 22.000 USD
+2019-11-14 17:08:10,429 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giáo sư gốc Việt gây 'bão' mạng vì tặng thú bông cho sinh viên
+2019-11-14 17:08:10,453 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mexico có thể gặp rắc rối khi 'cứu mạng' Morales
+2019-11-14 17:08:10,479 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tehran chìm trong khói bụi ô nhiễm
+2019-11-14 17:08:10,504 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sóng gió thử thách 'mối thâm tình' Trump - Erdogan
+2019-11-14 17:08:10,530 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hàng nghìn người ôm 'cây thần' chữa bệnh
+2019-11-14 17:08:10,557 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hệ thống tàu điện ngầm bí mật tại London
+2019-11-14 17:08:10,580 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cháy rừng hoành hành Australia
+2019-11-14 17:08:10,604 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tự tử vì biến đổi khí hậu
+2019-11-14 17:08:10,639 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trump không xem điều trần luận tội
+2019-11-14 17:08:10,675 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trump hâm mộ Tổng thống Thổ Nhĩ Kỳ
+2019-11-14 17:08:10,706 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tàu ngầm Nga bị nghi xâm nhập lãnh hải Israel
+2019-11-14 17:08:10,739 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trump sắp công bố cuộc điện đàm với Tổng thống Ukraine
+2019-11-14 17:08:10,769 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lính cứu hỏa thiệt mạng khi cứu đồng đội
+2019-11-14 17:08:10,803 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Greta Thunberg đi nhờ thuyền đến Tây Ban Nha
+2019-11-14 17:08:10,845 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đục đường ống lấy gas, 7 người chết
+2019-11-14 17:08:10,881 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nghị sĩ Mỹ trình dự luật đấu tranh kinh tế với Trung Quốc
+2019-11-14 17:08:10,913 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tên lửa tối tân Israel có thể rơi vào tay Nga
+2019-11-14 17:08:10,943 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mỹ công nhận Tổng thống lâm thời Bolivia
+2019-11-14 17:08:10,975 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bị phạt vì mang mèo béo lên máy bay
+2019-11-14 17:08:11,006 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Harry - Meghan không nghỉ lễ cùng hoàng gia
+2019-11-14 17:08:11,038 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mỹ có thể sắp thử tên lửa đạn đạo mới
+2019-11-14 17:08:11,069 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tehran chìm trong khói bụi ô nhiễm
+2019-11-14 17:08:11,106 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Công ty Mỹ rao bán căn cứ tên lửa cũ
+2019-11-14 17:08:11,138 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hàn Quốc 'nín thở' trong ngày thi đại học
+2019-11-14 17:08:11,175 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đài Loan bắt nghi phạm trộm đồng hồ ở Hong Kong
+2019-11-14 17:08:11,207 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nữ tuỳ viên quốc phòng Australia kể về lương duyên với Việt Nam
+2019-11-14 17:08:11,237 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhật hoàng sẽ ăn tối suốt đêm với Nữ thần Mặt trời
+2019-11-14 17:08:11,271 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mỹ chật vật níu kéo đồng minh chống IS
+2019-11-14 17:08:11,299 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thủ tướng Nhật hủy tiệc ngắm hoa anh đào
+2019-11-14 17:08:11,330 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thai phụ sống đời chui lủi ở Đức
+2019-11-14 17:08:11,362 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mỹ có thể livestream xây tường biên giới
+2019-11-14 17:08:11,392 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nổ súng trong trường học Nga, hai người chết
+2019-11-14 17:08:11,422 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bị truy tố vì bắn chết tướng cảnh sát tại tòa
+2019-11-14 17:08:33,020 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nền tảng cloud của CMC kết nối với 3 hãng công nghệ hàng đầu
+2019-11-14 17:08:33,047 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Công ty thu mua phế liệu Việt Đức hoạt động nhiều tỉnh thành
+2019-11-14 17:08:33,069 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thương hiệu nội thất E.F Interior khai trương showroom tại Hà Nội
+2019-11-14 17:08:33,092 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dàn nhạc thính phòng Anh gây ấn tượng tại Toyota Classics 2019
+2019-11-14 17:08:33,119 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tập đoàn Phương Anh áp dụng tư vấn đánh giá quản lý chất lượng
+2019-11-14 17:08:33,144 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những vụ CEO từ chức đình đám
+2019-11-14 17:08:33,178 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 4 dấu hiệu cho thấy bạn đang tiêu tiền lãng phí
+2019-11-14 17:08:33,207 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sàn online Việt 'bội thu' dịp Lễ độc thân
+2019-11-14 17:08:33,230 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : VietinBank trao chuyến du lịch Mỹ cho khách hàng may mắn
+2019-11-14 17:08:33,254 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ông lớn chứng khoán trồi sụt lợi nhuận
+2019-11-14 17:08:33,281 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thang nhôm Nikawa được sử dụng nhiều trong điện lực, viễn thông
+2019-11-14 17:08:33,307 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phía Tây Hà Nội sôi động căn hộ cho thuê nhờ cư dân châu Á
+2019-11-14 17:08:33,332 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hệ thống dịch vụ mới tạo cú hích cho du lịch Hàm Thuận Nam
+2019-11-14 17:08:33,362 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nệm Kymdan mở showroom mới tại Crescent Mall Phú Mỹ Hưng
+2019-11-14 17:08:33,389 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mạng viễn thông Viettel 10 năm thúc đẩy kinh doanh Việt - Lào
+2019-11-14 17:08:33,414 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hãng hàng không Air Seoul ký kết ra mắt tại Việt Nam
+2019-11-14 17:08:33,439 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chubb Việt Nam trao 80 suất học bổng cho học sinh nghèo
+2019-11-14 17:08:33,463 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mục tiêu tăng GDP 6,8% năm 2020 có khả thi?
+2019-11-14 17:08:33,488 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người trẻ Trung Quốc không hứng thú mua vàng
+2019-11-14 17:08:33,513 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhà sản xuất sữa lớn nhất Mỹ xin phá sản
+2019-11-14 17:08:33,538 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sacombank rao bán cổ phiếu liên quan gia đình ông Trầm Bê
+2019-11-14 17:08:33,565 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Một doanh nghiệp phát hành trái phiếu lãi suất 20%
+2019-11-14 17:08:33,594 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Elon Musk muốn xây siêu nhà máy Tesla ở Đức
+2019-11-14 17:08:33,622 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phó thủ tướng chỉ đạo sớm xét xử vụ Địa ốc Alibaba
+2019-11-14 17:08:33,647 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chủ cũ Inter Milan rút khỏi Ninh Vân Bay
+2019-11-14 17:08:33,671 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trump dọa tăng thuế mạnh tay với Trung Quốc
+2019-11-14 17:08:33,694 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Duyệt quy hoạch sân bay Sa Pa
+2019-11-14 17:08:33,718 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Doanh nhân nước ngoài trúng độc đắc Vietlott
+2019-11-14 17:08:33,743 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dự kiến huy động 8,6 tỷ kWh điện chạy dầu giá cao
+2019-11-14 17:08:33,766 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Việt Nam mất 50.000 tỷ đồng mỗi năm vì ưu đãi thuế
+2019-11-14 17:08:33,790 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cá ngừ xuất sang Mexico tăng mạnh
+2019-11-14 17:08:33,813 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khu Nam Sài Gòn đón cú hích từ hạ tầng giao thông
+2019-11-14 17:08:33,837 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chuỗi tiện ích trăm tỷ của tổ hợp nghỉ dưỡng, chăm sóc sức khỏe
+2019-11-14 17:08:33,862 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhật Bản tăng trưởng chậm nhất một năm
+2019-11-14 17:08:33,884 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tiềm năng thị trường đồ nội thất Việt
+2019-11-14 17:08:33,909 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giá vàng SJC giảm nhẹ
+2019-11-14 17:08:33,931 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cà Mau - điểm đến mới cho đầu tư bất động sản
+2019-11-14 17:08:33,955 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bất động sản 'xanh' khu Nhơn Trạch thu hút đầu tư
+2019-11-14 17:08:33,981 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chủ đầu tư Him Lam Green Park mở rộng đại lý phân phối
+2019-11-14 17:08:34,004 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : An ninh đa lớp tại dự án The Grand Manhattan
+2019-11-14 17:08:34,027 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tập đoàn Đại Phúc mở rộng hợp tác doanh nghiệp Hàn Quốc
+2019-11-14 17:08:34,050 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Gia đình Phó tư lệnh cảnh sát Thái thành tỷ phú
+2019-11-14 17:08:34,087 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Làm sao mở rộng kinh doanh khi kỹ năng quản lý yếu?
+2019-11-14 17:08:34,111 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quốc hội duyệt chi gần 5 tỷ USD trả nợ lãi năm 2020
+2019-11-14 17:08:34,140 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sắp có sàn giao dịch heo
+2019-11-14 17:08:34,164 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngân hàng ráo riết thu hồi nợ xấu
+2019-11-14 17:08:34,189 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giá heo hơi liên tục lập đỉnh
+2019-11-14 17:08:34,214 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người Mỹ nợ 14.000 tỷ USD
+2019-11-14 17:08:34,238 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giá xăng có thể tăng vào ngày mai
+2019-11-14 17:09:00,062 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Triển lãm sắp đặt từ rác thải nhựa
+2019-11-14 17:09:00,084 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tiểu thuyết 'Mang thai tuổi 17' được chuyển thể thành phim
+2019-11-14 17:09:00,110 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Top 10 'Kpop Dance For Youth' bốc thăm chọn huấn luyện viên
+2019-11-14 17:09:00,135 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngân Khánh đi sự kiện cùng chồng
+2019-11-14 17:09:00,160 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lương Thùy Linh biến hóa phong cách với nước hoa Charme
+2019-11-14 17:09:00,186 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : DOJI ưu đãi tới 30% trang sức tại VIJF
+2019-11-14 17:09:00,212 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mạc Văn Khoa đóng chính 'Lật mặt 5'
+2019-11-14 17:09:00,239 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hồ Ngọc Hà chưa nghĩ chuyện cưới Kim Lý
+2019-11-14 17:09:00,263 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chris Evans thường nghĩ đến chuyện giải nghệ
+2019-11-14 17:09:00,286 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Angelababy, Huỳnh Hiểu Minh đáp trả tin đồn ly dị
+2019-11-14 17:09:00,309 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : HBO muốn làm tiếp series 'Friends'
+2019-11-14 17:09:00,333 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Jung Joon Young đối mặt bảy năm tù
+2019-11-14 17:09:00,359 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hoàng Bách lập ban nhạc
+2019-11-14 17:09:00,386 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mẫu nam Hàn Quốc đóng MV của Min
+2019-11-14 17:09:00,413 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kim Tae Hee tái xuất sau sinh
+2019-11-14 17:09:00,437 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hồ Ngọc Hà mừng sinh nhật Kim Lý
+2019-11-14 17:09:00,464 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Huỳnh Tông Trạch mê quần áo màu sắc
+2019-11-14 17:09:00,491 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vợ Tiến Đạt khoe con
+2019-11-14 17:09:00,517 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chi Pu khỏa thân trong phim mới
+2019-11-14 17:09:00,541 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngọc Lan, Thanh Bình ly hôn
+2019-11-14 17:09:00,567 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giày cho nam giá từ 99.000 đồng
+2019-11-14 17:09:00,591 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Loạt túi xách giảm nửa giá
+2019-11-14 17:09:00,614 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đầm đơn sắc cho người chuộng gu tối giản
+2019-11-14 17:09:00,636 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phim 'Sinh tử' hút khán giả ở đề tài tham nhũng
+2019-11-14 17:09:00,661 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lâm Chí Dĩnh nhắc tình cũ Lâm Tâm Như
+2019-11-14 17:09:00,698 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Doctor Sleep' pha trộn chất kinh dị và siêu năng lực
+2019-11-14 17:09:00,728 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nicole Kidman cùng chồng lên thảm đỏ
+2019-11-14 17:09:00,753 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dương Cẩm Lynh đóng cặp bạn diễn kém mười tuổi
+2019-11-14 17:09:00,778 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vẻ đẹp vùng sông nước trên tranh sơn dầu
+2019-11-14 17:09:00,802 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lương Thùy Linh giới thiệu bản thân tại Miss World
+2019-11-14 17:09:00,827 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Alicia Keys dẫn chương trình Grammy 2020
+2019-11-14 17:09:00,850 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ba năm bên nhau của Ngọc Lan, Thanh Bình
+2019-11-14 17:09:00,874 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tài tử 12 năm đau đáu về bạn gái đã mất
+2019-11-14 17:09:21,516 DEBUG [Timer-0] - crawl.Main.run 619 - Tracking url : https://vnexpress.net
+2019-11-14 17:09:49,066 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thời sự
+2019-11-14 17:09:49,067 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Góc nhìn
+2019-11-14 17:09:49,068 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thế giới
+2019-11-14 17:09:49,069 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Kinh doanh
+2019-11-14 17:09:49,070 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giải trí
+2019-11-14 17:09:49,071 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thể thao
+2019-11-14 17:09:49,071 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Pháp luật
+2019-11-14 17:09:49,072 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giáo dục
+2019-11-14 17:09:49,073 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Sức khỏe
+2019-11-14 17:09:49,074 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Đời sống
+2019-11-14 17:09:49,075 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Du lịch
+2019-11-14 17:09:49,076 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Khoa học
+2019-11-14 17:09:49,076 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Số hóa
+2019-11-14 17:09:49,077 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Xe
+2019-11-14 17:09:49,078 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Ý kiến
+2019-11-14 17:09:49,081 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Tâm sự
+2019-11-14 17:09:49,082 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Cười
+2019-11-14 17:10:19,337 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 12 nguyên tắc an toàn giao thông trẻ cần biết
+2019-11-14 17:10:19,362 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sẽ xóa trạm BOT gần cầu Vàm Cống
+2019-11-14 17:10:19,386 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những dòng sông 'chết' ở Hà Nội
+2019-11-14 17:10:19,410 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nuôi ốc hương thu gần 1,5 tỷ mỗi năm
+2019-11-14 17:10:19,437 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sống bên những dòng sông chết
+2019-11-14 17:10:19,460 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quốc hội giám sát công tác phòng cháy, chữa cháy
+2019-11-14 17:10:19,483 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : TP HCM cấm đường Lê Duẩn trong 3 ngày
+2019-11-14 17:10:19,507 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Buôn làng xơ xác sau lũ
+2019-11-14 17:10:19,533 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Xóm chạy sạt lở
+2019-11-14 17:10:19,560 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hơn 5.000 ngày đêm sáng đèn trên công trường sông Đà
+2019-11-14 17:10:19,588 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bệnh viện dã chiến số 2 nhận quyết định sang Nam Sudan
+2019-11-14 17:10:19,615 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vốn đầu tư Metro Số 1 giảm 3.400 tỷ đồng
+2019-11-14 17:10:19,640 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ôtô khách tông 3 xe máy, lao vào nhà dân
+2019-11-14 17:10:19,665 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đề xuất giáng chức cán bộ lơ là phòng cháy chữa cháy
+2019-11-14 17:10:19,723 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hà Nội cấm hơn 20 tuyến đường trước trận Việt Nam - UAE
+2019-11-14 17:10:19,755 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 9 trường hợp buộc thu hồi biển số ôtô, xe máy
+2019-11-14 17:10:19,783 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : TP HCM bác nghi vấn quanh gói thầu 307 triệu USD
+2019-11-14 17:10:19,827 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phương tiện vào sân bay sẽ được miễn phí 10-15 phút
+2019-11-14 17:10:19,855 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thầy giáo vẽ tranh biếm họa bằng phấn trắng
+2019-11-14 17:10:19,886 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lắp 5 màn hình ở đường Nguyễn Huệ cổ vũ tuyển Việt Nam
+2019-11-14 17:10:19,911 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hà Nội lấy ý kiến việc bơm nước sông Hồng 'cứu' sông Tô Lịch
+2019-11-14 17:10:19,937 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đại biểu Quốc hội đề xuất không để xe trong hầm chung cư
+2019-11-14 17:10:19,961 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vé chợ đen trận Việt Nam - UAE tăng gấp 3 lần
+2019-11-14 17:10:19,983 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trình UNESCO công nhận ca Huế là 'Di sản văn hóa phi vật thể'
+2019-11-14 17:10:20,007 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hà Nội ngày càng ô nhiễm 'vì không gom được nước thải'
+2019-11-14 17:10:20,032 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 9 cao tốc kết nối các tỉnh phía Bắc với thủ đô
+2019-11-14 17:10:20,055 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quốc hội thảo luận việc miễn thị thực cho du khách vào khu kinh tế ven biển
+2019-11-14 17:10:20,080 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thủy điện Hòa Bình - Công trình kỳ vĩ của thế kỷ 20
+2019-11-14 17:10:20,104 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Học sinh lớp 11 sáng chế máy ấp trứng cua đinh
+2019-11-14 17:11:07,928 DEBUG [Timer-0] - crawl.Main.run 619 - Tracking url : https://vnexpress.net
+2019-11-14 17:11:25,769 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thời sự
+2019-11-14 17:11:25,770 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Góc nhìn
+2019-11-14 17:11:25,772 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thế giới
+2019-11-14 17:11:25,774 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Kinh doanh
+2019-11-14 17:11:25,775 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giải trí
+2019-11-14 17:11:25,776 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thể thao
+2019-11-14 17:11:25,777 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Pháp luật
+2019-11-14 17:11:25,778 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giáo dục
+2019-11-14 17:11:25,779 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Sức khỏe
+2019-11-14 17:11:25,779 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Đời sống
+2019-11-14 17:11:25,780 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Du lịch
+2019-11-14 17:11:25,781 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Khoa học
+2019-11-14 17:11:25,781 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Số hóa
+2019-11-14 17:11:25,790 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Xe
+2019-11-14 17:11:25,791 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Ý kiến
+2019-11-14 17:11:25,799 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Tâm sự
+2019-11-14 17:11:25,800 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Cười
+2019-11-14 17:11:45,546 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 12 nguyên tắc an toàn giao thông trẻ cần biết
+2019-11-14 17:11:45,573 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sẽ xóa trạm BOT gần cầu Vàm Cống
+2019-11-14 17:11:45,599 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những dòng sông 'chết' ở Hà Nội
+2019-11-14 17:11:45,623 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nuôi ốc hương thu gần 1,5 tỷ mỗi năm
+2019-11-14 17:11:45,647 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sống bên những dòng sông chết
+2019-11-14 17:11:45,670 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quốc hội giám sát công tác phòng cháy, chữa cháy
+2019-11-14 17:11:45,696 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : TP HCM cấm đường Lê Duẩn trong 3 ngày
+2019-11-14 17:11:45,720 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Buôn làng xơ xác sau lũ
+2019-11-14 17:11:45,745 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Xóm chạy sạt lở
+2019-11-14 17:11:45,770 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hơn 5.000 ngày đêm sáng đèn trên công trường sông Đà
+2019-11-14 17:11:45,795 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bệnh viện dã chiến số 2 nhận quyết định sang Nam Sudan
+2019-11-14 17:11:45,820 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vốn đầu tư Metro Số 1 giảm 3.400 tỷ đồng
+2019-11-14 17:11:45,845 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ôtô khách tông 3 xe máy, lao vào nhà dân
+2019-11-14 17:11:45,874 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đề xuất giáng chức cán bộ lơ là phòng cháy chữa cháy
+2019-11-14 17:11:45,902 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hà Nội cấm hơn 20 tuyến đường trước trận Việt Nam - UAE
+2019-11-14 17:11:45,934 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 9 trường hợp buộc thu hồi biển số ôtô, xe máy
+2019-11-14 17:11:45,959 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : TP HCM bác nghi vấn quanh gói thầu 307 triệu USD
+2019-11-14 17:11:45,984 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phương tiện vào sân bay sẽ được miễn phí 10-15 phút
+2019-11-14 17:11:46,023 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thầy giáo vẽ tranh biếm họa bằng phấn trắng
+2019-11-14 17:11:46,055 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lắp 5 màn hình ở đường Nguyễn Huệ cổ vũ tuyển Việt Nam
+2019-11-14 17:11:46,082 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hà Nội lấy ý kiến việc bơm nước sông Hồng 'cứu' sông Tô Lịch
+2019-11-14 17:11:46,109 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đại biểu Quốc hội đề xuất không để xe trong hầm chung cư
+2019-11-14 17:11:46,135 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vé chợ đen trận Việt Nam - UAE tăng gấp 3 lần
+2019-11-14 17:11:46,161 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trình UNESCO công nhận ca Huế là 'Di sản văn hóa phi vật thể'
+2019-11-14 17:11:46,188 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hà Nội ngày càng ô nhiễm 'vì không gom được nước thải'
+2019-11-14 17:11:46,212 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 9 cao tốc kết nối các tỉnh phía Bắc với thủ đô
+2019-11-14 17:11:46,237 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quốc hội thảo luận việc miễn thị thực cho du khách vào khu kinh tế ven biển
+2019-11-14 17:11:46,265 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thủy điện Hòa Bình - Công trình kỳ vĩ của thế kỷ 20
+2019-11-14 17:11:46,289 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Học sinh lớp 11 sáng chế máy ấp trứng cua đinh
+2019-11-14 17:12:21,894 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bão Hagibis tàn phá Nhật Bản
+2019-11-14 17:12:21,923 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dàn vũ khí tại triển lãm quân sự ADEX-2019
+2019-11-14 17:12:21,950 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chile chìm trong biển lửa biểu tình
+2019-11-14 17:12:21,976 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đường tới ngai vàng của tân Nhật hoàng Naruhito
+2019-11-14 17:12:22,003 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lợn hoang phá hủy túi ma tuý trị giá 22.000 USD
+2019-11-14 17:12:22,030 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giáo sư gốc Việt gây 'bão' mạng vì tặng thú bông cho sinh viên
+2019-11-14 17:12:22,056 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mexico có thể gặp rắc rối khi 'cứu mạng' Morales
+2019-11-14 17:12:22,084 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tehran chìm trong khói bụi ô nhiễm
+2019-11-14 17:12:22,112 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sóng gió thử thách 'mối thâm tình' Trump - Erdogan
+2019-11-14 17:12:22,141 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hàng nghìn người ôm 'cây thần' chữa bệnh
+2019-11-14 17:12:22,169 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hệ thống tàu điện ngầm bí mật tại London
+2019-11-14 17:12:22,196 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cháy rừng hoành hành Australia
+2019-11-14 17:12:22,224 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tự tử vì biến đổi khí hậu
+2019-11-14 17:12:22,266 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trump hâm mộ Tổng thống Thổ Nhĩ Kỳ
+2019-11-14 17:12:22,328 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tàu ngầm Nga bị nghi xâm nhập lãnh hải Israel
+2019-11-14 17:12:22,365 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trump sắp công bố cuộc điện đàm với Tổng thống Ukraine
+2019-11-14 17:12:22,403 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lính cứu hỏa thiệt mạng khi cứu đồng đội
+2019-11-14 17:12:22,437 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Greta Thunberg đi nhờ thuyền đến Tây Ban Nha
+2019-11-14 17:12:22,470 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đục đường ống lấy gas, 7 người chết
+2019-11-14 17:12:22,498 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nghị sĩ Mỹ trình dự luật đấu tranh kinh tế với Trung Quốc
+2019-11-14 17:12:22,530 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tên lửa tối tân Israel có thể rơi vào tay Nga
+2019-11-14 17:12:22,561 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mỹ công nhận Tổng thống lâm thời Bolivia
+2019-11-14 17:12:22,594 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bị phạt vì mang mèo béo lên máy bay
+2019-11-14 17:12:22,628 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Harry - Meghan không nghỉ lễ cùng hoàng gia
+2019-11-14 17:12:22,660 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mỹ có thể sắp thử tên lửa đạn đạo mới
+2019-11-14 17:12:22,690 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tehran chìm trong khói bụi ô nhiễm
+2019-11-14 17:12:22,720 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Công ty Mỹ rao bán căn cứ tên lửa cũ
+2019-11-14 17:12:22,749 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hàn Quốc 'nín thở' trong ngày thi đại học
+2019-11-14 17:12:22,780 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đài Loan bắt nghi phạm trộm đồng hồ ở Hong Kong
+2019-11-14 17:12:22,813 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nữ tuỳ viên quốc phòng Australia kể về lương duyên với Việt Nam
+2019-11-14 17:12:22,864 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhật hoàng sẽ ăn tối suốt đêm với Nữ thần Mặt trời
+2019-11-14 17:12:22,891 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mỹ chật vật níu kéo đồng minh chống IS
+2019-11-14 17:12:22,921 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thủ tướng Nhật hủy tiệc ngắm hoa anh đào
+2019-11-14 17:12:22,955 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thai phụ sống đời chui lủi ở Đức
+2019-11-14 17:12:23,008 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mỹ có thể livestream xây tường biên giới
+2019-11-14 17:12:23,052 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nổ súng trong trường học Nga, hai người chết
+2019-11-14 17:12:23,089 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bị truy tố vì bắn chết tướng cảnh sát tại tòa
+2019-11-14 17:12:23,133 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Duterte làm việc tại nhà
+2019-11-14 17:12:44,483 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nền tảng cloud của CMC kết nối với 3 hãng công nghệ hàng đầu
+2019-11-14 17:12:44,513 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Công ty thu mua phế liệu Việt Đức hoạt động nhiều tỉnh thành
+2019-11-14 17:12:44,538 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thương hiệu nội thất E.F Interior khai trương showroom tại Hà Nội
+2019-11-14 17:12:44,567 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dàn nhạc thính phòng Anh gây ấn tượng tại Toyota Classics 2019
+2019-11-14 17:12:44,599 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tập đoàn Phương Anh áp dụng tư vấn đánh giá quản lý chất lượng
+2019-11-14 17:12:44,627 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những vụ CEO từ chức đình đám
+2019-11-14 17:12:44,655 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 4 dấu hiệu cho thấy bạn đang tiêu tiền lãng phí
+2019-11-14 17:12:44,685 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sàn online Việt 'bội thu' dịp Lễ độc thân
+2019-11-14 17:12:44,713 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : VietinBank trao chuyến du lịch Mỹ cho khách hàng may mắn
+2019-11-14 17:12:44,744 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ông lớn chứng khoán trồi sụt lợi nhuận
+2019-11-14 17:12:44,779 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thang nhôm Nikawa được sử dụng nhiều trong điện lực, viễn thông
+2019-11-14 17:12:44,810 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phía Tây Hà Nội sôi động căn hộ cho thuê nhờ cư dân châu Á
+2019-11-14 17:12:44,839 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hệ thống dịch vụ mới tạo cú hích cho du lịch Hàm Thuận Nam
+2019-11-14 17:12:44,866 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nệm Kymdan mở showroom mới tại Crescent Mall Phú Mỹ Hưng
+2019-11-14 17:12:44,893 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mạng viễn thông Viettel 10 năm thúc đẩy kinh doanh Việt - Lào
+2019-11-14 17:12:44,918 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hãng hàng không Air Seoul ký kết ra mắt tại Việt Nam
+2019-11-14 17:12:44,947 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chubb Việt Nam trao 80 suất học bổng cho học sinh nghèo
+2019-11-14 17:12:44,978 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mục tiêu tăng GDP 6,8% năm 2020 có khả thi?
+2019-11-14 17:12:45,005 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người trẻ Trung Quốc không hứng thú mua vàng
+2019-11-14 17:12:45,030 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhà sản xuất sữa lớn nhất Mỹ xin phá sản
+2019-11-14 17:12:45,057 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sacombank rao bán cổ phiếu liên quan gia đình ông Trầm Bê
+2019-11-14 17:12:45,082 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Một doanh nghiệp phát hành trái phiếu lãi suất 20%
+2019-11-14 17:12:45,107 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Elon Musk muốn xây siêu nhà máy Tesla ở Đức
+2019-11-14 17:12:45,133 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phó thủ tướng chỉ đạo sớm xét xử vụ Địa ốc Alibaba
+2019-11-14 17:12:45,160 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chủ cũ Inter Milan rút khỏi Ninh Vân Bay
+2019-11-14 17:12:45,183 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trump dọa tăng thuế mạnh tay với Trung Quốc
+2019-11-14 17:12:45,206 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Duyệt quy hoạch sân bay Sa Pa
+2019-11-14 17:12:45,228 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Doanh nhân nước ngoài trúng độc đắc Vietlott
+2019-11-14 17:12:45,251 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dự kiến huy động 8,6 tỷ kWh điện chạy dầu giá cao
+2019-11-14 17:12:45,274 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Việt Nam mất 50.000 tỷ đồng mỗi năm vì ưu đãi thuế
+2019-11-14 17:12:45,295 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cá ngừ xuất sang Mexico tăng mạnh
+2019-11-14 17:12:45,319 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khu Nam Sài Gòn đón cú hích từ hạ tầng giao thông
+2019-11-14 17:12:45,339 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chuỗi tiện ích trăm tỷ của tổ hợp nghỉ dưỡng, chăm sóc sức khỏe
+2019-11-14 17:12:45,363 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhật Bản tăng trưởng chậm nhất một năm
+2019-11-14 17:12:45,388 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tiềm năng thị trường đồ nội thất Việt
+2019-11-14 17:12:45,411 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giá vàng SJC giảm nhẹ
+2019-11-14 17:12:45,433 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cà Mau - điểm đến mới cho đầu tư bất động sản
+2019-11-14 17:12:45,458 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bất động sản 'xanh' khu Nhơn Trạch thu hút đầu tư
+2019-11-14 17:12:45,480 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chủ đầu tư Him Lam Green Park mở rộng đại lý phân phối
+2019-11-14 17:12:45,500 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : An ninh đa lớp tại dự án The Grand Manhattan
+2019-11-14 17:12:45,522 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tập đoàn Đại Phúc mở rộng hợp tác doanh nghiệp Hàn Quốc
+2019-11-14 17:12:45,548 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Gia đình Phó tư lệnh cảnh sát Thái thành tỷ phú
+2019-11-14 17:12:45,572 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Làm sao mở rộng kinh doanh khi kỹ năng quản lý yếu?
+2019-11-14 17:12:45,594 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quốc hội duyệt chi gần 5 tỷ USD trả nợ lãi năm 2020
+2019-11-14 17:12:45,619 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sắp có sàn giao dịch heo
+2019-11-14 17:12:45,640 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngân hàng ráo riết thu hồi nợ xấu
+2019-11-14 17:12:45,662 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giá heo hơi liên tục lập đỉnh
+2019-11-14 17:12:45,687 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người Mỹ nợ 14.000 tỷ USD
+2019-11-14 17:12:45,712 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giá xăng có thể tăng vào ngày mai
+2019-11-14 17:13:06,732 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Triển lãm sắp đặt từ rác thải nhựa
+2019-11-14 17:13:06,758 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tiểu thuyết 'Mang thai tuổi 17' được chuyển thể thành phim
+2019-11-14 17:13:06,781 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Top 10 'Kpop Dance For Youth' bốc thăm chọn huấn luyện viên
+2019-11-14 17:13:06,808 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngân Khánh đi sự kiện cùng chồng
+2019-11-14 17:13:06,837 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lương Thùy Linh biến hóa phong cách với nước hoa Charme
+2019-11-14 17:13:06,863 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : DOJI ưu đãi tới 30% trang sức tại VIJF
+2019-11-14 17:13:06,887 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mạc Văn Khoa đóng chính 'Lật mặt 5'
+2019-11-14 17:13:06,908 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hồ Ngọc Hà chưa nghĩ chuyện cưới Kim Lý
+2019-11-14 17:13:06,931 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chris Evans thường nghĩ đến chuyện giải nghệ
+2019-11-14 17:13:06,959 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Angelababy, Huỳnh Hiểu Minh đáp trả tin đồn ly dị
+2019-11-14 17:13:06,982 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : HBO muốn làm tiếp series 'Friends'
+2019-11-14 17:13:07,008 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Jung Joon Young đối mặt bảy năm tù
+2019-11-14 17:13:07,037 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hoàng Bách lập ban nhạc
+2019-11-14 17:13:07,062 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mẫu nam Hàn Quốc đóng MV của Min
+2019-11-14 17:13:07,086 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kim Tae Hee tái xuất sau sinh
+2019-11-14 17:13:07,109 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hồ Ngọc Hà mừng sinh nhật Kim Lý
+2019-11-14 17:13:07,133 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Huỳnh Tông Trạch mê quần áo màu sắc
+2019-11-14 17:13:07,158 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vợ Tiến Đạt khoe con
+2019-11-14 17:13:07,202 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chi Pu khỏa thân trong phim mới
+2019-11-14 17:13:07,230 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngọc Lan, Thanh Bình ly hôn
+2019-11-14 17:13:07,259 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giày cho nam giá từ 99.000 đồng
+2019-11-14 17:13:07,283 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Loạt túi xách giảm nửa giá
+2019-11-14 17:13:07,309 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đầm đơn sắc cho người chuộng gu tối giản
+2019-11-14 17:13:07,336 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phim 'Sinh tử' hút khán giả ở đề tài tham nhũng
+2019-11-14 17:13:07,361 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lâm Chí Dĩnh nhắc tình cũ Lâm Tâm Như
+2019-11-14 17:13:07,387 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Doctor Sleep' pha trộn chất kinh dị và siêu năng lực
+2019-11-14 17:13:07,411 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nicole Kidman cùng chồng lên thảm đỏ
+2019-11-14 17:13:07,434 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dương Cẩm Lynh đóng cặp bạn diễn kém mười tuổi
+2019-11-14 17:13:07,460 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vẻ đẹp vùng sông nước trên tranh sơn dầu
+2019-11-14 17:13:07,487 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lương Thùy Linh giới thiệu bản thân tại Miss World
+2019-11-14 17:13:07,533 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Alicia Keys dẫn chương trình Grammy 2020
+2019-11-14 17:13:07,563 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ba năm bên nhau của Ngọc Lan, Thanh Bình
+2019-11-14 17:13:07,591 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tài tử 12 năm đau đáu về bạn gái đã mất
+2019-11-14 17:13:28,406 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thái Lan lần thứ 15 vô địch futsal Đông Nam Á
+2019-11-14 17:13:28,429 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cựu cầu thủ Thế hệ vàng đá bóng hướng về đồng bào vùng bão
+2019-11-14 17:13:28,460 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tám tay vợt dự Next Gen ATP Finals 2019
+2019-11-14 17:13:28,489 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Woods xác nhận thi đấu ở Genesis Invitational 2020
+2019-11-14 17:13:28,510 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : HLV Park truyền 'lửa', khát khao chiến thắng cho bóng đá Việt
+2019-11-14 17:13:28,534 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bàn thắng của Huỳnh Quang Thanh vào lưới UAE
+2019-11-14 17:13:28,560 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Robertson: 'Liverpool sẽ vô địch nếu xếp trên Man City'
+2019-11-14 17:13:28,584 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Milan muốn tái hợp với Ancelotti
+2019-11-14 17:13:28,613 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tsitsipas vào bán kết ATP Finals
+2019-11-14 17:13:28,636 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Wenger đầu quân cho FIFA
+2019-11-14 17:13:28,659 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Công nghệ phủ sóng hiện đại của Viettel cho trận Việt Nam - UAE
+2019-11-14 17:13:28,684 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ciganda thắng Aon Risk Reward Challenge
+2019-11-14 17:13:28,710 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lindelof nhớ Mourinho
+2019-11-14 17:13:28,732 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : David Villa giải nghệ
+2019-11-14 17:13:28,753 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nadal thoát hiểm trước Medvedev ở ATP Finals
+2019-11-14 17:13:28,779 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Saha: 'Man Utd cần tiền đạo giàu kinh nghiệm hơn'
+2019-11-14 17:13:28,804 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nadal: 'Không dễ để Medvedev quên trận thua này'
+2019-11-14 17:13:28,827 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cựu HLV Osaka: 'Clijsters khó đủ sức thi đấu đỉnh cao'
+2019-11-14 17:13:28,851 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đồng đội chờ lời xin lỗi từ Ronaldo
+2019-11-14 17:13:28,875 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : HLV Thái Lan cử trợ lý đến do thám Việt Nam
+2019-11-14 17:13:28,898 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Báo UAE: 'Thua Việt Nam, Van Marwijk sẽ mất chức'
+2019-11-14 17:13:28,923 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Asprilla: 'Tôi từng ngăn sát thủ giết Chilavert'
+2019-11-14 17:13:28,948 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chris Kirk - 'đệ tử lưu linh' trở lại PGA Tour
+2019-11-14 17:13:28,971 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cảng Thượng Hải đánh tiếng mua Chanathip
+2019-11-14 17:13:28,992 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : UAE đau đầu với bài toán tiền đạo khi gặp Việt Nam
+2019-11-14 17:13:29,017 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Malaysia - Thái Lan: Đại chiến ở Bukit Jalil
+2019-11-14 17:13:29,041 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sáu trận đáng xem ở loạt vòng loại khu vực châu Á hôm nay
+2019-11-14 17:13:29,066 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Việt Nam - UAE: Cuộc chiến vì ngôi đầu
+2019-11-14 17:13:29,093 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chuyên gia UAE: 'Cần chú ý những cầu thủ nhỏ con của Việt Nam'
+2019-11-14 17:13:29,117 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Park Hang-seo đạt kết quả thế nào trước các HLV đẳng cấp World Cup
+2019-11-14 17:13:29,143 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Việt Nam - UAE và bài học cần sửa chữa ở Asiad 2018
+2019-11-14 17:13:50,404 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Xe container lao qua ngã ba như 'chốn không đèn' ở Sài Gòn
+2019-11-14 17:13:50,428 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Xe đưa rước học sinh chạy ngược chiều bị chặn đầu
+2019-11-14 17:13:50,459 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bị ôtô bấm còi, xe máy chở 3 chặn đầu thách thức tài xế
+2019-11-14 17:13:50,488 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Có nên ghi giá giao dịch thấp trong hợp đồng mua bán nhà?
+2019-11-14 17:13:50,513 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Công an TP HCM điều tra vụ 'Phó chánh án chiếm nhà'
+2019-11-14 17:13:50,542 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bốn nhân viên Alibaba bị đề nghị truy tố
+2019-11-14 17:13:50,570 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : VN Pharma bán hết 4 loại thuốc kháng sinh giả
+2019-11-14 17:13:50,596 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chồng hiểu nhầm vợ từ lời vu vạ của thày bói
+2019-11-14 17:13:50,623 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hai tên cướp giết nam sinh chạy Grab sau cuốc xe 60.000 đồng
+2019-11-14 17:13:50,650 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cách lấy dấu vân tay tại hiện trường vụ án
+2019-11-14 17:13:50,679 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cặp vợ chồng trẻ lĩnh 17 năm tù vì 'mở tiệc' ma tuý
+2019-11-14 17:13:50,704 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sát hại mẹ già vì bị mắng
+2019-11-14 17:13:50,728 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bộ Công an cảnh báo rủi ro khi đầu tư vào Công ty ERG
+2019-11-14 17:13:50,757 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Luật sư Trần Vũ Hải bị xét xử
+2019-11-14 17:13:50,789 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khá 'Bảnh' hầu toà
+2019-11-14 17:13:50,821 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thêm ba người bị khởi tố trong giai đoạn 2 vụ án Hà Văn Thắm
+2019-11-14 17:13:50,853 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cắm kim trên ghế xe buýt để trả thù tài xế
+2019-11-14 17:13:50,884 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lĩnh một ngày tù do ăn trộm 12 quả sầu riêng
+2019-11-14 17:13:50,918 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khá 'Bảnh' bị phạt hơn 10 năm tù
+2019-11-14 17:13:50,953 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tài xế container tông chết 5 người lĩnh án
+2019-11-14 17:13:50,985 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Công an Sơn La có giám đốc mới
+2019-11-14 17:13:51,030 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kẻ cuồng ghen bị phạt 20 năm tù
+2019-11-14 17:13:51,098 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giám đốc lĩnh án vì cấp dưới chiếm đoạt tiền
+2019-11-14 17:13:51,128 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đạo chích đánh bố con chủ nhà
+2019-11-14 17:13:51,158 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phạm nhân khởi kiện vì bị biệt giam
+2019-11-14 17:13:51,194 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lừa trúng thưởng iPhone X
+2019-11-14 17:13:51,229 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người bị ảo giác tấn công hàng xóm
+2019-11-14 17:13:51,261 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chém chết người khi bị vợ cũ đòi nợ
+2019-11-14 17:13:51,290 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khởi tố bà lão sát hại cháu nội
+2019-11-14 17:13:51,320 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 5 án tử hình cho nhóm giấu ma tuý vào thành tủ lạnh
+2019-11-14 17:13:51,352 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Truy tìm tài xế xe Altis tông chết thai phụ
+2019-11-14 17:13:51,381 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khởi tố 20 chủ tàu cá gian lận tiền hỗ trợ
+2019-11-14 17:13:51,414 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thiêu xác vợ mới cưới
+2019-11-14 17:13:51,463 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cách lấy dấu vân tay tại hiện trường vụ án
+2019-11-14 17:13:51,491 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kẻ bịt mặt hiếp dâm, cướp vàng
+2019-11-14 17:14:12,554 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hai cách tạo ô lưới trong Microsoft Word
+2019-11-14 17:14:12,579 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bốn câu đố về tên gọi quốc gia
+2019-11-14 17:14:12,602 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Học bổng đến 800 triệu đồng từ trường nội trú North Broward
+2019-11-14 17:14:12,629 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngành sư phạm Vật lý chất lượng cao khó tuyển sinh
+2019-11-14 17:14:12,650 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhà quản lý dự án 8X chọn FUNiX để lấy bằng đại học
+2019-11-14 17:14:12,670 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cách tổ chức bữa ăn bán trú ở Pháp
+2019-11-14 17:14:12,697 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vẽ vịt Donald 3D
+2019-11-14 17:14:12,721 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trường Ngô Quyền phải kiểm điểm vì kỷ luật nam sinh
+2019-11-14 17:14:12,743 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trung tâm Toán Tư Duy Mathnasium có mặt tại 17 quốc gia
+2019-11-14 17:14:12,769 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : ‘Tri thức trẻ vì giáo dục’ vinh danh 5 giải xuất sắc
+2019-11-14 17:14:12,792 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giáo viên dốc tiền túi mua đồ dùng cho học sinh
+2019-11-14 17:14:12,815 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bài toán chuyển động lớp 6 của Hungary
+2019-11-14 17:14:12,838 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lên chùa cầu cho con đỗ đại học
+2019-11-14 17:14:12,860 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hàn Quốc tổ chức lại giao thông vào ngày thi đại học
+2019-11-14 17:14:12,882 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cách nói rút gọn 'want to' và 'going to'
+2019-11-14 17:14:12,903 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bí quyết giỏi tiếng Anh của người đàn ông Italy
+2019-11-14 17:14:12,929 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ba hạn chế của trẻ tài năng
+2019-11-14 17:14:12,951 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sông nào dài nhất thế giới?
+2019-11-14 17:14:12,973 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những con số về hoạt động khoa học của Đại học Phenikaa
+2019-11-14 17:14:12,999 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Học viên trải nghiệm lớp học tại cơ sở mới VUS Tên Lửa
+2019-11-14 17:14:13,022 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khởi động khóa đào tạo giáo viên Montessori quốc tế lứa tuổi 0-3
+2019-11-14 17:14:13,048 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vẽ vịt Donald 3D
+2019-11-14 17:14:13,068 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Việc làm thêm cho du học sinh tại New Zealand
+2019-11-14 17:14:13,094 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Học sinh Pháp bắt đầu giờ học từ 8h
+2019-11-14 17:14:13,118 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cải thiện kỹ năng nghe hiểu tiếng Anh
+2019-11-14 17:14:13,141 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thần đồng tốt nghiệp đại học năm 9 tuổi
+2019-11-14 17:14:13,162 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ấn tượng về cậu học trò tự kỷ
+2019-11-14 17:14:13,186 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thầy giáo vẽ tranh biếm họa bằng phấn trắng
+2019-11-14 17:14:13,209 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bãi bỏ quy định hà khắc với học sinh
+2019-11-14 17:14:13,231 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tìm điểm bất hợp lý trong tranh
+2019-11-14 17:14:13,253 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Du học nghề miễn phí ngành Cơ khí tại Đức
+2019-11-14 17:14:13,277 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trắc nghiệm chọn dạng đúng của động từ tiếng Anh
+2019-11-14 17:14:35,486 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bài thuốc thảo dược chữa đau họng ho khan
+2019-11-14 17:14:35,506 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Uống thuốc huyết áp buổi tối tốt hơn sáng
+2019-11-14 17:14:35,527 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bài thuốc Đông y hỗ trợ phòng trị sốt xuất huyết
+2019-11-14 17:14:35,551 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cách điều trị bệnh trĩ
+2019-11-14 17:14:35,575 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ăn tối muộn tăng nguy cơ bệnh tim mạch
+2019-11-14 17:14:35,598 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lực sĩ 9 lần vô địch giải thể hình
+2019-11-14 17:14:35,622 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bài tập để có bờ vai gợi cảm
+2019-11-14 17:14:35,647 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cách ăn uống hỗ trợ giảm nguy cơ ung thư vú
+2019-11-14 17:14:35,675 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lăn kim có trị hết mụn?
+2019-11-14 17:14:35,731 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Con hứa sẽ không bao giờ gục ngã
+2019-11-14 17:14:35,766 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Động kinh và cách xử trí
+2019-11-14 17:14:35,788 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bệnh viện 108 dùng robot giảm đau cho người ung thư
+2019-11-14 17:14:35,812 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chỉnh sửa nhan sắc cho chàng trai bị gãy xương sống mũi
+2019-11-14 17:14:35,835 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thuốc lá tàn phá phổi thế nào?
+2019-11-14 17:14:35,855 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bác sĩ giúp người vô sinh sinh con
+2019-11-14 17:14:35,875 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dấu hiệu độc nhất của mỗi người
+2019-11-14 17:14:35,902 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Viêm phổi - 'bệnh dịch bị quên lãng'
+2019-11-14 17:14:35,930 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ứng dụng sàng lọc trẻ bị rối loạn di truyền
+2019-11-14 17:14:35,955 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cô gái sinh con trên sàn nhảy
+2019-11-14 17:14:35,976 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cụ bà 90 tuổi 4 lần bị đột quỵ
+2019-11-14 17:14:35,997 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quy tắc 2-2-4 bảo quản thức ăn thừa
+2019-11-14 17:14:36,020 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mỹ phẩm chứa corticoid làm hại da
+2019-11-14 17:14:36,041 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thuốc mới khiến khối ung thư 'chết đói'
+2019-11-14 17:14:36,061 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thủ pháp châm cứu xuyên huyệt của bác sĩ Đông y
+2019-11-14 17:14:36,081 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Gãy 10 xương sườn sau cơn ho
+2019-11-14 17:14:36,103 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phòng ngừa hăm tã đúng cách cho trẻ
+2019-11-14 17:14:36,124 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trẻ em Việt cần được hỗ trợ dinh dưỡng bền vững
+2019-11-14 17:14:36,147 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bác sĩ thảo luận cách ứng phó bệnh không lây nhiễm
+2019-11-14 17:14:36,170 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Citigym ra mắt phòng tập triệu USD tại Bến Vân Đồn
+2019-11-14 17:14:36,194 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ăn tối muộn tăng nguy cơ bệnh tim mạch
+2019-11-14 17:14:36,215 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bài tập để có bờ vai gợi cảm
+2019-11-14 17:14:36,235 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Động kinh và cách xử trí
+2019-11-14 17:14:36,261 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sau 20 năm mới phát hiện chiếc răng trong mũi
+2019-11-14 17:14:36,284 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sự thật về đôi mắt
+2019-11-14 17:14:36,308 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hai người Trung Quốc bị dịch hạch
+2019-11-14 17:14:36,331 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chế thành công da người nhân tạo
+2019-11-14 17:14:36,353 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lăn kim có trị hết mụn?
+2019-11-14 17:14:36,375 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thai phụ chuyển dạ trong cơn sốt xuất huyết
+2019-11-14 17:14:57,198 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thổi hồn vào nội thất và kiến trúc gỗ
+2019-11-14 17:14:57,223 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trẻ 6-12 tuổi nên chơi thể thao 3 lần mỗi tuần
+2019-11-14 17:14:57,247 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hành trình một tháng của cuộc thi 'Gửi người phụ nữ tôi trân quý'
+2019-11-14 17:14:57,270 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Định tự tử vì vợ nghiện mua sắm
+2019-11-14 17:14:57,291 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quạt đèn chùm làm mới không gian sống
+2019-11-14 17:14:57,315 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tiêu chí chọn giỏ quà Tết
+2019-11-14 17:14:57,340 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vật dụng ngoài trời cho căn hộ sân vườn rộng
+2019-11-14 17:14:57,365 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 6 nguyên tắc giúp bạn hạnh phúc sau cưới
+2019-11-14 17:14:57,390 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dùng mẫu ADN của bạn để trốn cấp dưỡng con
+2019-11-14 17:14:57,415 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chú rể dùng trực thăng rắc phong bì
+2019-11-14 17:14:57,438 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đóng ăn xin, chàng trai mua được nhà thành phố
+2019-11-14 17:14:57,462 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nàng dâu Việt lên báo Nhật
+2019-11-14 17:14:57,486 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những sao nhí phải 'gánh cả gia đình' trên vai
+2019-11-14 17:14:57,510 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Gia đình sống với con trăn 108 kg
+2019-11-14 17:14:57,532 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lợi ích khi xông tinh dầu
+2019-11-14 17:14:57,553 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vật dụng nên có trong nhà
+2019-11-14 17:14:57,578 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những chiếc máy xay tiện dụng cho người nội trợ
+2019-11-14 17:14:57,607 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quà tặng phong thủy mạ vàng tinh xảo
+2019-11-14 17:14:57,630 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 69.000 đồng một bộ đồ đá banh trong ngày 14/11
+2019-11-14 17:14:57,653 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thiết bị tưới cây đa năng hỗ trợ người làm vườn
+2019-11-14 17:14:57,676 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hai chú khỉ sống như vợ chồng trong nhà riêng
+2019-11-14 17:14:57,702 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người đàn ông lấy vợ ít tuổi hơn cả 7 con mình
+2019-11-14 17:14:57,727 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cuộc đời người đoạt giải Nobel bị nhân viên tẩy chay
+2019-11-14 17:14:57,753 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mua căn hộ đắt đỏ, phát hiện bếp và toilet thuộc về nhà khác
+2019-11-14 17:14:57,775 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sai lầm của mẹ khi ăn mặc cẩu thả
+2019-11-14 17:14:57,798 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Con trai tỷ phú bị cắt các đặc quyền
+2019-11-14 17:14:57,822 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cụ bà cả đời sống như thời cổ
+2019-11-14 17:14:57,846 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cậu bé kẹt đầu trong bô vì em nghịch dại
+2019-11-14 17:14:57,867 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thiết bị giúp người nội trợ tiết kiệm thời gian dọn nhà
+2019-11-14 17:14:57,889 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Con nhà siêu giàu học cách giữ tiền
+2019-11-14 17:14:57,913 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chăm con nhàn tênh với loạt dụng cụ đa năng
+2019-11-14 17:15:19,751 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chợ hải sản tính tiền theo thau
+2019-11-14 17:15:19,772 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Con đường nơi ai dừng lại là bị bắt
+2019-11-14 17:15:19,793 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khách tìm đến 'cà phê đường tàu' sau tin đóng cửa
+2019-11-14 17:15:19,815 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những món nóng hổi trên đường phố Đà Lạt
+2019-11-14 17:15:19,835 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đầm nước được ví như vùng vịnh không sóng
+2019-11-14 17:15:19,857 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khách đổ đến Nhật Tân chụp ảnh cúc hoạ mi
+2019-11-14 17:15:19,878 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vì sao du lịch Việt Nam chưa bứt phá?
+2019-11-14 17:15:19,900 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : TST tourist ưu đãi khách hàng đặt tour Tết Nguyên đán
+2019-11-14 17:15:19,924 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 4 địa chỉ bán thịt xiên nướng nóng hổi
+2019-11-14 17:15:19,945 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Can Tho Ecolodge ưu đãi giá phòng nghỉ dịp cuối năm
+2019-11-14 17:15:19,966 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Luật ngầm' cho ghế giữa trên máy bay
+2019-11-14 17:15:19,989 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Tây Lương nữ quốc" ngoài đời thực
+2019-11-14 17:15:20,011 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người mẫu Canada nghỉ dưỡng ở Đà Nẵng
+2019-11-14 17:15:20,032 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khách Việt phải thở oxy khi đến Machu Picchu
+2019-11-14 17:15:20,054 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khách trốn trong toilet để đi lậu máy bay
+2019-11-14 17:15:20,076 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Có gì trên khoang hạng nhất giá 26.000 USD một vé?
+2019-11-14 17:15:20,096 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khách sạn vừa nhận hàng loạt giải thưởng thế giới tại Sa Pa
+2019-11-14 17:15:20,119 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Các công ty du lịch châu Âu khảo sát tour Việt Nam
+2019-11-14 17:15:20,145 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cặp đôi dùng sầu riêng làm hoa cưới
+2019-11-14 17:15:20,168 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Việt Nam là động lực thúc đẩy hàng không Đông Nam Á
+2019-11-14 17:15:20,190 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 8 đường biên giới lạ thường trên thế giới
+2019-11-14 17:15:20,211 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 20 quy tắc cần biết khi tắm onsen
+2019-11-14 17:15:20,233 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 5 món ăn vặt gốc Hoa được ưa chuộng
+2019-11-14 17:15:20,255 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lý do nên yêu cầu nước gừng trên máy bay
+2019-11-14 17:15:20,276 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 5 phong tục truyền thống ở Kyoto
+2019-11-14 17:15:20,298 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khách du lịch bì bõm trong nước lũ ở Venice
+2019-11-14 17:15:20,320 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thành phố hút khách nhờ series quảng cáo 18+
+2019-11-14 17:15:20,343 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mùa hoa dã quỳ trên núi lửa Chư Đăng Ya
+2019-11-14 17:15:20,366 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nơi làm ra phomat cứng nhất thế giới
+2019-11-14 17:15:20,388 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bí ẩn khúc gỗ nổi thẳng đứng 120 năm trên hồ
+2019-11-14 17:15:20,413 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Địa điểm tổ chức tiệc cuối năm cho doanh nghiệp
+2019-11-14 17:15:20,437 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nước nào ở châu Âu hoàn thuế cao nhất?
+2019-11-14 17:15:20,479 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Du khách sẽ phải đóng thuế khi đến Thổ Nhĩ Kỳ
+2019-11-14 17:15:20,501 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sau ánh hào quang của màn tái hiện ký ức Hội An
+2019-11-14 17:15:20,527 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kỷ niệm khó quên của HDV đi tour bóng đá
+2019-11-14 17:15:20,549 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 4 địa chỉ bán thịt xiên nướng nóng hổi
+2019-11-14 17:15:41,300 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chim bói cá thoát đói nhờ thú mỏ vịt
+2019-11-14 17:15:41,321 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chế tạo pin uốn dẻo chỉ mỏng 0,05 mm
+2019-11-14 17:15:41,341 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dự án điện mặt trời Đa Mi sử dụng phao nổi "Made in Vietnam"
+2019-11-14 17:15:41,362 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Loài cá có thể đi bộ dưới đáy biển
+2019-11-14 17:15:41,384 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tại sao ánh mắt bóc mẽ kẻ nói dối?
+2019-11-14 17:15:41,405 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 450 gian hàng trình diễn công nghệ tại Techdemo 2019
+2019-11-14 17:15:41,427 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giảng viên đại học bỏ việc để mở xưởng robot
+2019-11-14 17:15:41,447 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thủy điện Hòa Bình - Công trình kỳ vĩ của thế kỷ 20
+2019-11-14 17:15:41,468 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hơn 5.000 ngày đêm sáng đèn trên công trường sông Đà
+2019-11-14 17:15:41,489 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : NASA sẽ khám phá sao Kim bằng tàu cá đuối
+2019-11-14 17:15:41,509 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những món ăn chất đầy trong mộ vua Tutankhamun
+2019-11-14 17:15:41,530 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bầy linh cẩu hợp sức đoạt mạng tê giác
+2019-11-14 17:15:41,551 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đàn báo tuyết 'tàng hình' trên núi
+2019-11-14 17:15:41,576 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Loài vật gần như không tiến hóa từ thời tiền sử
+2019-11-14 17:15:41,598 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phát hiện loài khủng long ăn thịt lâu đời nhất
+2019-11-14 17:15:41,619 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Xác tàu thời Trung Cổ chìm dưới đáy sông
+2019-11-14 17:15:41,643 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mèo bị biệt giam vì chuyên dắt đồng loại trốn trại
+2019-11-14 17:15:41,666 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngôi sao bị hố đen siêu lớn hất văng khỏi dải Ngân Hà
+2019-11-14 17:15:41,687 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hàng trăm chim cổ rắn xuất hiện ở Đồng Nai
+2019-11-14 17:15:41,711 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tinh tinh mò vào làng sát hại trẻ em
+2019-11-14 17:15:41,734 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vật thể nghi là khối long diên hương 100.000 USD
+2019-11-14 17:15:41,761 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tên lửa mạnh nhất trong lịch sử của SpaceX
+2019-11-14 17:15:41,782 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đôi cánh cụt cái đồng tính 'lập gia đình' với con đực
+2019-11-14 17:15:41,805 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Truy xuất nguồn gốc sản phẩm đang bị hiểu sai
+2019-11-14 17:15:41,830 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngủ nhiều là thói quen hay nhu cầu?
+2019-11-14 17:15:41,850 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phát hiện 7 loài đỉa mới sống trong trai nước ngọt
+2019-11-14 17:15:41,871 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thủy điện Hòa Bình - Công trình kỳ vĩ của thế kỷ 20
+2019-11-14 17:15:41,893 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cá heo không vây quý hiếm chào đời
+2019-11-14 17:15:41,913 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hào quang tròn xuất hiện trên sa mạc
+2019-11-14 17:15:41,934 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nam Phi gửi 17 tê giác đen tới Malawi
+2019-11-14 17:15:41,954 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chó mẹ gãy chân dẫn người tới cứu đàn con
+2019-11-14 17:15:41,977 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Loài vượn khổng lồ ở Đông Nam Á thời tiền sử
+2019-11-14 17:15:41,998 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bí quyết thu nước từ sương của bọ cánh cứng
+2019-11-14 17:16:02,056 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Google thu thập dữ liệu y tế trái phép
+2019-11-14 17:16:02,087 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những lưu ý cần biết khi cứu dữ liệu
+2019-11-14 17:16:02,120 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giải pháp tổng đài trợ lý ảo của MobiFone
+2019-11-14 17:16:02,153 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Infineon tổ chức sự kiện OktoberTech Asia Pacific tại Singapore
+2019-11-14 17:16:02,185 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bộ đôi máy tính AIO được đánh giá cao của HP
+2019-11-14 17:16:02,216 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vertu trở lại Việt Nam với mẫu điện thoại thông minh Aster P
+2019-11-14 17:16:02,247 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Máy tính HP 280 G4 Microtower đa cấu hình cho doanh nghiệp
+2019-11-14 17:16:02,276 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những ưu điểm của máy giặt Aqua lồng lớn
+2019-11-14 17:16:02,306 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lý do bất ngờ khiến bình đun nước không vào điện
+2019-11-14 17:16:02,337 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Galaxy A30s không chạy đua về cấu hình
+2019-11-14 17:16:02,368 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nova 5T - smartphone tầm trung tốt ngang hàng cao cấp
+2019-11-14 17:16:02,398 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nokia 7.2 chụp bokeh ấn tượng
+2019-11-14 17:16:02,426 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Galaxy M30s - smartphone 7 triệu đồng pin khỏe
+2019-11-14 17:16:02,463 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Máy rửa bát
+2019-11-14 17:16:02,500 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : iPhone 11
+2019-11-14 17:16:02,549 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Samsung Galaxy Note 10
+2019-11-14 17:16:02,584 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ứng dụng FaceApp
+2019-11-14 17:16:02,637 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kỹ sư hóa học sản xuất giày từ bã cà phê
+2019-11-14 17:16:02,677 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sinh viên nên dành bao nhiêu tiền để mua điện thoại mới?
+2019-11-14 17:16:02,714 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Robot tự xếp hình
+2019-11-14 17:16:02,751 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cách khử mùi hôi trong tủ lạnh
+2019-11-14 17:16:02,788 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Galaxy M30s - smartphone 7 triệu đồng pin khỏe
+2019-11-14 17:16:02,827 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Oppo Reno2 F thêm màu xanh tinh vân
+2019-11-14 17:16:02,863 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thẻ tín dụng của Apple bị điều tra
+2019-11-14 17:16:02,900 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Apple phát hành iOS, iPadOS thử nghiệm mới
+2019-11-14 17:16:02,936 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trump sắp thăm nhà máy Apple
+2019-11-14 17:16:02,969 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ứng dụng Facebook tự mở camera của người dùng iPhone
+2019-11-14 17:16:03,005 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sony Xperia 3 lộ ảnh thực tế
+2019-11-14 17:16:03,041 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mã độc giả mạo trình duyệt Chrome
+2019-11-14 17:16:03,079 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Công nghệ có thể tạo 'Big Bang' trong báo chí
+2019-11-14 17:16:03,113 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : YouTube khóa tài khoản người dùng nếu chặn quảng cáo
+2019-11-14 17:16:03,167 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Huawei sẽ chi 1 tỷ USD phát triển hệ sinh thái riêng
+2019-11-14 17:16:03,199 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : TV Xiaomi giá rẻ đổ bộ vào Việt Nam
+2019-11-14 17:16:03,234 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sản phẩm nào được lựa chọn trong Tech Awards
+2019-11-14 17:16:03,267 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Loạt 'siêu phẩm' một thời giá dưới 5 triệu đồng
+2019-11-14 17:16:03,300 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tên miền Zalo.vn bị dừng hoạt động
+2019-11-14 17:16:03,331 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 30% doanh nghiệp từng gián đoạn dịch vụ vì sự cố mạng
+2019-11-14 17:16:03,365 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thế giới sẽ chi 1,18 nghìn tỷ USD cho chuyển đổi số
+2019-11-14 17:16:03,399 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Apple trình làng MacBook Pro 16 inch
+2019-11-14 17:16:03,435 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Live stream' là xu hướng bán hàng trong tương lai
+2019-11-14 17:16:03,470 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bị lừa khi mua hàng giảm giá online
+2019-11-14 17:16:03,500 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Facebook sửa lỗi tự mở camera trên iPhone
+2019-11-14 17:16:03,532 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phó chủ tịch Apple chê Chromebook
+2019-11-14 17:16:03,566 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hình dung về iPhone Slide Pro màn hình trượt
+2019-11-14 17:16:03,598 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chọn nồi cơm điện nào
+2019-11-14 17:16:03,631 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dùng 100.000 iPhone, iPad giả để lừa Apple 6 triệu USD
+2019-11-14 17:16:23,492 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Top xe bán chậm tháng 10
+2019-11-14 17:16:23,521 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kia Morning bị ôtô 7 chỗ đâm lật ngửa trên vỉa hè
+2019-11-14 17:16:23,553 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nằm ăn vạ giữa đường khi bị CSGT phạt
+2019-11-14 17:16:23,585 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mẹ vượt đèn đỏ bị con gái bắt phải quay lại
+2019-11-14 17:16:23,614 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nữ tài xế lái xe rơi tọt xuống hố khi định quay đầu
+2019-11-14 17:16:23,644 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Không nên mua Vespa Print vì tốn xăng, ồn?
+2019-11-14 17:16:23,674 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mua xe cho vợ, chọn Liberty ABS hay Vespa Primavera?
+2019-11-14 17:16:23,706 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Toyota Land Cruiser nâng cấp, tăng gần 50 triệu đồng
+2019-11-14 17:16:23,751 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Toyota Vios hatchback trở thành crossover
+2019-11-14 17:16:23,781 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 10 mẫu SUV cũ giá dưới 10.000 USD ở Mỹ
+2019-11-14 17:16:23,809 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Zapp i300 - xe máy điện Thái Lan giá gần 7.000 USD
+2019-11-14 17:16:23,840 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tài xế gây sự nhầm người có võ
+2019-11-14 17:16:23,868 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bán tải hàng hiếm Jeep Gladiator Rubicon giá gần 4 tỷ tại Việt Nam
+2019-11-14 17:16:23,899 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những ưu điểm trên mẫu xe tải nội đô Suzuki Blind Van
+2019-11-14 17:16:23,929 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Toyota Việt Nam ưu đãi 'khủng' cuối năm
+2019-11-14 17:16:23,957 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mazda CX-5 bản nâng cấp giá từ 42.800 USD
+2019-11-14 17:16:23,989 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Xe máy chở 3 nữ sinh lao vào ôtô đang đỗ
+2019-11-14 17:16:24,015 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Người trẻ mua xe theo nhu cầu thực tế'
+2019-11-14 17:16:24,044 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mazda CX-8 2020 bản 6 chỗ giá 68.300 USD
+2019-11-14 17:16:24,075 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mitsubishi Xpander phiên bản crossover ra mắt
+2019-11-14 17:16:24,104 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Honda City thế hệ mới sắp ra mắt Đông Nam Á
+2019-11-14 17:16:24,132 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những mẫu xe 'không có đối thủ' tại Việt Nam
+2019-11-14 17:16:24,160 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mazda3 2020 - nỗ lực thoát tầm phổ thông
+2019-11-14 17:16:24,188 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 450 triệu nên mua lại Vios 2018?
+2019-11-14 17:16:24,214 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 600-700 triệu, nên mua xe gì chạy ở miền núi?
+2019-11-14 17:16:24,241 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Toyota Việt Nam tham gia làn sóng xanh trên thị trường ôtô
+2019-11-14 17:16:24,269 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Xe Toyota nhiều ưu đãi dịp cuối năm
+2019-11-14 17:16:24,296 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những trang bị chinh phục đại gia Việt của Audi Q8
+2019-11-14 17:16:24,323 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Xe cũ, nên mua Honda Civic hay Kia Carens?
+2019-11-14 17:16:24,351 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : McLaren giới thiệu siêu xe không kính chắn gió
+2019-11-14 17:16:24,380 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ferrari Roma - siêu xe mới lộ diện
+2019-11-14 17:16:24,409 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Xe khách bị xe tải đâm trực diện
+2019-11-14 17:16:45,229 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trẻ em loay hoay trong 'kỳ vọng số một' của cha mẹ
+2019-11-14 17:16:45,260 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Việt Nam tụt hạng tiếng Anh - người Việt ít nhu cầu hay cách dạy cũ kỹ?
+2019-11-14 17:16:45,292 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Căn bệnh 'thích làm việc nhẹ lương cao"
+2019-11-14 17:16:45,326 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giải pháp công nghệ tình thế không thể làm sạch sông Tô Lịch
+2019-11-14 17:16:45,360 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Nhồi nhét' xác suất thống kê cho học sinh lớp 2
+2019-11-14 17:16:45,391 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Học sinh lớp 2 hoàn toàn có thể học xác suất thống kê'
+2019-11-14 17:16:45,421 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tôi mất căn bản tiếng Anh vì ám ảnh bị chê phát âm sai
+2019-11-14 17:16:45,455 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Không có nhân viên kém, chỉ có quản lý tồi'
+2019-11-14 17:16:45,490 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Trường khó dạy điều đúng khi cha mẹ cho phép làm sai'
+2019-11-14 17:16:45,522 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Học tiếng Anh 10 năm vẫn 'mù', ra nước ngoài một năm thành thục
+2019-11-14 17:16:45,562 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Công Phượng sẽ ghi bàn vào lưới UAE'
+2019-11-14 17:16:45,599 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Con tôi giỏi tiếng Anh nhờ karaoke
+2019-11-14 17:16:45,631 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tôi vẫn đãi hai bữa tiệc cưới dù không có đồng nào
+2019-11-14 17:16:45,662 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sếp luôn ép nhân viên 'vượt qua chính mình'
+2019-11-14 17:16:45,692 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thầy giáo lục soát tìm đồng hồ ăn cắp trong lớp học
+2019-11-14 17:16:45,721 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'U19 không còn bé để đá bóng hồn nhiên'
+2019-11-14 17:16:45,748 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhà vợ phản đối đám cưới đơn giản vì 'đời chỉ có một lần'
+2019-11-14 17:16:45,777 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Chính người bản địa giết chết dòng sông'
+2019-11-14 17:16:45,803 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Để đam mê dạy học không lụi tàn
+2019-11-14 17:16:45,833 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đám cưới không nhận phong bì
+2019-11-14 17:16:45,862 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nghiện game vì 'muốn chạy trốn gia đình, xã hội'
+2019-11-14 17:16:45,893 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : UAE sẽ 'sập bẫy' ở Mỹ Đình
+2019-11-14 17:16:45,922 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Học tiếng Anh ở Việt Nam 'lạc loài thế giới'
+2019-11-14 17:16:45,954 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đám trẻ reo hò nơi tòa xử Khá 'Bảnh'
+2019-11-14 17:16:45,982 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 3 lý do để tin Việt Nam sẽ đánh bại UAE
+2019-11-14 17:17:06,849 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chồng cứ đánh mắng tôi xong lại khóc lóc xin lỗi
+2019-11-14 17:17:06,882 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tôi không hiểu tại sao tình yêu và hôn nhân phải có tình dục
+2019-11-14 17:17:06,918 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tôi như nàng dâu nhỏ sống trong gia đình bạn gái
+2019-11-14 17:17:06,953 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chồng tôi hiền nhưng là người vô trách nhiệm
+2019-11-14 17:17:06,982 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tôi muốn quay lại với vợ cũ sau khi ly hôn một năm
+2019-11-14 17:17:07,013 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Là đàn ông nhưng chỉ cần chạy xe hơi nhanh tôi đã rất sợ
+2019-11-14 17:17:07,043 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhìn thoáng cô gái đi đường, bạn gái nói tôi không chung tình
+2019-11-14 17:17:07,074 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Gặp ai bạn trai tôi cũng yêu cầu làm kinh doanh
+2019-11-14 17:17:07,104 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Gia đình chồng bắt tôi phá thai khi biết anh có con trai riêng
+2019-11-14 17:17:07,133 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mong em là cô gái Bắc vào Sài Gòn làm việc, tinh tế
+2019-11-14 17:17:07,162 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Gặp người hợp cạ em có thể líu lo cả ngày
+2019-11-14 17:17:07,194 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Em cần anh sống kỷ luật, chững chạc, thích tập thể thao
+2019-11-14 17:17:07,231 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Một lần đổ vỡ mong tìm hạnh phúc mới
+2019-11-14 17:17:07,265 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Muốn anh thưởng thức bữa ăn em nấu mỗi ngày
+2019-11-14 17:17:07,299 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cuối tuần anh đi uống cà phê với em không
+2019-11-14 17:17:07,335 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tôi nghi tính lăng nhăng của vợ lại phát huy
+2019-11-14 17:17:07,368 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vợ muốn ly hôn vì không còn tôn trọng tôi
+2019-11-14 17:17:07,402 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 7 năm chồng không chịu đi làm
+2019-11-14 17:17:07,441 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tôi tính có quỹ riêng sau khi chồng to tiếng vì 5 triệu
+2019-11-14 17:17:07,477 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Làm sao để mở lòng khi sống nội tâm
+2019-11-14 17:17:07,515 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Gần 15 năm luôn trong tâm thế nhịn nhà chồng
+2019-11-14 17:17:07,555 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tôi lo chồng sắp cưới sẽ 'đồng sàng dị mộng'
+2019-11-14 17:17:07,590 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tôi sợ mẹ phản đối vì hoàn cảnh nhà bạn gái
+2019-11-14 17:17:07,628 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tôi ước mình không được sinh ra
+2019-11-14 17:17:07,660 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vợ gây áp lực để tôi không về nội ăn Tết
+2019-11-14 17:17:07,693 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người tình biến mất âm thầm khi vợ anh biết chuyện
+2019-11-14 17:17:07,725 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Con trai bỗng dưng cắt mọi liên lạc với nhà ngoại
+2019-11-14 17:17:07,758 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chồng muốn quản lý chi tiêu gia đình
+2019-11-14 17:17:07,789 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tôi không còn tình yêu với chồng
+2019-11-14 17:17:07,817 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bạn trai nói tôi là kẻ phụ tình
+2019-11-14 17:17:07,846 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tôi không chắc cả đời chung thủy với chồng
+2019-11-14 17:17:07,876 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tôi chưa ly dị vì muốn chờ con học xong
+2019-11-14 17:17:07,908 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bạn gái có nhiều mối quan hệ với người khác giới
+2019-11-14 17:17:07,938 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 10 năm chồng gần như đi làm không công
+2019-11-14 17:17:07,968 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bạn gái lấy chiếc áo đầu tiên tôi tặng lau nhà
+2019-11-14 17:17:07,999 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chồng không muốn tôi về ngoại ăn Tết
+2019-11-14 17:17:08,031 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cảm ơn vợ yêu đồng hành 6 năm qua
+2019-11-14 17:17:08,074 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tôi muốn vợ chủ động ly hôn
+2019-11-14 17:17:08,109 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tôi muốn chồng ly hôn để anh đến với bồ
+2019-11-14 17:17:08,139 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sợ khó giữ lòng dù rất yêu vợ
+2019-11-14 17:17:28,826 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hot nhất Cười năm 2018
+2019-11-14 17:17:28,862 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ảnh chế bóng đá
+2019-11-14 17:17:28,897 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ảnh hài
+2019-11-14 17:17:28,930 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Câu đố hại não
+2019-11-14 17:17:28,962 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Video hài hước
+2019-11-14 17:17:28,997 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Học trò cười
+2019-11-14 17:17:29,034 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lý do bò không mọc sừng
+2019-11-14 17:17:29,069 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nỗi lo của bò, gà mùa thi cử
+2019-11-14 17:17:29,101 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chồng méo mặt vì bị vợ chê ghẻ lạnh
+2019-11-14 17:17:29,136 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vợ nổi điên khi chồng hành động giống con trai
+2019-11-14 17:17:29,172 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thầy giáo hóa học mượn rượu vào đề
+2019-11-14 17:17:29,204 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nguyên nhân chồng muốn vợ đi chơi cùng trai lạ
+2019-11-14 17:17:29,244 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đàn ông khổ sở vì món quà ‘trời ban’
+2019-11-14 17:17:29,277 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người vợ không biết điều
+2019-11-14 17:17:29,312 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phó nháy nổi điên trước yêu cầu của cô dâu chú rể
+2019-11-14 17:17:29,345 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Câu đố hại não khiến nhiều người chịu thua, còn bạn?
+2019-11-14 17:17:29,379 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tìm điểm khác biệt giữa 2 bức ảnh này
+2019-11-14 17:17:29,412 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bạn có nhìn ra chữ gì trong hình không?
+2019-11-14 17:17:29,443 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khổ chủ đập tường vì cún cưng nghịch dại
+2019-11-14 17:17:29,477 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tài xế ôtô đứng hình vì bị đàn cừu chiếm lối đi
+2019-11-14 17:17:29,513 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Biểu cảm hài hước của bé gái khi hát
+2019-11-14 17:17:29,567 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Công Phượng đẹp trai hơn Đức Huy nhờ bộ râu mới
+2019-11-14 17:17:29,602 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người đẹp dùng đầu nâng xe máy
+2019-11-14 17:17:29,637 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Em bé đang khóc bỗng im bặt khi thấy cọc tiền
+2019-11-14 17:17:29,699 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hậu vệ đốt lưới nhà sau đường chuyền của đối thủ
+2019-11-14 17:17:29,734 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khách đám cưới nhảy tưng bừng giữa vũng bùn
+2019-11-14 17:17:29,769 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chuột lao vào chủ nhà để thoát thân
+2019-11-14 17:17:29,802 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cả xóm xôn xao khi bắt được rắn 'khủng' trong xe máy
+2019-11-14 17:17:29,834 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bé trai 19 tháng tuổi đọc vanh vách
+2019-11-14 17:17:29,864 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giám đốc làm sao để thoát ra khỏi thang máy an toàn?
+2019-11-14 17:17:29,894 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dàn người đẹp giật mình khi chạm mặt 'người cây'
+2019-11-14 17:17:29,925 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cô gái sút hụt bóng vì bị bạn chơi khăm
+2019-11-14 17:17:29,954 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giám khảo kinh ngạc trước giọng ca hiếm gặp của chàng trai
+2019-11-14 17:17:29,984 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ông bố sáng tạo cách vừa giữ con vừa lau nhà
+2019-11-14 17:17:30,016 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Em bé bắt chước tiếng kêu dê con
+2019-11-14 17:17:30,049 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hai thanh niên bị sư tử vồ khi đóng giả ngựa vằn
+2019-11-14 17:17:30,076 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Báo hoa mai bị 'mắng té tát' vì vồ chó nhà
+2019-11-14 17:17:30,104 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tên trộm dùng túi giấy trùm đầu khi phát hiện camera
+2019-11-14 17:17:30,141 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Màn trình diễn patin thượng thừa của người đẹp
+2019-11-14 17:17:30,172 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chọn 6 tờ tiền với 3 mệnh giá khác nhau sao cho tổng bằng 100 nghìn
+2019-11-14 17:17:30,202 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cần thủ bị bạn chơi khăm
+2019-11-14 17:17:32,162 DEBUG [Timer-0] - crawl.Main.run 619 - Tracking url : https://news.zing.vn/
+2019-11-14 17:17:49,606 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thời sự
+2019-11-14 17:17:49,607 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thế giới
+2019-11-14 17:17:49,607 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Kinh doanh
+2019-11-14 17:17:49,607 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giải trí
+2019-11-14 17:17:49,609 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thể thao
+2019-11-14 17:17:49,609 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Pháp luật
+2019-11-14 17:17:49,610 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giáo dục
+2019-11-14 17:17:49,610 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Sức khỏe
+2019-11-14 17:17:49,611 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Du lịch
+2019-11-14 17:17:49,611 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Công nghệ
+2019-11-14 17:17:49,612 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Xe
+2019-11-14 17:17:49,612 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thời sự
+2019-11-14 17:17:49,612 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thế giới
+2019-11-14 17:17:49,613 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Kinh doanh
+2019-11-14 17:17:49,614 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giải trí
+2019-11-14 17:17:49,614 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thể thao
+2019-11-14 17:17:49,614 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Pháp luật
+2019-11-14 17:17:49,615 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giáo dục
+2019-11-14 17:17:49,616 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Sức khỏe
+2019-11-14 17:17:49,616 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Du lịch
+2019-11-14 17:17:49,616 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Công nghệ
+2019-11-14 17:17:49,617 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Xe
+2019-11-14 17:18:06,105 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tạm giữ khẩn cấp 6 người nghi đưa lao động đi Anh trái phép
+2019-11-14 17:18:06,134 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 3 ngày đăng đàn của Thủ tướng và 4 bộ trưởng
+2019-11-14 17:18:06,162 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Rừng vàng, biển bạc không phải là nguồn lực lớn nhất'
+2019-11-14 17:18:06,192 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quận Đống Đa xử lý 846 trường hợp vi phạm trật tự đô thị qua Zalo
+2019-11-14 17:18:06,222 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cổng dịch vụ công quốc gia khai trương vào cuối tháng 11
+2019-11-14 17:18:06,251 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dùng Zalo triển khai hành chính công 'không giấy tờ' tại Vĩnh Phúc
+2019-11-14 17:18:06,282 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kẻ trộm lấy xe máy trước mặt khổ chủ
+2019-11-14 17:18:06,314 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vì sao cheo cheo biến mất ở Việt Nam suốt 30 năm?
+2019-11-14 17:18:06,342 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Không cho phép biệt thự biến bờ sông Sài Gòn thành của riêng
+2019-11-14 17:18:06,370 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lời đáp cho ước mong có nước sạch của người miền Trung
+2019-11-14 17:18:06,400 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : TP.HCM cắt giảm 3.400 tỷ tổng vốn đầu tư 2 tuyến metro
+2019-11-14 17:18:06,428 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhân chứng kể cảnh hỗn loạn khi xe buýt tông 8 xe máy dừng đèn đỏ
+2019-11-14 17:18:06,460 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khởi tố kẻ hiếp dâm bé gái bán vé số ở Phú Quốc
+2019-11-14 17:18:06,489 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hơn 100 cảnh sát vây 14 xà lan hút cát trộm trong đêm
+2019-11-14 17:18:06,524 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mẹ Khá 'Bảnh' chia sẻ sau phiên xử con trai
+2019-11-14 17:18:06,558 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chủ đầu tư trả lại 370 ha trên núi Chín Khúc
+2019-11-14 17:18:06,594 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nam công nhân bị bê tông đè chết
+2019-11-14 17:18:06,625 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nghi án chồng giết vợ 18 tuổi rồi đốt xác
+2019-11-14 17:18:06,655 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Va vào lề cầu Bình Lợi, tài xế 16 tuổi tử vong
+2019-11-14 17:18:06,684 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chủ quán bị phạt 660 triệu vì mua bán kỳ đà vân
+2019-11-14 17:18:06,715 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chi ngân sách Trung ương hơn 1 triệu tỷ năm 2020
+2019-11-14 17:18:06,746 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Công an tỉnh Bạc Liêu có tân giám đốc
+2019-11-14 17:18:06,775 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hơn 1.000 căn hộ tái định cư cho người dân Thủ Thiêm
+2019-11-14 17:18:06,801 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tướng Nguyễn Hữu Cầu: 'Hâm mộ Khá Bảnh là nhận thức lệch lạc'
+2019-11-14 17:18:06,830 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bầu trời mịt mù thời điểm TP.HCM ô nhiễm thứ 4 thế giới
+2019-11-14 17:18:06,861 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nữ bệnh nhân nhảy từ tầng 4 xuống đất
+2019-11-14 17:18:06,891 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cửa kính từ tầng cao rơi trúng người đi bộ
+2019-11-14 17:18:06,918 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người đàn ông bị khoắng sạch đồ trên xe khách
+2019-11-14 17:18:06,944 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chủ nhà đuổi theo tên trộm xe máy nhưng không kịp
+2019-11-14 17:18:06,974 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cụ ông 80 tuổi kể lúc bị gã xe ôm đánh gãy xương
+2019-11-14 17:18:07,003 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Truy tìm kẻ trộm iPhone trong phòng cấp cứu
+2019-11-14 17:18:07,032 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Xe máy vượt ôtô, tông vào dải phân cách
+2019-11-14 17:18:07,062 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ôtô chạy lùi trên đường dẫn vành đai 3
+2019-11-14 17:18:07,090 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người dân muốn dự án bỏ hoang Nha Trang Sao thành công viên
+2019-11-14 17:18:07,120 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Xe bán tải phanh gấp khi vào cua gây tai nạn
+2019-11-14 17:18:07,152 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ôtô leo dải phân cách như phim hành động
+2019-11-14 17:18:07,184 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kẻ cướp bỏ xe máy sau khi giật đồ bất thành
+2019-11-14 17:18:07,217 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vì sao chỉ số AQI của Hà Nội 'tím ngắt' cả tuần qua?
+2019-11-14 17:18:07,251 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đà Nẵng ẩn hiện trong sương mù
+2019-11-14 17:18:07,279 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người Hà Nội đi làm dưới mưa phùn
+2019-11-14 17:18:07,308 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : TP.HCM có thể mất khoản đầu tư 280 triệu USD vì khiếu kiện
+2019-11-14 17:18:07,346 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cảnh báo TP.HCM về nguy cơ mất an toàn thông tin từ camera giám sát
+2019-11-14 17:18:07,377 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dự án 33 triệu USD lấn vịnh Nha Trang thành nơi đổ rác, hút chích
+2019-11-14 17:18:07,410 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chỉ số AQI Hà Nội 'tụt' gần 200 đơn vị sau 1 đêm
+2019-11-14 17:18:07,443 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dầm bê tông cầu bộ hành đè bẹp container ở TP.HCM
+2019-11-14 17:18:07,475 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Xe buýt tông 8 xe máy dừng đèn đỏ ở TP.HCM
+2019-11-14 17:18:07,509 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dùng công nghệ giám sát giao thông, TP.HCM vẫn ùn tắc
+2019-11-14 17:18:07,538 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hà Nội phân luồng giao thông phục vụ 2 trận cầu của tuyển Việt Nam
+2019-11-14 17:18:07,569 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bà bầu tử vong sau tai nạn, con trai được mổ cứu sống
+2019-11-14 17:18:07,598 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hải Phòng tạm dừng hoạt động phà Gót để xây cáp treo dài nhất thế giới
+2019-11-14 17:18:07,627 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Công an điều tra vụ đường 250 tỷ bị sụt lún
+2019-11-14 17:18:07,657 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hàng trăm người chết vì cháy, đã có cán bộ nào mất chức chưa?
+2019-11-14 17:18:07,686 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : VTV có Phó tổng giám đốc mới
+2019-11-14 17:18:07,720 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đại tướng Tô Lâm xúc động trước kiến nghị dựng tượng cảnh sát PCCC
+2019-11-14 17:18:07,754 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 5 màn hình lớn ở phố Nguyễn Huệ trực tiếp trận Việt Nam - UAE
+2019-11-14 17:18:07,793 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : AirVisual xếp TP.HCM trong top thành phố ô nhiễm sáng 14/11
+2019-11-14 17:18:07,828 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cổ động viên đốt pháo sáng trước trận gặp UAE
+2019-11-14 17:18:07,863 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đại biểu không muốn miễn thị thực cho người nước ngoài vào Việt Nam
+2019-11-14 17:18:23,106 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tòa Tối cao ngỏ ý ủng hộ TT Trump lật đổ chính sách nhập cư thời Obama
+2019-11-14 17:18:23,138 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : EU phát triển vũ khí mới sau khi TT Pháp chê NATO 'chết não'
+2019-11-14 17:18:23,171 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nga và Na Uy củng cố binh lực ở biên giới, cư dân lo lắng
+2019-11-14 17:18:23,202 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nga lắp giáp gốm cho tàu khu trục lớp Lider
+2019-11-14 17:18:23,236 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 10 phút sau khi khỏi bệnh ung thư, nhận tin trúng số 1,2 triệu USD
+2019-11-14 17:18:23,267 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhà khoa học TQ nhận tội ăn cắp bí mật thương mại tỷ đô của Mỹ
+2019-11-14 17:18:23,301 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Virus từ Đại Tây Dương gây bệnh ở Thái Bình Dương do băng tan
+2019-11-14 17:18:23,330 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tráo mèo để lên máy bay rồi đăng Facebook khoe, hành khách bị điều tra
+2019-11-14 17:18:23,360 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Máu lợn nhiễm dịch tả châu Phi nhuộm đỏ sông gần biên giới liên Triều
+2019-11-14 17:18:23,388 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bé 2 tuổi thiệt mạng vì bị điều hòa không khí rơi trúng ở Canada
+2019-11-14 17:18:23,418 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bị xâm hại tình dục khi vượt biên, về nhà với nỗi đau tột cùng
+2019-11-14 17:18:23,447 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Venice 'thất thủ' vì triều cường cao nhất trong 50 năm
+2019-11-14 17:18:23,474 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : VN bác bỏ phát ngôn của Trung Quốc về chủ quyền đối với Trường Sa
+2019-11-14 17:18:23,502 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hồ nuôi cua lông Trung Quốc bị đầu độc vì du khách kỷ lục
+2019-11-14 17:18:23,533 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vua Swaziland chi 16 triệu USD mua siêu xe cho 14 người vợ
+2019-11-14 17:18:23,566 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Kinh đô sấm sét’ Bangladesh trồng cọ để cây chịu sét thay con người
+2019-11-14 17:18:23,595 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quan chức, giáo viên xâm hại tình dục hơn 500 bé trai ở Afghanistan
+2019-11-14 17:18:23,627 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những người chuyển đến 'thánh địa mafia' vì nhà 1 euro
+2019-11-14 17:18:23,655 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cựu tổng thống Bolivia - từ niềm hy vọng thành nhà lãnh đạo lưu vong
+2019-11-14 17:18:23,686 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 3 con bò bị cuốn ra biển trong bão Dorian vẫn sống
+2019-11-14 17:18:23,716 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thượng nghị sĩ Mỹ đề xuất luật chiến lược an ninh kinh tế đối phó TQ
+2019-11-14 17:18:23,746 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tốc độ tăng trưởng kinh tế TQ sẽ chạm mốc thấp kỷ lục vào năm 2020
+2019-11-14 17:18:23,776 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 2 người mắc dịch hạch 'Cái chết Đen' ở Trung Quốc
+2019-11-14 17:18:23,805 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hơn 5 triệu USD cho bức tranh nữ quý tộc tự sát sau khi bị cưỡng hiếp
+2019-11-14 17:18:23,833 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đang điều tra lạm dụng tình dục, giám mục bị cáo buộc xâm hại trẻ em
+2019-11-14 17:18:23,861 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bụi mịn do không khí ô nhiễm làm tăng nguy cơ ung thư não
+2019-11-14 17:18:23,894 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thủ tướng Nhật hủy tiệc ngắm hoa anh đào vì bị chỉ trích hoang phí
+2019-11-14 17:18:23,923 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Một đế chế cổ đại có thể đã sụp đổ vì biến đổi khí hậu
+2019-11-14 17:18:23,954 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hóa thạch 1,9 triệu năm tuổi hé lộ họ hàng của 'King Kong bản gốc'
+2019-11-14 17:18:23,983 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tàu cá Philippines bị tàu Trung Quốc đâm chìm ra khơi trở lại
+2019-11-14 17:18:24,014 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bộ trưởng Esper đến châu Á cứu liên minh đối phó Trung Quốc
+2019-11-14 17:18:24,044 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhật hoàng Naruhito và Hoàng hậu diễu hành trên xe mui trần đặc biệt
+2019-11-14 17:18:24,073 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khoảnh khắc hai đoàn tàu lao thẳng vào nhau ở Ấn Độ
+2019-11-14 17:18:24,110 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thiếu gia dầu mỏ chán giàu có, trốn nhà đi rửa bát
+2019-11-14 17:18:24,146 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cướp tiệm vàng bằng đá
+2019-11-14 17:18:24,178 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hai đoàn tàu đâm vào nhau tại sân ga ở Ấn Độ
+2019-11-14 17:18:24,208 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trung Quốc khai thác mỏ dầu khí sâu nhất ở Tân Cương
+2019-11-14 17:18:24,240 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sao băng Taurid làm sáng rực bầu trời Mỹ
+2019-11-14 17:18:24,266 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngôi đền gỗ nơi Nhật hoàng thực hiện nghi lễ cùng nữ thần mặt trời
+2019-11-14 17:18:24,294 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người phụ nữ thoát chết khi dây điện 22.000 V rơi vào người
+2019-11-14 17:18:24,322 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nghi lễ cuối cùng trong sự kiện kế vị của Nhật hoàng
+2019-11-14 17:18:24,352 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ấm trà Trung Quốc đấu giá hơn 1 triệu USD
+2019-11-14 17:18:24,384 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lợn rừng đào tung kho ma túy 21.000 USD tại Italy
+2019-11-14 17:18:24,412 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trừng phạt từ quý phi tới cận vệ phòng ngủ, vua Thái tỏ rõ uy quyền
+2019-11-14 17:18:24,439 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nữ du khách Anh bị bóp cổ chết sau khi hẹn hò người quen trên mạng
+2019-11-14 17:18:24,468 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nội chiến Nhà Trắng giữa lúc TT Trump bị điều tra luận tội
+2019-11-14 17:18:24,500 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : ‘Ngôi mộ hạt nhân’ trên đảo Marshall bị nứt
+2019-11-14 17:18:24,528 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bị đuổi vì đi muộn, nam sinh bắn chết bạn học rồi tự tử ở Nga
+2019-11-14 17:18:24,557 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hy Lạp - cửa ngõ cho tham vọng châu Âu của Trung Quốc
+2019-11-14 17:18:24,586 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khu đền 18 triệu USD nơi Nhật hoàng thực hiện nghi lễ với nữ thần
+2019-11-14 17:18:24,614 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vua Thái phục chức cho 3 sĩ quan cận vệ hoàng gia
+2019-11-14 17:18:40,196 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Miếng bánh' 12 tỷ USD mà Grab, GoViet, Shopee, Lazada đang giành giật
+2019-11-14 17:18:40,224 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Làn sóng khởi nghiệp Việt Nam và lợi thế sân nhà
+2019-11-14 17:18:40,257 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lập điểm đón trả khách cho tài xế công nghệ ở Bến xe Miền Đông
+2019-11-14 17:18:40,291 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bạn sẽ chịu thiệt hại gì khi dừng hợp đồng bảo hiểm nhân thọ?
+2019-11-14 17:18:40,321 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khi giải quyết quyền lợi bảo hiểm cần lưu ý những điều gì?
+2019-11-14 17:18:40,351 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phí bảo hiểm nhân thọ 'hoạt động' như thế nào?
+2019-11-14 17:18:40,381 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bên trong căn hộ Singapore 6 tỷ đồng cách Phú Mỹ Hưng 500 m
+2019-11-14 17:18:40,413 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chung cư 10 tỷ đồng có vị trí đẹp nhất ở Tây Hồ
+2019-11-14 17:18:40,442 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Penthouse gần 1 triệu USD cạnh đường đua F1 Mỹ Đình
+2019-11-14 17:18:40,472 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dự án Wyndham Soleil Danang mở bán căn hộ Nimbus, hút gần 1.600 khách
+2019-11-14 17:18:40,498 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Miền Nam đối mặt nguy cơ thiếu hàng tỷ kWh điện từ năm 2021
+2019-11-14 17:18:40,529 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vingroup và Hưng Thịnh hỗ trợ trả lương cho HLV Park Hang-seo
+2019-11-14 17:18:40,556 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 3 nền tảng giúp Sendo 'phủ sóng' thị trường Việt
+2019-11-14 17:18:40,585 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hủy đơn hàng rồi nâng giá và loạt chiêu trò khuyến mãi Ngày độc thân
+2019-11-14 17:18:40,616 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sau nghi án cắt mác Trung Quốc, chuỗi cửa hàng Seven.Am đóng cửa
+2019-11-14 17:18:40,644 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hơn 1.000 người tham gia trồng cây phủ xanh TTTM tại Hà Đông
+2019-11-14 17:18:40,671 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tổng thống Donald Trump: 'Không nước nào gian lận giỏi hơn Trung Quốc'
+2019-11-14 17:18:40,701 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Viettel vào top 3 doanh nghiệp có lợi nhuận tốt nhất Việt Nam
+2019-11-14 17:18:40,729 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cảnh hỗn loạn trong các kho hàng tại Trung Quốc vào Ngày độc thân
+2019-11-14 17:18:40,757 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : VinMart tham vọng đạt 10.000 siêu thị, cửa hàng năm 2025
+2019-11-14 17:18:40,787 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dự án biển hồ Vinhomes Ocean Park thay đổi nhanh sau một năm ra mắt
+2019-11-14 17:18:40,815 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cuộc sống xa xỉ của vị vua 21 tuổi tại Ấn Độ
+2019-11-14 17:18:40,844 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người nước ngoài đầu tiên trúng độc đắc Vietlott
+2019-11-14 17:18:40,872 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tài xế tố FastGo lừa mua xe Fadil, hãng nói lái xe không giữ cam kết
+2019-11-14 17:18:40,902 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mua sắm dịp lễ độc thân Trung Quốc dần phổ biến ở Đông Nam Á
+2019-11-14 17:18:40,928 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Eva Air mở đường bay từ Đà Nẵng đến Mỹ, Canada
+2019-11-14 17:18:40,956 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : The Grand Manhattan hấp dẫn giới thượng lưu nhờ riêng tư và an ninh
+2019-11-14 17:18:40,983 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sôi động mùa cuối năm, giới đầu tư 'rục rịch' rót vốn
+2019-11-14 17:18:41,012 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những con số ấn tượng khẳng định tầm vóc của Viettel Cyber Security
+2019-11-14 17:18:41,040 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Căn hộ đa tiện ích 'chiếm sóng' thị trường BĐS Hà Nội dịp cuối năm
+2019-11-14 17:18:41,069 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : TH Medical - kỳ vọng về phát triển y tế của Nhà sáng lập Tập đoàn TH
+2019-11-14 17:18:41,099 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tại sao các sân bay ở Mỹ lại tệ đến vậy?
+2019-11-14 17:18:41,127 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Máy bay Ukraine bất ngờ bốc cháy khi hạ cánh ở Ai Cập
+2019-11-14 17:18:41,159 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những hãng máy bay có khoang hạng nhất xa xỉ và đắt nhất thế giới
+2019-11-14 17:18:41,186 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thói quen tiêu tiền của rich kids ở Iran
+2019-11-14 17:18:41,213 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hoàng tử Saudi chi 17 triệu USD đãi tiệc tốt nghiệp
+2019-11-14 17:18:41,242 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tuyến tàu hỏa đi qua vùng biển nhiều bão hàng đầu thế giới
+2019-11-14 17:18:41,271 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bên trong các khách sạn tình yêu tại Nhật
+2019-11-14 17:18:41,299 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lớp dạy cách thừa kế tài sản cho con nhà giàu châu Á
+2019-11-14 17:18:41,327 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 5 công trình tốn hàng chục tỷ USD ở Dubai
+2019-11-14 17:18:41,360 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những dự án tỷ USD bị tạm ngưng ở Dubai
+2019-11-14 17:18:41,391 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Còn tồn tại về khung pháp lý khi thí điểm taxi công nghệ
+2019-11-14 17:18:41,421 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Huy động nguồn điện chạy dầu lớn chưa từng có vì hạn hán
+2019-11-14 17:18:41,450 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giá xăng sẽ tăng trở lại vào ngày mai?
+2019-11-14 17:18:41,479 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tiệm hủ tiếu Mỹ Tho hơn 70 năm giữa trung tâm TP.HCM
+2019-11-14 17:18:41,511 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người tiêu dùng từ bỏ sữa bò, công ty sữa lớn nhất nước Mỹ phá sản
+2019-11-14 17:18:41,542 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cá sông Đà gắn tem truy xuất nguồn gốc tại hội chợ nông sản
+2019-11-14 17:18:41,569 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : CEO Bách Hóa Xanh nói về mục tiêu 10.000 cửa hàng của Vinmart
+2019-11-14 17:18:41,596 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người Việt đua nhau mua ôtô nhập khẩu
+2019-11-14 17:18:41,626 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sacombank đại hạ giá cổ phiếu công ty vàng của đại gia Trầm Bê
+2019-11-14 17:18:41,654 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người dân Mỹ ôm núi nợ 14.000 tỷ USD
+2019-11-14 17:18:41,681 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kế hoạch IPO sụp đổ, WeWork lỗ thêm 1,25 tỷ USD trong quý III
+2019-11-14 17:18:41,709 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Công ty vốn 5 tỷ vay nước ngoài 1.400 tỷ đồng, chịu lãi suất 20%/năm
+2019-11-14 17:18:41,738 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ôtô nhập khẩu về nhiều, đại lý phân phối than khó
+2019-11-14 17:18:41,767 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lãnh đạo Novaland đăng ký mua hơn 2,5 triệu cổ phiếu giá 10.000 đồng
+2019-11-14 17:18:41,797 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ông lớn hàng không Đông Bắc Á giành sân với VNA, Vietjet Air
+2019-11-14 17:18:41,826 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hàng không tăng thêm hơn 1.000 chuyến bay dịp Tết
+2019-11-14 17:18:41,855 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đầu tư sân bay Sa Pa trị giá gần 6.000 tỷ đồng
+2019-11-14 17:18:41,883 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sân bay ở châu Âu bị bỏ hoang suốt 25 năm
+2019-11-14 17:18:41,911 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Biệt thự 90 triệu USD của tỷ phú Mỹ giảm giá còn 38 triệu USD
+2019-11-14 17:18:41,938 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Rao bán nợ xấu của nữ giám đốc công ty Angel Lina vẽ dự án ma
+2019-11-14 17:18:41,966 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kinh tế Trung Quốc tồi tệ hơn so với những con số chính thức?
+2019-11-14 17:18:41,995 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hơn 4 triệu người Trung Quốc mất việc làm vì Tổng thống Trump
+2019-11-14 17:18:42,029 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nữ phó giám đốc chi nhánh TPBank bị khởi tố vì chiếm đoạt tài sản
+2019-11-14 17:18:42,065 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nữ phó giám đốc ngân hàng bị khởi tố từng là chủ viện thẩm mỹ
+2019-11-14 17:18:56,922 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bên trong căn hộ Singapore 6 tỷ đồng cách Phú Mỹ Hưng 500 m
+2019-11-14 17:18:56,951 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhật Kim Anh: 'Tôi muốn hàn gắn với chồng nhưng mọi thứ đi quá xa'
+2019-11-14 17:18:56,981 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thảo Trang: 'Tôi háo thắng, kinh doanh thua lỗ, mất tất cả'
+2019-11-14 17:18:57,010 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hồ Ngọc Hà: ‘Đừng ai đụng đến Subeo’
+2019-11-14 17:18:57,040 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 5 nghệ sĩ được mời dự cưới Bảo Thy là ai?
+2019-11-14 17:18:57,074 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngô Kiến Huy nói về tấm ảnh Isaac hôn Khổng Tú Quỳnh
+2019-11-14 17:18:57,105 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tăng Thanh Hà đi xem phim của Lương Mạnh Hải
+2019-11-14 17:18:57,136 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngân Khánh lần hiếm hoi sánh bước cùng chồng
+2019-11-14 17:18:57,162 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lâm Chí Linh tổ chức lễ cưới với chồng trẻ ở viện bảo tàng
+2019-11-14 17:18:57,188 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kim Tae Hee tái xuất sau 40 ngày sinh con
+2019-11-14 17:18:57,217 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : John Legend là người đàn ông quyến rũ nhất 2019
+2019-11-14 17:18:57,245 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hoa hậu Honey Lee diện chân váy xuyên thấu
+2019-11-14 17:18:57,274 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phạm Băng Băng làm việc với bên điều tra kinh tế Bắc Kinh
+2019-11-14 17:18:57,302 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vợ rapper Tiến Đạt sinh con
+2019-11-14 17:18:57,333 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : MC Trung Quốc đăng ảnh chụp cùng Taylor Swift sau sự cố đụng chạm
+2019-11-14 17:18:57,361 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Jun Vũ kể bị ám ảnh vì cơ thể quá gầy
+2019-11-14 17:18:57,390 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lâm Chí Linh bị phản đối vì tổ chức cưới ở bảo tàng
+2019-11-14 17:18:57,417 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sao chuyển giới mặc phản cảm trên thảm đỏ
+2019-11-14 17:18:57,446 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Angelababy bị chê vì mừng sinh nhật chồng không thành tâm
+2019-11-14 17:18:57,472 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cô gái nắm tay Thanh Bình lên tiếng về nghi vấn tình cảm
+2019-11-14 17:18:57,499 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Jun Vũ phản hồi khi nhà sản xuất phim đòi quyền lợi
+2019-11-14 17:18:57,527 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Võ Hoàng Yến: ‘Scandal như món tráng miệng của giới văn phòng’
+2019-11-14 17:18:57,554 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khán giả nghi ngờ Selena Gomez yêu đồng giới
+2019-11-14 17:18:57,584 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Minh Triệu tổ chức sinh nhật lần 2 cho Kỳ Duyên ở Hàn Quốc
+2019-11-14 17:18:57,614 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hoa hậu Hoàn vũ Olivia Culpo diện bikini xẻ cao
+2019-11-14 17:18:57,642 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngọc Lan tuyên bố ly hôn Thanh Bình
+2019-11-14 17:18:57,672 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nghệ sĩ Việt cảm thông về quyết định ly hôn của Ngọc Lan và Thanh Bình
+2019-11-14 17:18:57,701 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khoảnh khắc Ngọc Lan - Thanh Bình thời còn mặn nồng
+2019-11-14 17:18:57,728 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngọc Lan đăng ảnh gợi cảm, đi du lịch sau ly hôn
+2019-11-14 17:18:57,753 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vũ Ngọc Ánh và Anh Tài đón con gái đầu lòng ở Mỹ
+2019-11-14 17:18:57,781 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bảo Thy yêu kín trước khi cưới bạn trai đại gia
+2019-11-14 17:18:57,815 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngọc Lan và Thanh Bình rạn nứt từ khi nào?
+2019-11-14 17:18:57,846 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phạm Hương đăng ảnh bán nude
+2019-11-14 17:18:57,877 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lý do chia tay của Lâm Tâm Như và Lâm Chí Dĩnh
+2019-11-14 17:18:57,905 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : The Rock và 9 người đàn ông quyến rũ nhất thập kỷ
+2019-11-14 17:18:57,931 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Angelina Jolie vẫn giận Brad Pitt
+2019-11-14 17:18:57,961 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Diệu Nhi tức phát khóc khi bị đẩy xuống hồ bơi ở lễ cưới Đông Nhi
+2019-11-14 17:18:57,991 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quyền Linh khóc khi nhớ nhạc sĩ 'Còn thương rau đắng mọc sau hè'
+2019-11-14 17:18:58,026 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nghệ sĩ nhảy dây náo loạn trường quay Ký ức vui vẻ
+2019-11-14 17:18:58,056 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hari Won chia sẻ lần đầu chứng kiến Trấn Thành say xỉn
+2019-11-14 17:18:58,089 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Minh Hằng và dàn nghệ sĩ dự buổi chiếu 'Hoa hậu giang hồ'
+2019-11-14 17:18:58,117 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Hoàng hậu Ki' Ha Ji Won: 'Tôi muốn đưa gia đình tới Việt Nam chơi'
+2019-11-14 17:18:58,145 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khoảnh khắc hạnh phúc của Ngọc Lan - Thanh Bình trên truyền hình
+2019-11-14 17:18:58,171 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hoàng Thùy thử trang phục dân tộc như đi tập tạ
+2019-11-14 17:18:58,202 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lương Thùy Linh giới thiệu bản thân bằng tiếng Anh
+2019-11-14 17:18:58,231 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hari Won 'tố' Trấn Thành đẩy sao Việt xuống nước ở tiệc cưới Đông Nhi
+2019-11-14 17:18:58,264 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 5 cuộc ly hôn của sao Việt năm 2019
+2019-11-14 17:18:58,299 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hoàng Thùy thử trang phục dân tộc nặng 30 kg cho Hoa hậu Hoàn vũ
+2019-11-14 17:18:58,328 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lâm Chí Linh công bố thiệp cưới và quà mừng trước hôn lễ
+2019-11-14 17:18:58,356 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thanh Bình: 'Ly hôn Ngọc Lan vì không có tiếng nói chung'
+2019-11-14 17:18:58,384 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thúy Ngân xác nhận dự lễ cưới của Bảo Thy
+2019-11-14 17:18:58,412 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lương Thùy Linh giới thiệu bản thân tại Hoa hậu Thế giới 2019
+2019-11-14 17:18:58,445 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngọc Lan vẫn giữ ảnh cưới với Thanh Bình trên trang cá nhân
+2019-11-14 17:18:58,473 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Anh trai Yuri (SNSD) đối mặt án tù 10 năm vì tội hiếp dâm
+2019-11-14 17:18:58,502 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hà Anh nói về sự cố hớ hênh trên thảm đỏ
+2019-11-14 17:18:58,529 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ninh Dương Lan Ngọc bị phản ứng khi đăng clip Jun Phạm thay quần
+2019-11-14 17:18:58,558 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sao nữ xứ Hàn giữ nhan sắc không tuổi thế nào?
+2019-11-14 17:19:13,132 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhật Kim Anh: 'Tôi muốn hàn gắn với chồng nhưng mọi thứ đi quá xa'
+2019-11-14 17:19:13,157 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thảo Trang: 'Tôi háo thắng, kinh doanh thua lỗ, mất tất cả'
+2019-11-14 17:19:13,184 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bên trong căn hộ Singapore 6 tỷ đồng cách Phú Mỹ Hưng 500 m
+2019-11-14 17:19:13,214 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đội UAE làm quen sân Mỹ Đình khi Hà Nội có sương mù
+2019-11-14 17:19:13,245 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đối thủ của U22 Việt Nam tập huấn ở Qatar trước SEA Games
+2019-11-14 17:19:13,272 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Huyền thoại Arsenal lý giải việc Ronaldo không vui tại Juventus
+2019-11-14 17:19:13,300 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hậu vệ MU đoạt Quả bóng Vàng Thụy Điển lần thứ 2 liên tiếp
+2019-11-14 17:19:13,328 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Công Phượng đua tốc độ với đồng đội trước trận gặp UAE
+2019-11-14 17:19:13,356 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Văn Hậu: 'Việt Nam sẽ giành huy chương vàng SEA Games 30'
+2019-11-14 17:19:13,382 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tiền bạc kìm hãm cầu thủ hay nhất của tuyển UAE
+2019-11-14 17:19:13,407 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Tuyển Việt Nam sẽ thắng sát nút UAE'
+2019-11-14 17:19:13,434 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hai đội hình mạnh nhất của tuyển Việt Nam để đấu UAE
+2019-11-14 17:19:13,459 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Do thám, tráo số áo và cuộc chiến thông tin của tuyển Việt Nam
+2019-11-14 17:19:13,493 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đài Hàn Quốc phát trực tiếp trận tuyển Việt Nam đấu UAE
+2019-11-14 17:19:13,520 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ibra gửi thông điệp chia tay LA Galaxy
+2019-11-14 17:19:13,553 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trụ cột Man City bị FA treo giò vì trêu đồng đội
+2019-11-14 17:19:13,582 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Guardiola có thể trở lại dẫn dắt Bayern Munich
+2019-11-14 17:19:13,614 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhờ Mourinho, MU được ưu tiên mua lại Memphis Depay
+2019-11-14 17:19:13,644 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Van Marwijk hay, nhưng tuyển Việt Nam có HLV Park Hang-seo
+2019-11-14 17:19:13,673 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : MU muốn tạo thêm kỷ lục với hậu vệ giá 90 triệu bảng
+2019-11-14 17:19:13,697 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'SEA Games là một phần kế hoạch giúp Hậu phát triển'
+2019-11-14 17:19:13,729 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đại gia bóng đá Trung Quốc muốn có Chanathip
+2019-11-14 17:19:13,758 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Đây là thế hệ tuyển Việt Nam hay nhất mọi thời'
+2019-11-14 17:19:13,786 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Việt Nam vs UAE: 'Đội mạnh nhất bảng G' chờ UAE tại Mỹ Đình
+2019-11-14 17:19:13,816 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lịch thi đấu vòng loại World Cup 2022: Việt Nam đối đầu UAE
+2019-11-14 17:19:13,845 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Morata ám chỉ Real luôn được trọng tài thiên vị
+2019-11-14 17:19:13,872 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tuyển Việt Nam học được gì từ Thái Lan để đánh bại UAE
+2019-11-14 17:19:13,902 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nadal thoát hiểm trước Medvedev tại ATP Finals
+2019-11-14 17:19:13,929 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Viettel áp dụng công nghệ hiện đại phục vụ 100.000 CĐV trận VN - UAE
+2019-11-14 17:19:13,956 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phóng viên UAE: 'Tất cả cầu thủ Việt Nam đều nguy hiểm'
+2019-11-14 17:19:13,984 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Gia đình các cầu thủ Napoli bị CĐV tấn công
+2019-11-14 17:19:14,011 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : CLB Chelsea gửi lời chúc tuyển Việt Nam trước trận gặp UAE
+2019-11-14 17:19:14,039 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tinh thần chiến đấu và triết lý bóng đá của HLV Park Hang-seo
+2019-11-14 17:19:14,066 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tuấn Anh và ký ức khi gặp U23 UAE
+2019-11-14 17:19:14,093 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Philippe Troussier: 'Đối đầu HLV Nishino là thử thách khó khăn'
+2019-11-14 17:19:14,119 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tuyển UAE làm quen sân Mỹ Đình trong sương mù
+2019-11-14 17:19:14,147 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Văn Hậu nói 11 lần 'cố gắng' trong 4 câu hỏi của Heerenveen
+2019-11-14 17:19:14,178 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dembele gây thất vọng trong trận Barca thắng 2-0
+2019-11-14 17:19:14,204 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : HLV Bồ Đào Nha khó chịu khi bị hỏi về Ronaldo
+2019-11-14 17:19:14,231 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ăn mừng kiểu Songoku sau khi solo ghi bàn từ giữa sân
+2019-11-14 17:19:14,260 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Highlights ATP Finals: Nadal 2-1 Medvedev
+2019-11-14 17:19:14,290 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những pha sút phạt thành bàn của tiền đạo UAE
+2019-11-14 17:19:14,317 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cổ động viên nữ Việt Nam khen cầu thủ UAE đẹp trai
+2019-11-14 17:19:14,347 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vé trận Việt Nam - Thái Lan bị đẩy lên 6 triệu đồng/cặp
+2019-11-14 17:19:14,378 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khi khát khao Việt Nam là giấc mơ của bóng đá UAE
+2019-11-14 17:19:14,406 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 3 tuyển thủ Việt Nam từng ghi bàn vào lưới UAE đã giải nghệ
+2019-11-14 17:19:14,435 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chanathip sẽ là sự khác biệt ở trận Thái Lan gặp Malaysia
+2019-11-14 17:19:14,464 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Báo UAE nhầm lẫn giữa Quang Hải và Công Phượng
+2019-11-14 17:19:14,496 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Gặp lại UAE, tuyển Việt Nam cần chơi như tinh thần của HLV Riedl'
+2019-11-14 17:19:14,524 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : AFC đánh giá tuyển Việt Nam có lợi thế trong cuộc đối đầu UAE
+2019-11-14 17:19:14,550 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 'Hàng phòng ngự đang gánh cả tuyển Việt Nam'
+2019-11-14 17:19:14,579 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mức lương mơ ước của cầu thủ hay nhất tuyển UAE
+2019-11-14 17:19:14,610 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : UAE - từ vị thế ứng viên tới đội bóng phải chơi tất tay
+2019-11-14 17:19:29,023 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lao ra đường lớn không quan sát, ôtô suýt tông vào xe máy
+2019-11-14 17:19:29,052 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cô gái bị ôtô đâm tử vong khi cãi nhau với người yêu trên cao tốc
+2019-11-14 17:19:29,083 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Mở cửa không quan sát khiến 2 xe máy ngã ra đường
+2019-11-14 17:19:29,112 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bà Thảo muốn tòa xử công khai vụ ly hôn với ông Đặng Lê Nguyên Vũ
+2019-11-14 17:19:29,139 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ngày thứ 2 làm xe ôm, cụ ông 80 tuổi bị đánh gãy xương
+2019-11-14 17:19:29,168 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Truy tố nam thanh niên hiếp dâm bé trai 12 tuổi
+2019-11-14 17:19:29,196 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thanh niên xin ngủ nhờ, 'mượn' vân tay rút trộm 127 triệu
+2019-11-14 17:19:29,223 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nữ tiếp viên karaoke đâm chết đồng nghiệp lĩnh 16 năm tù
+2019-11-14 17:19:29,253 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người phụ nữ tàng trữ hơn 1.300 hộp shisha
+2019-11-14 17:19:29,280 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Siết cổ bạn gái tử vong do ghen tuông
+2019-11-14 17:19:29,309 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đâm chết người chỉ vì nghi vợ ngoại tình
+2019-11-14 17:19:29,337 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bắt tài xế taxi cướp 5,5 triệu của khách
+2019-11-14 17:19:29,368 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bắt nghi phạm hiếp dâm bé bán vé số
+2019-11-14 17:19:29,394 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Gã trai xâm hại tình dục bé gái nhiều lần
+2019-11-14 17:19:29,423 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kẻ trộm ôtô, xe SH bị phạt 12 năm tù
+2019-11-14 17:19:29,450 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khá 'Bảnh' hầu tòa
+2019-11-14 17:19:29,479 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Xử lý thượng úy công an tát nhân viên trạm nghỉ ra sao?
+2019-11-14 17:19:29,505 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khá 'Bảnh' hối hận, hứa làm công dân tốt
+2019-11-14 17:19:29,533 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hơn 100 người liên quan vụ đánh chết kẻ trộm chó
+2019-11-14 17:19:29,563 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chém người vì bạn gái bị sàm sỡ
+2019-11-14 17:19:29,591 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đại tá Nguyễn Ngọc Vân làm Giám đốc Công an Sơn La
+2019-11-14 17:19:29,622 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bộ Công an: Công ty tài chính ERG có dấu hiệu lừa đảo
+2019-11-14 17:19:29,652 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Xác minh việc bao che của cán bộ liên quan Alibaba
+2019-11-14 17:19:29,679 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người phụ nữ sát hại cháu nội bị khởi tố
+2019-11-14 17:19:29,709 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tử hình 5 kẻ buôn ma túy xuyên quốc gia
+2019-11-14 17:19:29,737 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bắt thanh niên thuê villa tổ chức tiệc ma túy
+2019-11-14 17:19:29,767 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hồng Tơ: 'Hồi xưa chơi cờ bạc dữ dội lắm'
+2019-11-14 17:19:29,795 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Công an TP.HCM nói về vụ Quân 'Xa Lộ' bị chém chết
+2019-11-14 17:19:29,825 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chân dung 4 côn đồ đập phá quán nhậu ở Đà Nẵng
+2019-11-14 17:19:29,856 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kẻ giết 3 bà cháu ở Bình Dương: 'Bị cáo bị say máu'
+2019-11-14 17:19:29,883 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kẻ sát hại 3 người ở Bình Dương nhận án tử
+2019-11-14 17:19:29,910 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người đàn ông đi ôtô, trộm hoa nhà dân trong đêm
+2019-11-14 17:19:29,941 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khá 'Bảnh' bị áp giải đến tòa
+2019-11-14 17:19:29,969 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trộm xe máy trong 10 giây
+2019-11-14 17:19:29,999 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khá Bảnh bị tuyên 10 năm 6 tháng tù
+2019-11-14 17:19:30,027 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cướp xe Vespa ở TP.HCM
+2019-11-14 17:19:30,056 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tạm giữ kẻ đâm bảo vệ bệnh viện trọng thương
+2019-11-14 17:19:30,082 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Con trai giết mẹ khi bị la rầy
+2019-11-14 17:19:30,109 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đoạt mạng hàng xóm khi nạn nhân đang ngủ
+2019-11-14 17:19:30,137 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thảm sát 9 người trong chùa
+2019-11-14 17:19:30,163 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tạm giữ người chồng giết vợ đốt thi thể
+2019-11-14 17:19:30,194 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đi ôtô vào cửa hàng cướp 3 iPhone
+2019-11-14 17:19:30,222 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bắt giam nghi phạm sát hại tài xế xe ôm
+2019-11-14 17:19:30,253 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khá 'Bảnh' bị đề nghị 10-11 năm tù
+2019-11-14 17:19:30,281 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phong tỏa các tuyến đường khi xét xử luật sư Trần Vũ Hải
+2019-11-14 17:19:30,309 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khá 'Bảnh' lĩnh 10 năm 6 tháng tù
+2019-11-14 17:19:30,338 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhiều học sinh xuất hiện ở phiên xử Khá 'Bảnh'
+2019-11-14 17:19:30,370 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giết bạn gái vì nghi có người yêu mới
+2019-11-14 17:19:30,399 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nhóm sinh viên lĩnh án vì mua bán ma túy
+2019-11-14 17:19:30,428 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 5 đồng phạm với Khá 'Bảnh' khai gì?
+2019-11-14 17:19:30,454 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bắt kẻ hiếp dâm người mẹ đang ngủ cùng hai con nhỏ
+2019-11-14 17:19:30,481 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Kẻ cướp dí dao vào cổ nạn nhân lấy Vespa
+2019-11-14 17:19:30,508 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bắt giám đốc công ty xăng dầu
+2019-11-14 17:19:30,536 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khởi tố Chủ nhiệm UBKT ở Hà Tĩnh lái ôtô tông chết người
+2019-11-14 17:19:48,255 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : iPhone 11 giá trên trời và có đáng mua?
+2019-11-14 17:19:48,287 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : iPhone 11 ra mắt đêm nay có gì?
+2019-11-14 17:19:48,318 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đừng nên mua iPhone 11 lúc này
+2019-11-14 17:19:48,350 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người từng trải qua cái chết kinh khủng có thể được tái sinh?
+2019-11-14 17:19:48,384 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khuôn mặt trên Hỏa tinh - dấu tích của người ngoài hành tinh?
+2019-11-14 17:19:48,418 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tòa tháp nối thiên đường trong Kinh Thánh từng tồn tại?
+2019-11-14 17:19:48,455 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nữ sinh ĐH Kinh tế Quốc dân là thủ khoa, hoa khôi
+2019-11-14 17:19:48,486 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Học xác suất thống kê lớp 2 sẽ khác chương trình lớp 11
+2019-11-14 17:19:48,514 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cuộc chiến làm 10 triệu người chết, tiêu tốn 85 tỷ USD
+2019-11-14 17:19:48,544 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sách giáo khoa sẽ được lựa chọn công khai, minh bạch?
+2019-11-14 17:19:48,570 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quốc hiệu Đại Việt tồn tại hơn 700 năm
+2019-11-14 17:19:48,600 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bộ GD&ĐT yêu cầu báo cáo vụ nam sinh bị kỷ luật vì xúc phạm nhóm BTS
+2019-11-14 17:19:48,629 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những đứa trẻ bị trường bắt đi ăn xin
+2019-11-14 17:19:48,658 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ðổi mới sách giáo khoa, giáo viên đối mặt nhiều thách thức
+2019-11-14 17:19:48,687 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hàng nghìn bạn trẻ trưởng thành hơn từ chương trình học bổng của SCG
+2019-11-14 17:19:48,717 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Katana - thanh kiếm của võ sĩ Nhật Bản
+2019-11-14 17:19:48,748 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Điểm môn Toán tăng từ khi thi trắc nghiệm
+2019-11-14 17:19:48,777 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Quốc gia nào có nhiều kim cương nhất thế giới?
+2019-11-14 17:19:48,805 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Câu đố lính canh biết đồng đội cười
+2019-11-14 17:19:48,834 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nơi nào từng 7 lần được chọn làm kinh đô nước Việt?
+2019-11-14 17:19:48,859 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sách giáo khoa Toán lớp 1 sẽ có điểm gì mới?
+2019-11-14 17:19:48,892 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : PGS.TS Chu Cẩm Thơ: Cần học Toán thống kê, xác suất từ bé
+2019-11-14 17:19:48,921 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 2 tân giáo sư trẻ nhất năm 2019
+2019-11-14 17:19:48,950 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dự án Đại học VinUni công bố định hướng tuyển sinh năm học 2020-2021
+2019-11-14 17:19:48,978 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cheo cheo lưng bạc có tên nào khác?
+2019-11-14 17:19:49,005 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vụ kỷ luật học sinh xúc phạm nhóm BTS: Trường Ngô Quyền bị kiểm điểm
+2019-11-14 17:19:49,036 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cán bộ phòng giáo dục tham ô hàng chục tỷ đồng
+2019-11-14 17:19:49,065 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vụ cô giáo bị tố đâm vật nhọn vào tay trẻ: Đình chỉ cơ sở mầm non
+2019-11-14 17:19:49,093 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nữ sinh ĐH Ngoại thương học giỏi, thích làm MC
+2019-11-14 17:19:49,120 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sách giáo khoa mới sẽ có giá cao hơn
+2019-11-14 17:19:49,149 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đánh học sinh, giáo viên đối mặt án tù 20 năm
+2019-11-14 17:19:49,176 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trao giải 100 triệu cho 5 quán quân 'Tri thức trẻ vì giáo dục'
+2019-11-14 17:19:49,206 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thi được 1 điểm vẫn đạt học sinh giỏi cấp huyện
+2019-11-14 17:19:49,236 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 9 sinh viên một trường đại học chết trong 3 tháng
+2019-11-14 17:19:49,276 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : CapitaLand chi hơn 6 tỷ đồng xây trường mẫu giáo tại Long An
+2019-11-14 17:19:49,307 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thần đồng 9 tuổi tốt nghiệp đại học
+2019-11-14 17:19:49,338 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cách chức hiệu trưởng mầm non dùng bằng giả
+2019-11-14 17:19:49,364 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Học sinh phạm khuyết điểm, giáo viên phạt thế nào là đúng?
+2019-11-14 17:19:49,394 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Học phí 35.000 USD/năm của VinUni là đắt hay rẻ?
+2019-11-14 17:19:49,421 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vì sao cá mập không có xương?
+2019-11-14 17:19:49,448 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Loài cá voi có chân, đi lại và bơi lội đều giỏi
+2019-11-14 17:19:49,477 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vì sao đồng đổi màu xanh khi tiếp xúc lâu với không khí?
+2019-11-14 17:19:49,508 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phụ huynh Hàn Quốc lên chùa cầu may trước ngày con thi đại học
+2019-11-14 17:19:49,537 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tại sao bầu trời có màu đỏ lúc hoàng hôn?
+2019-11-14 17:19:49,565 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cách săn mồi trên tuyết của cáo đỏ
+2019-11-14 17:19:49,593 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trường đại học đào mộ cho sinh viên nằm thử
+2019-11-14 17:19:49,622 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cô giáo đạp mạnh vào đầu học sinh
+2019-11-14 17:19:49,649 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vì sao ong chết sau khi đốt người?
+2019-11-14 17:19:49,676 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vì sao chúng ta vung tay khi đi bộ?
+2019-11-14 17:19:49,701 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dao găm nạm vàng được làm từ thiên thạch
+2019-11-14 17:19:49,728 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dòng họ có 33 người làm vua nước Việt
+2019-11-14 17:19:49,754 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vua nào đặt quốc hiệu nước ta là Đại Nam?
+2019-11-14 17:19:49,801 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bộ cứ cấm, giáo viên cứ dạy thêm
+2019-11-14 17:19:49,832 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Học công nghệ thông tin có nhiều cơ hội việc làm
+2019-11-14 17:19:49,859 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 10 hy sinh thầm lặng của cha mẹ
+2019-11-14 17:19:49,887 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Dòng sông lạnh nhất thế giới
+2019-11-14 17:20:12,991 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bài tập giúp tăng chiều cao sau tuổi dậy thì
+2019-11-14 17:20:13,018 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sai lầm khi tập luyện có thể khiến bạn giảm chiều cao
+2019-11-14 17:20:13,072 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bí quyết tăng chiều cao ở tuổi trưởng thành của HLV Yến Xuân
+2019-11-14 17:20:13,216 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : iPhone 11 giá trên trời và có đáng mua?
+2019-11-14 17:20:13,260 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : iPhone 11 ra mắt đêm nay có gì?
+2019-11-14 17:20:13,332 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đừng nên mua iPhone 11 lúc này
+2019-11-14 17:20:13,378 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người từng trải qua cái chết kinh khủng có thể được tái sinh?
+2019-11-14 17:20:13,417 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lây nhiễm sốt xuất huyết sau khi quan hệ tình dục đồng tính
+2019-11-14 17:20:13,463 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Lá ngón giết người như thế nào?
+2019-11-14 17:20:13,526 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Người đàn ông suýt chết vì nhét tua vít vào trực tràng
+2019-11-14 17:20:13,606 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tai biến thẩm mỹ xảy ra liên tiếp vì TP.HCM xử lý chưa nghiêm?
+2019-11-14 17:20:13,644 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đã tìm ra cách tiêu diệt mọi loại ung thư?
+2019-11-14 17:20:13,683 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 4 mối nguy hiểm khi người Việt ăn quá mặn
+2019-11-14 17:20:13,725 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 5 vấn đề về cân nặng của trẻ mẹ cần chú ý
+2019-11-14 17:20:13,759 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sai lầm khi không ăn mỡ lợn
+2019-11-14 17:20:13,799 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tại sao nam giới thích làm 'chuyện ấy' với phụ nữ mang thai?
+2019-11-14 17:20:13,843 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thẩm mỹ viện xảy ra nhiều tai biến sao vẫn hút khách?
+2019-11-14 17:20:13,880 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hai người có nguy cơ mù mắt do tiêm filler nâng mũi
+2019-11-14 17:20:13,922 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Hành trình xúc cảm đôi bàn tay lay động hàng triệu người
+2019-11-14 17:20:13,955 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Khi nào mật ong gây độc?
+2019-11-14 17:20:13,992 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Có nên nhổ lông mũi?
+2019-11-14 17:20:14,034 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bé trai 2 tuổi tử vong do hóc hạt nhãn
+2019-11-14 17:20:14,064 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Giới trẻ đeo kính mô phỏng bệnh về mắt để hiểu khó khăn của bố mẹ
+2019-11-14 17:20:14,095 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Cứu bé gái thoát khỏi ‘virus chết người’
+2019-11-14 17:20:14,292 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Răng nằm trong mũi 20 năm mà không biết
+2019-11-14 17:20:14,346 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Trẻ 9-10 tuổi đã mắc bệnh chưa có thuốc chữa vì béo phì
+2019-11-14 17:20:14,394 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Thêm bệnh nhân tử vong do cúm A/H1N1
+2019-11-14 17:20:14,430 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : TGĐ TMV Ngọc Dung: ‘Phụ nữ làm đẹp cần hiểu biết, ưu tiên sức khoẻ’
+2019-11-14 17:20:14,465 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những bộ phận của lợn nên hạn chế ăn
+2019-11-14 17:20:14,497 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Suýt chết vì bị xương cá nhọn đâm vào ổ bụng
+2019-11-14 17:20:14,526 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 10/100 bé chào đời tại nhà không tự thở được
+2019-11-14 17:20:14,555 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phía sau hình ảnh cô bé mang dây truyền dịch lên sàn catwalk
+2019-11-14 17:20:14,582 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bé 9 tuổi nhổ tóc không kiểm soát vì áp lực học tập
+2019-11-14 17:20:14,612 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Những hậu quả không thể xem thường khi cơ thể mất nước
+2019-11-14 17:20:14,642 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : TĐ Reckitt Benckiser tài trợ 10 tỷ cho dự án chống bệnh vàng da ở trẻ
+2019-11-14 17:20:14,673 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Phương Anh Idol chia sẻ hành trình giảm 20 kg trong một tháng
+2019-11-14 17:20:14,704 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bé trai thoát chết nhờ chú mèo
+2019-11-14 17:20:14,738 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 7 bài tập giúp cải thiện vòng eo nhiều mỡ thừa
+2019-11-14 17:20:14,766 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tại sao con người có tàn nhang?
+2019-11-14 17:20:14,799 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Vì sao nhiều người nói mê trong khi ngủ?
+2019-11-14 17:20:14,832 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Video - Trải nghiệm thử thách thị lực với '4 chiếc kính đặc biệt'
+2019-11-14 17:20:14,861 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Tại sao bạn nên tập thể dục trước khi ăn sáng?
+2019-11-14 17:20:14,890 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Đồ uống làm sạch phổi cho người hút thuốc lá lâu năm
+2019-11-14 17:20:14,920 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Nguyên nhân khiến bạn nói lắp
+2019-11-14 17:20:14,949 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Điều gì xảy ra nếu 7,5 tỷ người cùng hắt xì hơi?
+2019-11-14 17:20:14,982 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Ăn quá nhiều chất xơ có tốt cho sức khỏe?
+2019-11-14 17:20:15,012 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Chồng kiện bệnh viện vì vợ tử vong sau khi sinh mổ
+2019-11-14 17:20:15,042 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Gãy 10 chiếc xương sườn vì lạm dụng kem chống nắng
+2019-11-14 17:20:15,075 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Bà mớm thức ăn khiến cháu 6 tuổi loét toàn bộ dạ dày
+2019-11-14 17:20:15,104 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Công dụng của cà chua đối với sức khỏe
+2019-11-14 17:52:50,043 DEBUG [Timer-0] - crawl.Main.run 619 - Tracking url : https://vnexpress.net
+2019-11-14 17:53:16,705 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thời sự
+2019-11-14 17:53:16,706 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Góc nhìn
+2019-11-14 17:53:16,708 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thế giới
+2019-11-14 17:53:16,709 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Kinh doanh
+2019-11-14 17:53:16,710 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giải trí
+2019-11-14 17:53:16,710 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thể thao
+2019-11-14 17:53:16,711 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Pháp luật
+2019-11-14 17:53:16,712 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giáo dục
+2019-11-14 17:53:16,713 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Sức khỏe
+2019-11-14 17:53:16,714 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Đời sống
+2019-11-14 17:53:16,714 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Du lịch
+2019-11-14 17:53:16,715 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Khoa học
+2019-11-14 17:53:16,716 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Số hóa
+2019-11-14 17:53:16,717 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Xe
+2019-11-14 17:53:16,717 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Ý kiến
+2019-11-14 17:53:16,720 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Tâm sự
+2019-11-14 17:53:16,723 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Cười
+2019-11-14 17:54:32,816 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : 12 nguyên tắc an toàn giao thông trẻ cần biết
+2019-11-14 17:54:53,027 DEBUG [Timer-0] - crawl.Main.InsertNews 513 - Inserted : Sẽ xóa trạm BOT gần cầu Vàm Cống
+2019-11-14 17:58:10,684 DEBUG [Timer-0] - crawl.Main.run 619 - Tracking url : https://vnexpress.net
+2019-11-14 17:58:30,380 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thời sự
+2019-11-14 17:58:30,381 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Góc nhìn
+2019-11-14 17:58:30,383 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thế giới
+2019-11-14 17:58:30,384 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Kinh doanh
+2019-11-14 17:58:30,384 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giải trí
+2019-11-14 17:58:30,385 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thể thao
+2019-11-14 17:58:30,386 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Pháp luật
+2019-11-14 17:58:30,387 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giáo dục
+2019-11-14 17:58:30,388 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Sức khỏe
+2019-11-14 17:58:30,389 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Đời sống
+2019-11-14 17:58:30,389 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Du lịch
+2019-11-14 17:58:30,390 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Khoa học
+2019-11-14 17:58:30,391 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Số hóa
+2019-11-14 17:58:30,392 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Xe
+2019-11-14 17:58:30,392 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Ý kiến
+2019-11-14 17:58:30,395 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Tâm sự
+2019-11-14 17:58:30,396 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Cười
+2019-11-14 17:59:45,380 DEBUG [Timer-0] - crawl.Main.run 619 - Tracking url : https://vnexpress.net
+2019-11-14 18:00:04,901 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thời sự
+2019-11-14 18:00:04,902 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Góc nhìn
+2019-11-14 18:00:04,904 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thế giới
+2019-11-14 18:00:04,905 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Kinh doanh
+2019-11-14 18:00:04,906 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giải trí
+2019-11-14 18:00:04,907 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thể thao
+2019-11-14 18:00:04,907 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Pháp luật
+2019-11-14 18:00:04,908 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giáo dục
+2019-11-14 18:00:04,909 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Sức khỏe
+2019-11-14 18:00:04,910 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Đời sống
+2019-11-14 18:00:04,911 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Du lịch
+2019-11-14 18:00:04,912 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Khoa học
+2019-11-14 18:00:04,913 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Số hóa
+2019-11-14 18:00:04,914 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Xe
+2019-11-14 18:00:04,914 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Ý kiến
+2019-11-14 18:00:04,917 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Tâm sự
+2019-11-14 18:00:04,919 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Cười
+2019-11-14 20:49:17,459 DEBUG [Timer-0] - crawl.Main.run 619 - Tracking url : https://vnexpress.net
+2019-11-14 20:49:59,871 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thời sự
+2019-11-14 20:49:59,873 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Góc nhìn
+2019-11-14 20:49:59,875 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thế giới
+2019-11-14 20:49:59,876 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Kinh doanh
+2019-11-14 20:49:59,877 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giải trí
+2019-11-14 20:49:59,878 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thể thao
+2019-11-14 20:49:59,879 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Pháp luật
+2019-11-14 20:49:59,879 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giáo dục
+2019-11-14 20:49:59,880 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Sức khỏe
+2019-11-14 20:49:59,881 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Đời sống
+2019-11-14 20:49:59,882 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Du lịch
+2019-11-14 20:49:59,882 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Khoa học
+2019-11-14 20:49:59,883 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Số hóa
+2019-11-14 20:49:59,884 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Xe
+2019-11-14 20:49:59,884 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Ý kiến
+2019-11-14 20:49:59,887 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Tâm sự
+2019-11-14 20:49:59,888 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Cười
+2019-11-14 22:28:17,539 DEBUG [Timer-0] - crawl.Main.run 619 - Tracking url : https://vnexpress.net
+2019-11-14 22:28:36,941 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thời sự
+2019-11-14 22:28:36,942 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Góc nhìn
+2019-11-14 22:28:36,943 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thế giới
+2019-11-14 22:28:36,944 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Kinh doanh
+2019-11-14 22:28:36,945 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giải trí
+2019-11-14 22:28:36,946 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Thể thao
+2019-11-14 22:28:36,947 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Pháp luật
+2019-11-14 22:28:36,948 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Giáo dục
+2019-11-14 22:28:36,949 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Sức khỏe
+2019-11-14 22:28:36,950 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Đời sống
+2019-11-14 22:28:36,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Du lịch
+2019-11-14 22:28:36,952 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Khoa học
+2019-11-14 22:28:36,953 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Số hóa
+2019-11-14 22:28:36,954 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Xe
+2019-11-14 22:28:36,955 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Ý kiến
+2019-11-14 22:28:36,957 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Tâm sự
+2019-11-14 22:28:36,958 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 406 - Cười

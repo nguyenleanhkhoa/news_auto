@@ -1,0 +1,110 @@
+<div id="adminNewsAprroved" class="mt-2">
+  <div class="w-100 d-flex flex-row-reverse">
+      <button mat-raised-button class="btn-custom btn-custom-color mb-1" >
+    <mat-icon style="color: white;">autorenew</mat-icon>
+    Refresh dữ liệu
+  </button>
+      <div class="w-100 d-flex justify-content-left">
+          <input type="search" placeholder="Nhập tiêu đề bài viết" class="input-custom mr-1 pl-2" [(ngModel)]="titleStr" />
+          <button mat-raised-button class="h-35 btn-custom-color" >
+      <mat-icon style="color:white;">search</mat-icon>
+    </button>
+      </div>
+  </div>
+  <div class="row">
+      <div class="mt-2 p-0 col-2 " style="border-right: 1px solid lightgrey;">
+          <div class="example-table-container  border-top-solid">
+              <table mat-table [dataSource]="dataSourceCategory" id="categoryData" class="example-table" matSort matSortActive="created" matSortDisableClear matSortDirection="desc">
+                  <ng-container matColumnDef="name">
+                      <th mat-header-cell *matHeaderCellDef class="column-size-category">
+                          Chuyên mục
+                      </th>
+                      <td mat-cell *matCellDef="let row" id="category-{{ row.id }}" style="color: black;">
+                          {{ row.name }}
+                      </td>
+                  </ng-container>
+
+                  <tr mat-header-row *matHeaderRowDef="dataColumnCategory; sticky: true"></tr>
+                  <tr mat-row *matRowDef="let row; columns: dataColumnCategory" (click)="onCategorySelected(row, $event)"></tr>
+              </table>
+          </div>
+      </div>
+      <div class="mt-2 p-0 col">
+          <table mat-table class="shadow-none" [dataSource]="dataSourceApproved" id="newsData" matSort matSortActive="created" matSortDisableClear matSortDirection="desc">
+              <ng-container matColumnDef="id">
+                  <th mat-header-cell *matHeaderCellDef class="column-size-id">Id</th>
+                  <td mat-cell *matCellDef="let element" class="pr-4 pt-4 pb-4">
+                      {{ element.id }}
+                  </td>
+              </ng-container>
+
+              <ng-container matColumnDef="title">
+                  <th mat-header-cell *matHeaderCellDef class="column-size-title">
+                      Tiêu đề
+                  </th>
+                  <td mat-cell *matCellDef="let element" class="pr-4" matTooltip="{{ element.title }}">
+                      <div class="ellipse-custom">
+                          {{ element.title }}
+                      </div>
+                  </td>
+              </ng-container>
+              <ng-container matColumnDef="category">
+                  <th mat-header-cell *matHeaderCellDef class="column-size-title">
+                      Chuyên mục
+                  </th>
+                  <td mat-cell *matCellDef="let element" class="pr-4 text-align-center">
+                      {{ element.category["name"] }}
+                  </td>
+              </ng-container>
+
+              <ng-container matColumnDef="link">
+                  <th mat-header-cell *matHeaderCellDef class="column-size-link">
+                      <div class="ellipse-custom">
+                          Đường dẫn
+                      </div>
+                  </th>
+                  <td mat-cell *matCellDef="let element" matTooltip="{{ element.link }}">
+                      <div class="ellipse-custom">
+                          {{ element.link }}
+                      </div>
+                  </td>
+              </ng-container>
+              <ng-container matColumnDef="display">
+                  <th class="column-size-display" mat-header-cell *matHeaderCellDef>
+                      <div class="d-inline-flex">
+                          <div class="mr-1 ellipse-custom">Hiển thị</div>
+                      </div>
+                  </th>
+                  <td class="column-size-display" mat-cell *matCellDef="let row">
+                      <mat-slide-toggle id="matSlideToggle" #toggleSlide (ngModelChange)="onChangeNews(row)" [(ngModel)]="row.status" (change)="$event ? selection.toggle(row) : null" [checked]="row.status === '1'" [disabled]="!row.status">
+                      </mat-slide-toggle>
+                  </td>
+              </ng-container>
+              <ng-container matColumnDef="action">
+                  <th class="column-size-action" mat-header-cell *matHeaderCellDef>
+                      Thông tin
+                  </th>
+                  <td mat-cell *matCellDef="let element" class="action-link ">
+                      <div class="d-flex justify-content-center">
+                          <button style="color: #5f6a7d; background-color: transparent; border: none; " (click)="onSelectedRow(element)">
+            <mat-icon>info</mat-icon>
+          </button>
+
+                      </div>
+                  </td>
+              </ng-container>
+              <tr mat-header-row *matHeaderRowDef="dataColumn; sticky: true"></tr>
+              <tr mat-row *matRowDef="let row; columns: dataColumn"></tr>
+          </table>
+
+          <div class="mt-2 mb-2">
+              <mat-paginator #matPaginator [length]="100" [pageSize]="7" showFirstLastButtons></mat-paginator>
+          </div>
+      </div>
+  </div>
+  <div id="snackbar" [ngClass]="{ show: saveSuccess, unshow: !saveSuccess }" class="alert-custom">
+      <div *ngIf="saveSuccess" class="alert alert-success alert-dismissible fade show m-0 w-fitcontent">
+          <strong>Cập nhật thành công</strong>
+      </div>
+  </div>
+</div>

@@ -1,0 +1,128 @@
+2020-04-11 08:22:55,545 DEBUG [main] - crawl.Main.main 528 - Token was attached !
+2020-04-11 08:23:01,691 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net
+2020-04-11 08:23:14,268 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.NullPointerException
+2020-04-11 08:23:14,269 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://news.zing.vn/
+2020-04-11 08:25:54,210 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://tuoitre.vn
+2020-04-11 08:31:57,932 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://24h.com.vn
+2020-04-11 08:49:40,623 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://thanhnien.vn/
+2020-04-11 08:52:49,575 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://dantri.com.vn/
+2020-04-11 08:55:19,992 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vietnamnet.vn/
+2020-04-11 09:09:38,203 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.nguoiduatin.vn
+2020-04-11 09:19:09,936 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://kenh14.vn/
+2020-04-11 09:22:29,634 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://soha.vn/
+2020-04-11 09:23:54,187 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vtc.vn/
+2020-04-11 09:24:13,415 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.id: sub-menu-parent (tried for 10 second(s) with 500 milliseconds interval)
+2020-04-11 09:24:13,419 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://congly.vn/
+2020-04-11 09:25:22,340 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.tienphong.vn/
+2020-04-11 09:27:55,482 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://tintuconline.com.vn
+2020-04-11 09:28:11,075 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.NullPointerException
+2020-04-11 09:28:11,075 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.vietnamplus.vn/
+2020-04-11 09:28:38,991 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.NullPointerException
+2020-04-11 09:28:38,992 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vov.vn/
+2020-04-11 09:43:42,102 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.baogiaothong.vn/
+2020-04-11 09:50:08,071 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baodautu.vn/
+2020-04-11 09:53:14,198 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baodatviet.vn/
+2020-04-11 09:57:09,033 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://toquoc.vn/
+2020-04-11 10:05:11,694 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baoquocte.vn/
+2020-04-11 10:16:30,527 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - org.openqa.selenium.NoSuchSessionException: No active session with ID fd2f8d5be0d6952e9b3bef17cabb1b67
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-H1F2K58', ip: '172.27.224.131', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 80.0.3987.16 (320f6526c1632..., userDataDir: C:\Users\Anhkhoa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:57777}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: fd2f8d5be0d6952e9b3bef17cab...}
+Session ID: fd2f8d5be0d6952e9b3bef17cabb1b67
+2020-04-11 10:16:30,528 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baohatinh.vn/
+2020-04-11 10:24:00,716 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://phapluatxahoi.vn/
+2020-04-11 10:25:35,247 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://daidoanket.vn/
+2020-04-11 10:33:33,274 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://plo.vn/
+2020-04-11 10:42:41,077 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baocantho.com.vn/
+2020-04-11 10:50:42,238 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://viettimes.vn/
+2020-04-11 10:51:30,066 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://baodansinh.vn/
+2020-04-11 10:58:31,698 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://thoidai.com.vn/
+2020-04-11 10:59:11,454 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://anninhthudo.vn/
+2020-04-11 10:59:40,313 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element is not clickable at point (970, 24)
+  (Session info: headless chrome=80.0.3987.163)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-H1F2K58', ip: '172.27.224.131', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 80.0.3987.16 (320f6526c1632..., userDataDir: C:\Users\Anhkhoa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:58158}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: 892cbf62dbd6fe4ee9f2e92886d...}
+Session ID: 892cbf62dbd6fe4ee9f2e92886d1e756
+2020-04-11 10:59:40,314 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://quochoi.vn/
+2020-04-11 11:01:53,919 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://haiquanonline.com.vn/
+2020-04-11 11:03:41,290 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://vietq.vn/
+2020-04-11 11:04:39,173 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baotintuc.vn/
+2020-04-11 11:29:25,288 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://thanhtra.com.vn/
+2020-04-11 11:29:34,328 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.NullPointerException
+2020-04-11 11:29:34,329 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baonghean.vn/
+2020-04-11 11:34:34,511 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://congthuong.vn/
+2020-04-11 11:37:21,976 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vietnamfinance.vn/
+2020-04-11 11:40:47,493 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://nghenhinvietnam.vn/
+2020-04-11 11:41:43,928 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vietnamdaily.net.vn/
+2020-04-11 11:42:07,110 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baoangiang.com.vn/
+2020-04-11 11:48:59,561 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://baochinhphu.vn/
+2020-04-11 11:51:56,907 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://bizlive.vn/
+2020-04-11 11:53:04,719 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://doisongvietnam.vn/
+2020-04-11 11:57:35,180 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://www.bienphong.com.vn/
+2020-04-11 12:00:48,161 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://motthegioi.vn/
+2020-04-11 12:00:56,289 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 467 - https://motthegioi.vn/ : Can't get url of category !
+2020-04-11 12:00:56,355 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net
+2020-04-11 12:01:06,641 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.NullPointerException
+2020-04-11 12:01:06,642 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://news.zing.vn/
+2020-04-11 12:03:35,554 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://tuoitre.vn
+2020-04-11 12:09:21,550 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://24h.com.vn
+2020-04-11 12:29:36,931 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://thanhnien.vn/
+2020-04-11 12:34:32,711 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://dantri.com.vn/
+2020-04-11 12:37:30,984 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vietnamnet.vn/
+2020-04-11 12:37:57,912 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.id: myelement (tried for 10 second(s) with 500 milliseconds interval)
+2020-04-11 12:37:57,913 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.nguoiduatin.vn
+2020-04-11 12:38:14,611 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.NullPointerException
+2020-04-11 12:38:14,611 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://kenh14.vn/
+2020-04-11 12:41:54,711 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://soha.vn/
+2020-04-11 12:43:18,695 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vtc.vn/
+2020-04-11 12:43:38,453 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.id: sub-menu-parent (tried for 10 second(s) with 500 milliseconds interval)
+2020-04-11 12:43:38,454 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://congly.vn/
+2020-04-11 12:45:26,498 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.tienphong.vn/
+2020-04-11 12:48:15,977 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://tintuconline.com.vn
+2020-04-11 12:48:31,356 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.NullPointerException
+2020-04-11 12:48:31,356 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.vietnamplus.vn/
+2020-04-11 12:48:58,402 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.NullPointerException
+2020-04-11 12:48:58,403 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vov.vn/
+2020-04-11 13:03:45,326 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://www.baogiaothong.vn/
+2020-04-11 13:11:51,891 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baodautu.vn/
+2020-04-11 13:15:12,431 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baodatviet.vn/
+2020-04-11 13:19:19,470 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://toquoc.vn/
+2020-04-11 13:27:42,258 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baoquocte.vn/
+2020-04-11 13:33:38,394 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baohatinh.vn/
+2020-04-11 13:42:17,254 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://phapluatxahoi.vn/
+2020-04-11 13:43:54,166 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://daidoanket.vn/
+2020-04-11 13:52:14,975 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://plo.vn/
+2020-04-11 14:01:40,724 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baocantho.com.vn/
+2020-04-11 14:10:15,073 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://viettimes.vn/
+2020-04-11 14:11:03,377 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://baodansinh.vn/
+2020-04-11 14:18:29,347 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://thoidai.com.vn/
+2020-04-11 14:19:11,091 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://anninhthudo.vn/
+2020-04-11 14:19:41,002 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element is not clickable at point (970, 24)
+  (Session info: headless chrome=80.0.3987.163)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-H1F2K58', ip: '172.27.224.131', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 80.0.3987.16 (320f6526c1632..., userDataDir: C:\Users\Anhkhoa\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:58291}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webdriver.remote.sessionid: fc589af8e9b5178710fd4708a72...}
+Session ID: fc589af8e9b5178710fd4708a729cab3
+2020-04-11 14:19:41,005 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://quochoi.vn/
+2020-04-11 14:21:56,497 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://haiquanonline.com.vn/
+2020-04-11 14:23:56,828 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://vietq.vn/
+2020-04-11 14:25:03,164 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baotintuc.vn/
+2020-04-11 14:51:14,261 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://thanhtra.com.vn/
+2020-04-11 14:51:23,650 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 501 - java.lang.NullPointerException
+2020-04-11 14:51:23,651 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baonghean.vn/
+2020-04-11 14:57:13,132 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://congthuong.vn/
+2020-04-11 14:59:34,090 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vietnamfinance.vn/
+2020-04-11 15:02:56,040 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://nghenhinvietnam.vn/
+2020-04-11 15:03:53,577 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vietnamdaily.net.vn/
+2020-04-11 15:04:41,767 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://baoangiang.com.vn/
+2020-04-11 15:11:41,463 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://baochinhphu.vn/
+2020-04-11 15:14:49,577 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://bizlive.vn/
+2020-04-11 15:16:01,781 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://doisongvietnam.vn/
+2020-04-11 15:20:32,924 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : http://www.bienphong.com.vn/
+2020-04-11 15:23:28,078 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://motthegioi.vn/
+2020-04-11 15:23:40,782 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 467 - https://motthegioi.vn/ : Can't get url of category !
+2020-04-11 15:23:40,870 DEBUG [Timer-0] - crawl.Main.run 539 - Tracking url : https://vnexpress.net

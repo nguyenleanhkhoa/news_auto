@@ -1,0 +1,23 @@
+2019-11-18 02:28:47,750 DEBUG [Timer-0] - crawl.Main.run 613 - Tracking url : https://vnexpress.net
+2019-11-18 04:14:23,825 DEBUG [Timer-0] - crawl.Main.run 617 - Tracking url : https://vnexpress.net
+2019-11-18 04:20:41,453 DEBUG [Timer-0] - crawl.Main.run 617 - Tracking url : https://news.zing.vn/
+2019-11-18 04:26:47,781 DEBUG [Timer-0] - crawl.Main.run 617 - Tracking url : https://tuoitre.vn
+2019-11-18 04:35:21,384 DEBUG [Timer-0] - crawl.Main.run 617 - Tracking url : https://24h.com.vn
+2019-11-18 05:01:08,671 DEBUG [Timer-0] - crawl.Main.run 617 - Tracking url : https://thanhnien.vn/
+2019-11-18 05:11:07,831 DEBUG [Timer-0] - crawl.Main.run 617 - Tracking url : https://dantri.com.vn/
+2019-11-18 05:13:42,146 DEBUG [Timer-0] - crawl.Main.run 617 - Tracking url : https://vietnamnet.vn/
+2019-11-18 05:13:56,517 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 579 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2019-11-18 05:13:57,342 DEBUG [Timer-0] - crawl.Main.run 617 - Tracking url : https://www.nguoiduatin.vn
+2019-11-18 05:14:13,013 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 579 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2019-11-18 05:14:13,840 DEBUG [Timer-0] - crawl.Main.run 617 - Tracking url : http://kenh14.vn/
+2019-11-18 05:14:34,863 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 579 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2019-11-18 05:14:35,701 DEBUG [Timer-0] - crawl.Main.run 617 - Tracking url : https://soha.vn/
+2019-11-18 05:15:06,445 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 579 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2019-11-18 05:15:07,294 DEBUG [Timer-0] - crawl.Main.run 617 - Tracking url : https://vtc.vn/
+2019-11-18 05:15:23,238 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 579 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2019-11-18 05:15:24,062 DEBUG [Timer-0] - crawl.Main.run 617 - Tracking url : https://congly.vn/
+2019-11-18 05:15:57,382 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 579 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2019-11-18 05:15:58,269 DEBUG [Timer-0] - crawl.Main.run 617 - Tracking url : https://www.tienphong.vn/
+2019-11-18 05:16:13,052 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 579 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2019-11-18 05:16:13,982 DEBUG [Timer-0] - crawl.Main.run 617 - Tracking url : https://tintuconline.com.vn
+2019-11-18 05:16:35,761 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 579 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0

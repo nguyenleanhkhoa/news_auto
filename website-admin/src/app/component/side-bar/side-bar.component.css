@@ -1,0 +1,9 @@
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.bg-sidebar {
+  background-color: #4678d0;
+  width: 260px !important ;
+}
+

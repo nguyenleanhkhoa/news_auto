@@ -1,0 +1,481 @@
+2019-10-16 00:08:35,714 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 00:08:35,719 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Góc nhìn
+2019-10-16 00:08:35,719 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 00:08:35,720 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 00:08:35,720 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 00:08:35,721 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 00:08:35,721 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 00:08:35,722 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 00:08:35,722 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 00:08:35,723 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 00:08:35,723 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 00:08:35,723 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 00:08:35,724 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Số hóa
+2019-10-16 00:08:35,724 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 00:08:35,724 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Ý kiến
+2019-10-16 00:08:35,725 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Tâm sự
+2019-10-16 00:08:35,726 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Cười
+2019-10-16 00:12:29,362 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 00:12:29,364 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Góc nhìn
+2019-10-16 00:12:29,364 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 00:12:29,365 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 00:12:29,366 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 00:12:29,366 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 00:12:29,367 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 00:12:29,367 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 00:12:29,368 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 00:12:29,368 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 00:12:29,369 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 00:12:29,369 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 00:12:29,370 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Số hóa
+2019-10-16 00:12:29,371 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 00:12:29,372 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Ý kiến
+2019-10-16 00:12:29,374 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Tâm sự
+2019-10-16 00:12:29,377 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Cười
+2019-10-16 00:28:58,217 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 00:28:58,220 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Góc nhìn
+2019-10-16 00:28:58,220 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 00:28:58,221 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 00:28:58,221 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 00:28:58,222 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 00:28:58,222 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 00:28:58,222 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 00:28:58,222 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 00:28:58,223 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 00:28:58,223 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 00:28:58,223 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 00:28:58,224 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Số hóa
+2019-10-16 00:28:58,224 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 00:28:58,225 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Ý kiến
+2019-10-16 00:28:58,226 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Tâm sự
+2019-10-16 00:28:58,227 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Cười
+2019-10-16 00:30:39,540 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 00:30:39,543 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Góc nhìn
+2019-10-16 00:30:39,544 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 00:30:39,545 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 00:30:39,545 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 00:30:39,545 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 00:30:39,546 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 00:30:39,546 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 00:30:39,547 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 00:30:39,547 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 00:30:39,548 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 00:30:39,548 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 00:30:39,549 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Số hóa
+2019-10-16 00:30:39,549 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 00:30:39,550 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Ý kiến
+2019-10-16 00:30:39,550 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Tâm sự
+2019-10-16 00:30:39,551 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Cười
+2019-10-16 00:31:50,099 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 00:31:50,101 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Góc nhìn
+2019-10-16 00:31:50,102 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 00:31:50,102 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 00:31:50,103 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 00:31:50,104 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 00:31:50,104 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 00:31:50,104 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 00:31:50,105 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 00:31:50,106 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 00:31:50,106 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 00:31:50,107 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 00:31:50,107 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Số hóa
+2019-10-16 00:31:50,108 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 00:31:50,108 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Ý kiến
+2019-10-16 00:31:50,109 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Tâm sự
+2019-10-16 00:31:50,110 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Cười
+2019-10-16 00:33:25,256 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 00:33:25,261 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Góc nhìn
+2019-10-16 00:33:25,261 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 00:33:25,262 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 00:33:25,263 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 00:33:25,264 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 00:33:25,265 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 00:33:25,265 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 00:33:25,266 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 00:33:25,266 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 00:33:25,267 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 00:33:25,267 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 00:33:25,268 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Số hóa
+2019-10-16 00:33:25,269 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 00:33:25,270 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Ý kiến
+2019-10-16 00:33:25,271 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Tâm sự
+2019-10-16 00:33:25,274 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Cười
+2019-10-16 01:08:46,046 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 01:08:46,050 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Góc nhìn
+2019-10-16 01:08:46,050 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 01:08:46,051 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 01:08:46,052 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 01:08:46,052 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 01:08:46,053 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 01:08:46,053 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 01:08:46,054 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 01:08:46,054 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 01:08:46,055 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 01:08:46,055 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 01:08:46,056 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Số hóa
+2019-10-16 01:08:46,056 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 01:08:46,057 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Ý kiến
+2019-10-16 01:08:46,058 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Tâm sự
+2019-10-16 01:08:46,059 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Cười
+2019-10-16 01:11:44,395 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 01:11:44,398 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Góc nhìn
+2019-10-16 01:11:44,399 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 01:11:44,400 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 01:11:44,400 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 01:11:44,401 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 01:11:44,402 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 01:11:44,402 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 01:11:44,403 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 01:11:44,404 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 01:11:44,404 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 01:11:44,405 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 01:11:44,406 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Số hóa
+2019-10-16 01:11:44,406 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 01:11:44,407 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Ý kiến
+2019-10-16 01:11:44,408 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Tâm sự
+2019-10-16 01:11:44,410 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Cười
+2019-10-16 01:17:25,145 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 508 - java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2019-10-16 09:40:20,860 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 09:40:20,863 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Góc nhìn
+2019-10-16 09:40:20,864 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 09:40:20,865 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 09:40:20,865 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 09:40:20,866 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 09:40:20,866 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 09:40:20,867 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 09:40:20,867 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 09:40:20,868 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 09:40:20,868 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 09:40:20,869 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 09:40:20,870 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Số hóa
+2019-10-16 09:40:20,870 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 09:40:20,871 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Ý kiến
+2019-10-16 09:40:20,872 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Tâm sự
+2019-10-16 09:40:20,873 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Cười
+2019-10-16 09:50:02,357 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 508 - java.lang.NullPointerException
+2019-10-16 10:10:17,057 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 10:10:17,057 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Góc nhìn
+2019-10-16 10:10:17,057 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 10:10:17,058 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 10:10:17,058 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 10:10:17,058 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 10:10:17,058 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 10:10:17,058 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 10:10:17,058 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 10:10:17,058 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 10:10:17,059 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 10:10:17,059 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 10:10:17,059 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Số hóa
+2019-10-16 10:10:17,059 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 10:10:17,059 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Ý kiến
+2019-10-16 10:10:17,060 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Tâm sự
+2019-10-16 10:10:17,060 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Cười
+2019-10-16 10:13:34,295 ERROR [Timer-0] - crawl.CrawData.getTitleAndLink 147 - java.lang.NullPointerException
+2019-10-16 10:17:40,082 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 10:17:40,085 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Góc nhìn
+2019-10-16 10:17:40,085 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 10:17:40,086 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 10:17:40,087 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 10:17:40,087 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 10:17:40,088 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 10:17:40,089 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 10:17:40,089 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 10:17:40,090 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 10:17:40,090 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 10:17:40,091 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 10:17:40,091 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Số hóa
+2019-10-16 10:17:40,092 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 10:17:40,092 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Ý kiến
+2019-10-16 10:17:40,093 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Tâm sự
+2019-10-16 10:17:40,095 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Cười
+2019-10-16 10:20:53,041 ERROR [Timer-0] - crawl.CrawData.getTitleAndLink 147 - java.lang.NullPointerException
+2019-10-16 10:22:07,184 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 466 - more
+2019-10-16 10:22:07,602 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 10:22:07,602 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 10:22:07,603 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 10:22:07,603 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 10:22:07,603 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 10:22:07,603 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 10:22:07,604 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 10:22:07,604 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 10:22:07,605 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sống trẻ
+2019-10-16 10:22:07,605 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 10:22:07,605 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Công nghệ
+2019-10-16 10:22:07,605 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 10:22:07,605 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 10:22:07,606 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 10:22:07,615 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 10:22:07,616 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 10:22:07,617 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 10:22:07,618 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 10:22:07,618 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 10:22:07,618 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 10:22:07,619 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sống trẻ
+2019-10-16 10:22:07,619 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 10:22:07,619 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Công nghệ
+2019-10-16 10:22:07,620 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 10:27:47,580 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 10:27:47,580 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 10:27:47,580 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 10:27:47,580 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 10:27:47,580 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 10:27:47,581 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 10:27:47,581 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 10:27:47,581 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 10:27:47,581 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Nhịp sống trẻ
+2019-10-16 10:27:47,581 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 10:27:47,581 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 10:27:47,581 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 10:27:47,581 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 10:27:47,581 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 10:27:47,582 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 10:27:47,582 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 10:27:47,582 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 10:27:47,582 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 10:27:47,582 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 10:27:47,582 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 10:27:47,582 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Nhịp sống trẻ
+2019-10-16 10:27:47,582 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 10:27:47,583 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 10:27:47,583 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 10:35:51,512 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 466 - mnTpx
+2019-10-16 10:35:51,702 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Tin tức trong ngày
+2019-10-16 10:35:51,702 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 10:35:51,702 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 10:35:51,703 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 10:35:51,703 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 10:35:51,703 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 10:35:51,703 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục - du học
+2019-10-16 10:35:51,704 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe đời sống
+2019-10-16 10:35:51,704 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 10:35:51,704 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Công nghệ thông tin
+2019-10-16 10:35:51,705 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Ô tô
+2019-10-16 10:35:51,705 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Cười 24H
+2019-10-16 10:38:42,981 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 466 - item--dm
+2019-10-16 10:38:43,151 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 10:38:43,151 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 10:38:43,151 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Văn hóa
+2019-10-16 10:38:43,151 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 10:38:43,152 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 10:38:43,152 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 10:38:43,152 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 10:38:43,152 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 10:38:43,153 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 10:38:43,153 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Công nghệ
+2019-10-16 10:38:43,153 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 10:42:06,497 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xã hội
+2019-10-16 10:42:06,497 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 10:42:06,497 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 10:42:06,497 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 10:42:06,497 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 10:42:06,498 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 10:42:06,498 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 10:42:06,498 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 10:42:06,498 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Nhịp sống trẻ
+2019-10-16 10:42:06,498 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 10:42:06,498 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức mạnh số
+2019-10-16 10:42:06,499 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe++
+2019-10-16 10:45:15,388 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 466 - full-menu-bt
+2019-10-16 10:45:15,587 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 10:45:15,587 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 10:45:15,587 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 10:45:15,588 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 10:45:15,588 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 10:45:15,588 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 10:45:15,588 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 10:45:15,588 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 10:45:15,588 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 10:45:15,589 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Công nghệ
+2019-10-16 10:45:15,589 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Bạn đọc
+2019-10-16 10:49:27,902 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 466 - fa-bars
+2019-10-16 10:49:28,024 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xã hội
+2019-10-16 10:49:28,025 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 10:49:28,025 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 10:49:28,025 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 10:49:28,025 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 10:49:28,025 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 10:49:28,025 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Công nghệ
+2019-10-16 10:49:28,026 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - 
+2019-10-16 10:52:33,439 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 466 - expand-icon
+2019-10-16 10:52:36,482 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 10:52:36,482 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sport
+2019-10-16 10:52:36,483 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 10:53:36,847 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 10:53:36,847 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Quốc tế
+2019-10-16 10:53:36,847 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 10:53:36,847 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 10:53:36,847 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 10:53:36,847 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 10:53:36,847 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sống khỏe
+2019-10-16 10:53:36,847 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 10:53:36,847 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Công nghệ
+2019-10-16 10:56:07,760 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 10:56:07,760 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 10:56:07,760 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 10:56:07,761 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 10:56:07,761 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 10:56:07,761 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 10:56:07,761 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 10:58:14,545 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 10:58:14,546 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Góc nhìn
+2019-10-16 10:58:14,546 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 10:58:14,546 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 10:58:14,546 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 10:58:14,546 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 10:58:14,546 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 10:58:14,546 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 10:58:14,546 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 10:58:14,546 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 10:58:14,547 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 10:58:14,547 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 10:58:14,547 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Số hóa
+2019-10-16 10:58:14,547 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 10:58:14,547 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Ý kiến
+2019-10-16 10:58:14,547 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Tâm sự
+2019-10-16 10:58:14,547 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Cười
+2019-10-16 11:01:50,943 ERROR [Timer-0] - crawl.CrawData.getTitleAndLink 147 - java.lang.NullPointerException
+2019-10-16 11:03:15,063 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 466 - more
+2019-10-16 11:03:15,229 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 11:03:15,229 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 11:03:15,229 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 11:03:15,230 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 11:03:15,230 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 11:03:15,230 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 11:03:15,230 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 11:03:15,230 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 11:03:15,230 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sống trẻ
+2019-10-16 11:03:15,230 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 11:03:15,230 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Công nghệ
+2019-10-16 11:03:15,230 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 11:03:15,230 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 11:03:15,231 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 11:03:15,231 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 11:03:15,231 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 11:03:15,231 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 11:03:15,231 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 11:03:15,231 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 11:03:15,231 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 11:03:15,231 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sống trẻ
+2019-10-16 11:03:15,231 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 11:03:15,232 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Công nghệ
+2019-10-16 11:03:15,232 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 11:09:01,950 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 11:09:01,950 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 11:09:01,950 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Nhịp sống trẻ
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 11:09:01,951 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 11:09:01,952 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Nhịp sống trẻ
+2019-10-16 11:09:01,952 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 11:09:01,952 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 11:09:01,952 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 11:17:09,965 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 466 - mnTpx
+2019-10-16 11:17:10,218 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Tin tức trong ngày
+2019-10-16 11:17:10,218 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 11:17:10,218 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 11:17:10,218 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 11:17:10,218 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 11:17:10,218 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 11:17:10,219 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục - du học
+2019-10-16 11:17:10,219 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe đời sống
+2019-10-16 11:17:10,220 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 11:17:10,220 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Công nghệ thông tin
+2019-10-16 11:17:10,220 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Ô tô
+2019-10-16 11:17:10,220 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Cười 24H
+2019-10-16 11:20:05,204 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 466 - item--dm
+2019-10-16 11:20:05,367 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 11:20:05,367 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 11:20:05,367 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Văn hóa
+2019-10-16 11:20:05,367 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 11:20:05,368 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 11:20:05,368 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 11:20:05,368 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 11:20:05,368 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 11:20:05,368 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 11:20:05,368 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Công nghệ
+2019-10-16 11:20:05,369 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 11:23:30,537 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xã hội
+2019-10-16 11:23:30,537 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 11:23:30,537 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 11:23:30,537 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 11:23:30,538 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 11:23:30,538 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 11:23:30,538 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 11:23:30,538 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 11:23:30,538 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Nhịp sống trẻ
+2019-10-16 11:23:30,538 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 11:23:30,538 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức mạnh số
+2019-10-16 11:23:30,538 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe++
+2019-10-16 11:26:48,228 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 466 - full-menu-bt
+2019-10-16 11:26:48,381 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 11:26:48,381 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 11:26:48,381 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 11:26:48,382 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 11:26:48,382 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 11:26:48,382 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 11:26:48,382 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 11:26:48,382 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 11:26:48,383 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 11:26:48,383 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Công nghệ
+2019-10-16 11:26:48,383 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Bạn đọc
+2019-10-16 11:31:32,175 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 466 - fa-bars
+2019-10-16 11:31:32,319 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xã hội
+2019-10-16 11:31:32,319 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 11:31:32,320 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 11:31:32,320 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 11:31:32,320 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 11:31:32,320 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 11:31:32,320 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Công nghệ
+2019-10-16 11:31:32,320 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - 
+2019-10-16 11:34:19,183 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 466 - expand-icon
+2019-10-16 11:34:19,384 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 11:34:19,385 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sport
+2019-10-16 11:34:19,386 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 11:35:28,286 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 11:35:28,286 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Quốc tế
+2019-10-16 11:35:28,286 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 11:35:28,286 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 11:35:28,286 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 11:35:28,286 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 11:35:28,286 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sống khỏe
+2019-10-16 11:35:28,286 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 11:35:28,286 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Công nghệ
+2019-10-16 11:38:24,051 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 11:38:24,052 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 11:38:24,052 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 11:38:24,052 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 11:38:24,052 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 11:38:24,053 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 11:38:24,053 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 11:40:30,333 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 508 - java.lang.NullPointerException
+2019-10-16 11:40:48,314 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thời sự
+2019-10-16 11:40:48,314 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Góc nhìn
+2019-10-16 11:40:48,314 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thế giới
+2019-10-16 11:40:48,315 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Kinh doanh
+2019-10-16 11:40:48,315 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giải trí
+2019-10-16 11:40:48,315 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Thể thao
+2019-10-16 11:40:48,315 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Pháp luật
+2019-10-16 11:40:48,315 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Giáo dục
+2019-10-16 11:40:48,315 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Sức khỏe
+2019-10-16 11:40:48,315 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Đời sống
+2019-10-16 11:40:48,315 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Du lịch
+2019-10-16 11:40:48,315 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Khoa học
+2019-10-16 11:40:48,315 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Số hóa
+2019-10-16 11:40:48,315 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Xe
+2019-10-16 11:40:48,315 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Ý kiến
+2019-10-16 11:40:48,315 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Tâm sự
+2019-10-16 11:40:48,315 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 370 - Cười

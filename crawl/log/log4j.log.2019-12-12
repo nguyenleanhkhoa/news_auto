@@ -1,0 +1,876 @@
+2019-12-12 02:03:16,209 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 02:03:57,683 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :521
+2019-12-12 02:04:25,026 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :508
+2019-12-12 02:04:38,712 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :229
+2019-12-12 02:04:51,554 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :294
+2019-12-12 02:05:05,528 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :190
+2019-12-12 02:05:43,259 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :469
+2019-12-12 02:06:10,662 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=248}
+2019-12-12 02:07:05,358 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :214
+2019-12-12 02:08:09,371 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :459
+2019-12-12 02:08:45,086 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :3169
+2019-12-12 02:09:21,259 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :3123
+2019-12-12 02:09:55,175 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :505
+2019-12-12 02:10:10,500 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :189
+2019-12-12 02:10:26,479 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :284
+2019-12-12 02:10:42,667 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :3041
+2019-12-12 02:11:17,279 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :463
+2019-12-12 02:11:57,453 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :438
+2019-12-12 02:12:13,951 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :484
+2019-12-12 02:12:59,379 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=168}
+2019-12-12 02:14:01,359 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :178
+2019-12-12 02:14:33,194 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :3113
+2019-12-12 02:15:22,553 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :493
+2019-12-12 02:15:50,269 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :3036
+2019-12-12 02:16:18,267 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :361
+2019-12-12 02:16:45,625 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=251}
+2019-12-12 02:17:20,536 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :3025
+2019-12-12 02:17:45,469 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :535
+2019-12-12 02:17:56,916 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=3098}
+2019-12-12 02:18:24,547 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=257}
+2019-12-12 02:18:36,886 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :515
+2019-12-12 02:19:05,637 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :228
+2019-12-12 02:19:22,131 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :280
+2019-12-12 02:19:47,313 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :197
+2019-12-12 02:20:24,895 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :288
+2019-12-12 02:21:25,427 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :293
+2019-12-12 02:22:52,973 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :456
+2019-12-12 02:23:12,772 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=319}
+2019-12-12 02:23:28,557 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :212
+2019-12-12 02:23:43,841 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :184
+2019-12-12 02:23:59,484 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :3091
+2019-12-12 02:24:26,732 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :285
+2019-12-12 02:24:59,949 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=402}
+2019-12-12 02:26:03,479 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=3100}
+2019-12-12 02:26:18,631 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :291
+2019-12-12 02:26:30,363 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=317}
+2019-12-12 02:26:46,195 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :341
+2019-12-12 02:27:01,585 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=3115}
+2019-12-12 02:29:55,397 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :3173
+2019-12-12 02:30:17,146 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :539
+2019-12-12 02:31:13,485 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :218
+2019-12-12 02:31:46,518 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=306}
+2019-12-12 02:32:13,186 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=208}
+2019-12-12 02:33:00,977 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :520
+2019-12-12 02:34:14,543 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :507
+2019-12-12 02:34:48,731 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :418
+2019-12-12 02:37:38,486 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :3128
+2019-12-12 02:38:19,437 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :3170
+2019-12-12 02:38:59,703 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :367
+2019-12-12 02:40:15,412 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=3118}
+2019-12-12 02:40:35,960 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=407}
+2019-12-12 02:41:29,666 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :437
+2019-12-12 02:41:55,202 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :481
+2019-12-12 02:42:14,045 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=3024}
+2019-12-12 02:43:01,197 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :3040
+2019-12-12 02:43:27,544 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=309}
+2019-12-12 02:45:33,750 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :3037
+2019-12-12 02:45:50,375 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :462
+2019-12-12 02:46:09,600 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :221
+2019-12-12 02:46:29,265 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=403}
+2019-12-12 02:46:48,307 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=307}
+2019-12-12 02:47:24,084 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=3029}
+2019-12-12 02:47:48,164 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=254}
+2019-12-12 02:49:06,869 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=3028}
+2019-12-12 02:49:23,129 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=399}
+2019-12-12 02:49:58,222 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=406}
+2019-12-12 02:50:12,469 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :351
+2019-12-12 02:50:30,693 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :225
+2019-12-12 02:50:43,729 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :482
+2019-12-12 02:50:58,748 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :345
+2019-12-12 02:51:48,103 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=324}
+2019-12-12 02:52:33,744 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=413}
+2019-12-12 02:53:25,925 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :350
+2019-12-12 02:54:05,269 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=369}
+2019-12-12 02:54:40,205 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :3116
+2019-12-12 02:55:01,048 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=265}
+2019-12-12 02:55:55,212 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=266}
+2019-12-12 02:56:07,704 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=3095}
+2019-12-12 02:56:43,476 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=255}
+2019-12-12 02:57:02,835 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=408}
+2019-12-12 02:57:30,187 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :414
+2019-12-12 02:57:44,868 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :3120
+2019-12-12 02:58:18,620 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :526
+2019-12-12 02:58:43,690 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :519
+2019-12-12 02:59:20,613 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :441
+2019-12-12 03:00:11,488 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :506
+2019-12-12 03:00:37,319 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :282
+2019-12-12 03:01:18,676 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=330}
+2019-12-12 03:02:23,677 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :440
+2019-12-12 03:02:41,514 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=253}
+2019-12-12 03:02:58,813 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=335}
+2019-12-12 03:03:35,355 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :434
+2019-12-12 03:03:53,387 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :540
+2019-12-12 03:04:49,160 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=391}
+2019-12-12 03:05:59,274 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=3110}
+2019-12-12 03:21:25,534 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 03:21:43,908 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 03:22:39,950 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 03:23:59,473 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 03:24:41,785 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 03:25:57,751 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 03:26:17,689 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 03:28:38,093 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 03:28:49,639 DEBUG [Timer-0] - crawl.Main.run 648 - Tracking url : https://vnexpress.net
+2019-12-12 03:30:06,164 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Kira là trang phục truyền thống của đất nước nào?
+2019-12-12 03:30:06,194 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 3.200 tỷ đồng xây cao tốc Tuyên Quang - Phú Thọ
+2019-12-12 03:30:06,224 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vườn nho 'ba màu' ở Ninh Thuận
+2019-12-12 03:30:06,249 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ngư dân bắt được con vật nghi là rái cá biển
+2019-12-12 03:30:06,276 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cấm nhiều đường trung tâm Sài Gòn để cổ vũ bóng đá
+2019-12-12 03:30:06,305 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cả nước chuẩn bị cho trận chung kết bóng đá SEA Games
+2019-12-12 03:30:06,335 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người hâm mộ vỡ òa với ba bàn thắng của Việt Nam
+2019-12-12 03:30:06,368 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Gia đình đợi Trọng Hoàng mang huy chương vàng về
+2019-12-12 03:30:06,401 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mẹ Tiến Linh tin con trai sẽ ghi bàn trận chung kết
+2019-12-12 03:30:06,432 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Gia đình cầu thủ Hùng Dũng làm cỗ đón cổ động viên
+2019-12-12 03:30:06,466 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Khắp Việt Nam rợp bóng cờ mừng chiến thắng
+2019-12-12 03:30:06,508 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thủ tướng sẽ gặp mặt hai đội tuyển bóng đá vô địch SEA Games 30
+2019-12-12 03:30:06,533 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ôtô bán tải cháy đầu khi 'đi bão'
+2019-12-12 03:30:06,559 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Xe đầu kéo tông sập nhà dân
+2019-12-12 03:30:06,587 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thủ tướng: Giảm nửa triệu ha đất trồng lúa
+2019-12-12 03:30:06,624 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nhà ga T3 Tân Sơn Nhất được thiết kế như thế nào?
+2019-12-12 03:30:06,648 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cháy 12 căn nhà ở Năm Căn, một người chết
+2019-12-12 03:30:06,674 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Giải cứu gấu ngựa nặng 140 kg
+2019-12-12 03:30:06,697 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ôtô lao vào vách núi, hai người chết
+2019-12-12 03:30:06,722 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đêm mừng chiến thắng của người hâm mộ
+2019-12-12 03:30:06,750 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : TP HCM bảo tồn Dinh Thượng thơ
+2019-12-12 03:30:06,787 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bom nặng 350 kg trong vườn nhà dân
+2019-12-12 03:30:06,810 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vợ chồng cựu Tổng thống Obama ăn cơm ở Sài Gòn
+2019-12-12 03:30:06,836 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thú rừng chết dần vì không có cơ quan cứu hộ
+2019-12-12 03:30:06,859 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hai đội tuyển bóng đá Việt Nam về nước
+2019-12-12 03:30:06,880 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hai con khỉ đuôi lợn được thả về rừng
+2019-12-12 03:30:06,907 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Anh Nguyễn Anh Tuấn làm Chủ tịch Hội Liên hiệp Thanh niên Việt Nam
+2019-12-12 03:30:06,930 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thủ tướng: 'Chiến thắng của đội tuyển bóng đá truyền cảm hứng phát triển'
+2019-12-12 03:30:06,956 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hàng trăm người Trung Quốc trình diễn trang phục 'chui'
+2019-12-12 10:37:50,829 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 10:38:00,341 DEBUG [Timer-0] - crawl.Main.run 648 - Tracking url : https://vnexpress.net
+2019-12-12 10:39:50,260 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Những môn học khác lạ ở trường phổ thông
+2019-12-12 10:39:50,294 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 3.200 tỷ đồng xây cao tốc Tuyên Quang - Phú Thọ
+2019-12-12 10:39:50,332 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vườn nho 'ba màu' ở Ninh Thuận
+2019-12-12 10:39:50,354 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ngư dân bắt được con vật nghi là rái cá biển
+2019-12-12 10:39:50,378 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cấm nhiều đường trung tâm Sài Gòn để cổ vũ bóng đá
+2019-12-12 10:39:50,398 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cả nước chuẩn bị cho trận chung kết bóng đá SEA Games
+2019-12-12 10:39:50,425 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người hâm mộ vỡ òa với ba bàn thắng của Việt Nam
+2019-12-12 10:39:50,447 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Gia đình đợi Trọng Hoàng mang huy chương vàng về
+2019-12-12 10:39:50,466 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mẹ Tiến Linh tin con trai sẽ ghi bàn trận chung kết
+2019-12-12 10:39:50,494 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Gia đình cầu thủ Hùng Dũng làm cỗ đón cổ động viên
+2019-12-12 10:39:50,521 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Khắp Việt Nam rợp bóng cờ mừng chiến thắng
+2019-12-12 10:39:50,556 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thủ tướng sẽ gặp mặt hai đội tuyển bóng đá vô địch SEA Games 30
+2019-12-12 10:39:50,581 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ôtô bán tải cháy đầu khi 'đi bão'
+2019-12-12 10:39:50,605 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Xe đầu kéo tông sập nhà dân
+2019-12-12 10:39:50,626 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thủ tướng: Giảm nửa triệu ha đất trồng lúa
+2019-12-12 10:39:50,654 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nhà ga T3 Tân Sơn Nhất được thiết kế như thế nào?
+2019-12-12 10:39:50,675 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cháy 12 căn nhà ở Năm Căn, một người chết
+2019-12-12 10:39:50,699 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Giải cứu gấu ngựa nặng 140 kg
+2019-12-12 10:39:50,720 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ôtô lao vào vách núi, hai người chết
+2019-12-12 10:39:50,741 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đêm mừng chiến thắng của người hâm mộ
+2019-12-12 10:39:50,768 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : TP HCM bảo tồn Dinh Thượng thơ
+2019-12-12 10:39:50,786 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bom nặng 350 kg trong vườn nhà dân
+2019-12-12 10:39:50,805 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vợ chồng cựu Tổng thống Obama ăn cơm ở Sài Gòn
+2019-12-12 10:39:50,824 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thú rừng chết dần vì không có cơ quan cứu hộ
+2019-12-12 10:39:50,844 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hai đội tuyển bóng đá Việt Nam về nước
+2019-12-12 10:39:50,864 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hai con khỉ đuôi lợn được thả về rừng
+2019-12-12 10:39:50,891 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Anh Nguyễn Anh Tuấn làm Chủ tịch Hội Liên hiệp Thanh niên Việt Nam
+2019-12-12 10:39:50,917 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thủ tướng: 'Chiến thắng của đội tuyển bóng đá truyền cảm hứng phát triển'
+2019-12-12 10:39:50,940 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hàng trăm người Trung Quốc trình diễn trang phục 'chui'
+2019-12-12 10:40:49,072 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bão Hagibis tàn phá Nhật Bản
+2019-12-12 10:40:49,092 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Dàn vũ khí tại triển lãm quân sự ADEX-2019
+2019-12-12 10:40:49,115 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chile chìm trong biển lửa biểu tình
+2019-12-12 10:40:49,133 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đường tới ngai vàng của tân Nhật hoàng Naruhito
+2019-12-12 10:40:49,151 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thử nghiệm thủy phi cơ đầu tiên chạy hoàn toàn bằng điện
+2019-12-12 10:40:49,169 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nhạc sĩ Mỹ biểu diễn tác phẩm viết về 'Em bé Napalm'
+2019-12-12 10:40:49,188 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đảng Dân chủ có thể 'cố đấm ăn xôi' khi luận tội Trump
+2019-12-12 10:40:49,207 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cựu phiến quân trình diễn thời trang ở quốc hội
+2019-12-12 10:40:49,231 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tử thần rình rập trên đảo núi lửa New Zealand
+2019-12-12 10:40:49,249 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Quan chức điều xe cấp cứu chở hàng hiệu của vợ
+2019-12-12 10:40:49,268 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Phụ nữ Nepal phải ở 'túp lều kinh nguyệt'
+2019-12-12 10:40:49,300 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Truyền thông Trung Quốc bảo vệ thôn nữ Lý Tử Thất
+2019-12-12 10:40:49,323 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Học lập trình trước khi vào cấp một
+2019-12-12 10:40:49,343 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Oanh tạc cơ Mỹ không được bay thấp vì sợ hỏng
+2019-12-12 10:40:49,366 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cựu thủ tướng Malaysia tặng vợ đồng hồ 112.000 USD
+2019-12-12 10:40:49,384 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bolivia lục soát nhà cựu tổng thống Morales
+2019-12-12 10:40:49,402 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cựu quan chức Nhật thừa nhận giết con
+2019-12-12 10:40:49,417 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mỹ trả 4 căn cứ quân sự cho Hàn Quốc
+2019-12-12 10:40:49,438 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bị bố bắt đi ăn xin vì không hoàn thành bài tập
+2019-12-12 10:40:49,456 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Không có bằng chứng Iran tấn công nhà máy dầu Arab Saudi
+2019-12-12 10:40:49,473 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Công ty Mỹ chi thưởng 10 triệu USD cho nhân viên
+2019-12-12 10:40:49,490 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thổ Nhĩ Kỳ dọa không cho Mỹ sử dụng căn cứ quân sự
+2019-12-12 10:40:49,507 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'Núi hoài nghi' ngáng đường Mỹ - Trung
+2019-12-12 10:40:49,528 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Time chọn Greta Thunberg là 'Nhân vật của năm'
+2019-12-12 10:40:49,552 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mỹ điều máy bay do thám tới gần Triều Tiên
+2019-12-12 10:40:49,575 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Iran cảnh báo công dân không đến Mỹ
+2019-12-12 10:40:49,595 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Những người chết mòn vì rác điện tử
+2019-12-12 10:40:49,615 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cảnh sát ma nơ canh điều khiển giao thông
+2019-12-12 10:40:49,641 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thần đồng muốn tốt nghiệp đại học năm 9 tuổi
+2019-12-12 10:40:49,658 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mỹ cảnh báo Triều Tiên về hậu quả 'món quà Giáng sinh'
+2019-12-12 10:40:49,676 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tìm thấy mảnh vỡ có thể của vận tải cơ Chile
+2019-12-12 10:40:49,694 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Rơi trực thăng quân sự Nga, 2 người chết
+2019-12-12 10:40:49,713 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thủ tướng Anh đi giao sữa trước ngày bầu cử
+2019-12-12 10:40:49,738 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chiến hạm Nga diệt mục tiêu cách 250 km trong hơn hai phút
+2019-12-12 10:40:49,766 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mỹ có thể mua lại tiêm kích F-35 của Thổ Nhĩ Kỳ
+2019-12-12 10:40:49,785 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hàng trăm luật sư tấn công bệnh viện
+2019-12-12 10:40:49,804 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người phụ nữ đầu tiên 'vượt ải' tuyển chọn của đặc nhiệm SEAL
+2019-12-12 10:40:49,824 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đảo Nhật có thể thành 'tàu sân bay không thể chìm' của Mỹ
+2019-12-12 10:41:04,881 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bệnh viện Mắt Sài Gòn ưu đãi cho người mắc tật khúc xạ
+2019-12-12 10:41:04,902 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Lock&Lock giảm giá sâu
+2019-12-12 10:41:04,922 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thế Giới Điện Giải khai trương showroom máy lọc nước điện giải ion kiềm tại quận 7
+2019-12-12 10:41:04,942 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Uniben mang đến giải pháp sáng tạo cho ngành hàng nước giải khát
+2019-12-12 10:41:04,965 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Sứ mệnh của Win beauty trong kinh doanh sản phẩm chăm sóc sắc đẹp
+2019-12-12 10:41:04,984 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : SoftBank từ bỏ Startup dắt chó đi dạo
+2019-12-12 10:41:05,003 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Khắc phục thói quen tiền bạc cho năm mới
+2019-12-12 10:41:05,019 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hàng công nghệ, điện máy hút khách dịp cuối năm
+2019-12-12 10:41:05,035 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : VPBank và California Fitness and Yoga ra mắt thẻ tín dụng đồng thương hiệu
+2019-12-12 10:41:05,057 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Trump có thể giúp chứng khoán Mỹ tăng tiếp
+2019-12-12 10:41:05,074 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nikawa đổi thang nhôm cũ lấy thang nhôm mới
+2019-12-12 10:41:05,097 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nhà đầu tư trải nghiệm không gian nghỉ dưỡng Sun Group
+2019-12-12 10:41:05,113 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cao tốc Phan Thiết - Dầu Giây tạo đà cho bất động sản ven biển
+2019-12-12 10:41:05,132 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mua sản phẩm Kymdan qua ứng dụng Kymdan Store
+2019-12-12 10:41:05,148 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bibica phát triển dòng bánh cho bữa ăn phụ
+2019-12-12 10:41:05,166 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chubb Life ưu đãi cho người tham gia giới thiệu danh thiếp điện tử
+2019-12-12 10:41:05,181 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Trang trại TH có năng suất cao tại Nga
+2019-12-12 10:41:05,198 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bộ Kế hoạch & Đầu tư bổ nhiệm thứ trưởng
+2019-12-12 10:41:05,215 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Sơ đồ điện VIII sẽ giảm cơ cấu nguồn điện than?
+2019-12-12 10:41:05,240 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cả đội bóng đá nam, nữ và người thân được bay miễn phí
+2019-12-12 10:41:05,256 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bầu Đức rút khỏi lĩnh vực thủy điện
+2019-12-12 10:41:05,271 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chứng khoán Mỹ tiếp tục giảm
+2019-12-12 10:41:05,289 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Startup Việt tính chuyện ra nước ngoài gọi vốn
+2019-12-12 10:41:05,308 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : BIDV gỡ được ‘nút thắt’ Basel II
+2019-12-12 10:41:05,332 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : ADB nâng dự báo tăng trưởng Việt Nam lên 6,9%
+2019-12-12 10:41:05,351 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cục trưởng Hàng không: 'Đường bay đến Mỹ cạnh tranh khốc liệt'
+2019-12-12 10:41:05,372 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thầy trò ông Park được hứa thưởng cả chục tỷ đồng
+2019-12-12 10:41:05,391 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Từ chối mua điện mặt trời vì thiết bị 'dính' đường lưỡi bò
+2019-12-12 10:41:05,409 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'Bay Hà Nội - TP HCM mỗi tháng chậm thêm 5 phút'
+2019-12-12 10:41:05,425 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mỹ - Trung tìm cách trì hoãn đợt thuế ngày 15/12
+2019-12-12 10:41:05,442 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chưa đủ bằng chứng dẫn độ giám đốc Huawei về Mỹ
+2019-12-12 10:41:05,458 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Facebook, Google trượt top 10 nơi làm việc tốt nhất
+2019-12-12 10:41:05,472 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'Siêu máy bay' Boeing đón đoàn SEA Games về Việt Nam
+2019-12-12 10:41:05,502 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Doanh nghiệp thuê chuyên cơ chở người lao động về quê ăn Tết
+2019-12-12 10:41:05,517 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ông Nguyễn Đăng Quang rời danh sách tỷ phú
+2019-12-12 10:41:05,534 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đại Phúc Group tặng một tỷ đồng cho quỹ người nghèo quận Thủ Đức
+2019-12-12 10:41:05,551 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vacheron Constantin giới thiệu dịch vụ Bespoke tới các nhà sưu tập Việt Nam
+2019-12-12 10:41:05,572 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mận Mộc Châu trái mùa 'sốt' giá
+2019-12-12 10:41:05,600 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Khách vay tiền bị ép mua bảo hiểm nhân thọ
+2019-12-12 10:41:20,929 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Dàn nghệ sĩ mừng 30 năm lập sân khấu Trống Đồng
+2019-12-12 10:41:20,955 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Sách về cuộc đua ngôi số một của Ronaldo và Messi
+2019-12-12 10:41:20,973 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : ĐH Kinh tế Quốc dân đang dẫn đầu bình chọn top 6 'Kpop Dance For Youth'
+2019-12-12 10:41:20,989 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đức Thịnh - Thanh Thúy đưa con đi chơi biển
+2019-12-12 10:41:21,008 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Show diễn thời trang tóc mang thông điệp bảo vệ môi trường
+2019-12-12 10:41:21,023 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đồng hồ Casio giảm giá trong hai ngày
+2019-12-12 10:41:21,039 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'Frozen 2' duy trì sức hút
+2019-12-12 10:41:21,056 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nhan sắc Hoa hậu Hoàn vũ Việt Nam 2019
+2019-12-12 10:41:21,072 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Sao gốc Á gây tiếc nuối vì trượt đề cử Quả Cầu Vàng
+2019-12-12 10:41:21,091 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Lý Hiện đóng cao thủ đấu kiếm
+2019-12-12 10:41:21,108 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nhiều sao mong U22 Việt Nam vô địch SEA Games
+2019-12-12 10:41:21,125 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Albania, Thổ Nhĩ Kỳ tẩy chay lễ trao giải Nobel Văn học
+2019-12-12 10:41:21,143 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Britney Spears đòi thêm quyền nuôi con
+2019-12-12 10:41:21,164 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Giọng ca chính nhóm Roxette qua đời
+2019-12-12 10:41:21,186 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 10 tài tử nổi bật năm 2019
+2019-12-12 10:41:21,209 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tân Miss Universe từng muốn Hoàng Thùy đoạt vương miện
+2019-12-12 10:41:21,230 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Diễm My cùng chồng vượt cảnh làm ăn thua lỗ
+2019-12-12 10:41:21,248 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Sao hạnh phúc vì U22 Việt Nam vô địch SEA Games
+2019-12-12 10:41:21,272 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Lễ hội múa rối kỳ vọng thu hút 60.000 người
+2019-12-12 10:41:21,290 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thanh Hà ra MV về nữ quyền
+2019-12-12 10:41:21,307 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'The Irishman' đạt 26 triệu lượt xem trực tuyến
+2019-12-12 10:41:21,332 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Brad Pitt phủ nhận các tin đồn hẹn hò
+2019-12-12 10:41:21,345 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Dự án nhân ái của Thùy Linh vào top 10 Miss World
+2019-12-12 10:41:21,363 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đàm Vĩnh Hưng đạp xích lô 'đi bão'
+2019-12-12 10:41:21,383 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nghệ sĩ phản đối Trump 'chế' video từ Thanos
+2019-12-12 10:41:21,400 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'Bản sao' Hà Tăng không tiếp tục thi hoa hậu
+2019-12-12 10:41:21,416 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Á hậu Thùy Dung cùng bạn trai du lịch ở Mỹ
+2019-12-12 10:41:21,432 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mỹ nhân 'Tiếu ngạo giang hồ' đổi đời sau kết hôn
+2019-12-12 10:41:21,446 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chồng Khánh Thi áp lực khi thi SEA Games
+2019-12-12 10:41:21,459 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Các phim được người Việt quan tâm nhất năm 2019
+2019-12-12 10:41:21,474 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Diễn viên Scotland chết ở tuổi 14
+2019-12-12 10:41:21,489 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hỷ sự của sao gốc Hoa năm 2019
+2019-12-12 10:41:21,503 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chế Linh: 'Tôi và vợ không bao giờ cãi cọ'
+2019-12-12 10:41:34,811 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thái Lan lần thứ 15 vô địch futsal Đông Nam Á
+2019-12-12 10:41:34,830 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cựu cầu thủ Thế hệ vàng đá bóng hướng về đồng bào vùng bão
+2019-12-12 10:41:34,848 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tám tay vợt dự Next Gen ATP Finals 2019
+2019-12-12 10:41:34,876 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 12.780 vận động viên tham gia đường đua Techcombank Marathon
+2019-12-12 10:41:34,894 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vingroup thưởng VĐV giành huy chương tại SEA Games 30
+2019-12-12 10:41:34,914 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Lễ bế mạc SEA Games 30
+2019-12-12 10:41:34,935 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cầu thủ Việt Nam công kênh HLV Park Hang-seo
+2019-12-12 10:41:34,970 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ajax bị loại khỏi Champions League
+2019-12-12 10:41:34,986 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đội dự bị Barca đẩy Inter xuống Europa League
+2019-12-12 10:41:35,000 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Fati trở thành cầu thủ ghi bàn trẻ nhất Champions League
+2019-12-12 10:41:35,018 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Solskjaer: 'Rashford có thể bắt kịp Ronaldo'
+2019-12-12 10:41:35,036 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Liverpool vào vòng 1/8 bằng vị trí nhất bảng
+2019-12-12 10:41:35,055 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ramos: 'Messi và Ronaldo nên tranh một Quả Bóng Vàng riêng'
+2019-12-12 10:41:35,075 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Sự nhanh trí giúp đô vật Việt Nam giành HC vàng
+2019-12-12 10:41:35,094 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Điền kinh Việt Nam đoạt 16 HC vàng ở SEA Games 30
+2019-12-12 10:41:35,114 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Napoli sa thải HLV Ancelotti
+2019-12-12 10:41:35,130 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cảm ơn đoàn thể thao Việt Nam
+2019-12-12 10:41:35,147 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đoàn Văn Hậu: ‘HC vàng SEA Games chỉ là bước khởi đầu’
+2019-12-12 10:41:35,163 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Park Hang-seo - Thuyền trưởng huyền thoại của bóng đá Việt Nam
+2019-12-12 10:41:35,180 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người hùng điền kinh Việt Nam khóc nức nở vì nhớ mẹ
+2019-12-12 10:41:35,198 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Quang Hải không kịp vào thay người cuối trận đấu Indonesia
+2019-12-12 10:41:35,216 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : HLV Park Hang-seo an ủi cầu thủ Indonesia
+2019-12-12 10:41:35,237 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Văn Hậu xin lỗi Evan Dimas
+2019-12-12 10:41:35,256 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : SEA Games 2019 - sự giải thoát cho bóng đá Việt Nam
+2019-12-12 10:41:35,282 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Sport Detik: 'Đoàn Văn Hậu là nguyên nhân khiến Indonesia thất bại'
+2019-12-12 10:41:35,302 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : HLV Park không bị treo quyền chỉ đạo vì thẻ đỏ SEA Games
+2019-12-12 10:41:35,322 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : HLV Park Hang-seo: 'Giữ mình ở đỉnh cao mới khó'
+2019-12-12 10:41:35,346 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Jesus xô đổ một kỷ lục của Neymar
+2019-12-12 10:41:35,364 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Solskjaer: 'Nhiều cầu thủ hàng đầu muốn tái thiết Man Utd'
+2019-12-12 10:41:35,383 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ronaldo ghi bàn trong trận cầu thủ tục của Juventus
+2019-12-12 10:41:52,669 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Xe container lao qua ngã ba như 'chốn không đèn' ở Sài Gòn
+2019-12-12 10:41:52,697 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Xe đưa rước học sinh chạy ngược chiều bị chặn đầu
+2019-12-12 10:41:52,719 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bị ôtô bấm còi, xe máy chở 3 chặn đầu thách thức tài xế
+2019-12-12 10:41:52,740 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Rải đinh ra đường sẽ bị phạt bao nhiêu tiền?
+2019-12-12 10:41:52,757 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Công an TP HCM điều tra vụ 'Phó chánh án chiếm nhà'
+2019-12-12 10:41:52,777 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bốn nhân viên Alibaba bị đề nghị truy tố
+2019-12-12 10:41:52,798 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : VN Pharma bán hết 4 loại thuốc kháng sinh giả
+2019-12-12 10:41:52,816 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Lời nói của đứa trẻ giúp cảnh sát phá án
+2019-12-12 10:41:52,833 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hai tên cướp giết nam sinh chạy Grab sau cuốc xe 60.000 đồng
+2019-12-12 10:41:52,848 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Can nhựa đựng 21 gói nylon nghi là ma túy
+2019-12-12 10:41:52,870 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ba kẻ chém chết hàng xóm bị bắt
+2019-12-12 10:41:52,891 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Miếng bã kẹo cao su thành chứng cứ buộc tội
+2019-12-12 10:41:52,908 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nữ trưởng phòng điều dưỡng bệnh viện nhi Nam Định bị bắt
+2019-12-12 10:41:52,923 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Công tố viên chế giễu luật sư
+2019-12-12 10:41:52,942 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nguyên Phó chủ tịch TP HCM Nguyễn Hữu Tín sắp hầu tòa
+2019-12-12 10:41:52,959 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Kẻ trộm chó bị cảnh sát giao thông bắt giữ
+2019-12-12 10:41:52,976 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cảnh sát Mỹ làm video nhạc chế để nhắc đề phòng kẻ trộm
+2019-12-12 10:41:52,991 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cảnh sát ngăn cổ vũ quá khích trong trận Việt Nam - Indonesia
+2019-12-12 10:41:53,005 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ba người ăn trộm 23 xe máy
+2019-12-12 10:41:53,032 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bốn cán bộ gây thất thoát 5,6 tỷ đồng
+2019-12-12 10:41:53,049 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tài xế ôtô chở thuốc lá lậu tử vong vì trúng đạn
+2019-12-12 10:41:53,066 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Con gái kiện mẹ vì bị ngăn ra ở riêng
+2019-12-12 10:41:53,083 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chồng đốt nhà, bốn người trong gia đình chết
+2019-12-12 10:41:53,113 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chánh án bị lộ video tình cảm với cấp dưới
+2019-12-12 10:41:53,138 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hỗn chiến trước quán bar, một người chết
+2019-12-12 10:41:53,162 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 7 thanh niên đốt pháo sáng ở Hà Nội bị tạm giữ
+2019-12-12 10:41:53,186 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Xin giảm án tử hình vì chất lượng không khí ô nhiễm
+2019-12-12 10:41:53,206 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nhóm nghi can đâm chết người trước quán bar bị bắt
+2019-12-12 10:41:53,225 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tòa Phú Thọ tiếp tục triệu tập cựu bộ trưởng Trương Minh Tuấn
+2019-12-12 10:41:53,241 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cựu giám đốc Quỹ bảo trợ trẻ em Quảng Bình bị khởi tố
+2019-12-12 10:41:53,259 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cầm ống nước đánh vợ tử vong
+2019-12-12 10:41:53,275 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đêm trả thù của gã hàng xóm bị bắt nạt nhiều năm
+2019-12-12 10:41:53,292 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ai được phép tịch thu hàng hóa của người bán rong?
+2019-12-12 10:41:53,306 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đề nghị tăng án gã anh rể hãm hại nữ du học sinh
+2019-12-12 10:41:53,323 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đâm bạn trai khi không được kiểm tra điện thoại
+2019-12-12 10:42:17,163 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hai cách tạo ô lưới trong Microsoft Word
+2019-12-12 10:42:17,182 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Năm câu đố về địa danh tiếng Pháp ở Sài Gòn
+2019-12-12 10:42:17,204 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Lời khuyên dành cho sinh viên năm nhất tại Mỹ
+2019-12-12 10:42:17,220 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ella Study mở khóa học trải nghiệm ngành Quảng cáo sáng tạo
+2019-12-12 10:42:17,236 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Yếu tố giúp học công nghệ thông tin thành công
+2019-12-12 10:42:17,253 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thầy giáo đi 'bắt' học sinh mỗi ngày
+2019-12-12 10:42:17,272 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vẽ cốc nước như thật
+2019-12-12 10:42:17,301 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Câu đố về thủ đô các nước Đông Nam Á
+2019-12-12 10:42:17,321 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Michelle Obama thảo luận nhóm với học sinh Long An
+2019-12-12 10:42:17,344 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Phụ huynh quan tâm chuyện tình cảm của con tuổi teen
+2019-12-12 10:42:17,378 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Học sinh 20 trường vùng sâu xem phim ảnh trên FPT Play
+2019-12-12 10:42:17,397 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tuyên dương ba học sinh trả lại tiền nhặt được
+2019-12-12 10:42:17,414 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bài tập điền từ nối trong tiếng Anh
+2019-12-12 10:42:17,430 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Giáo viên chi tiền mua đồ cho 60 học sinh
+2019-12-12 10:42:17,450 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cách nuôi dạy con của tỷ phú Mỹ
+2019-12-12 10:42:17,476 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nhiều đại học tổ chức xem trận Việt Nam - Indonesia
+2019-12-12 10:42:17,491 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thách thức của hiệu trưởng khi chọn sách giáo khoa mới
+2019-12-12 10:42:17,506 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Con bốn cán bộ bị thu lại tiền học thạc sĩ nước ngoài
+2019-12-12 10:42:17,522 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hiệu trưởng yêu cầu không tặng thiệp Giáng sinh
+2019-12-12 10:42:17,538 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tìm lỗi sai trong năm câu đố
+2019-12-12 10:42:17,554 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thầy trò Đại học FPT làm video cổ vũ U22 Việt Nam
+2019-12-12 10:42:17,573 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thầy giáo buông lời khiếm nhã với nữ sinh
+2019-12-12 10:42:17,591 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bài tập về câu tường thuật trong tiếng Anh
+2019-12-12 10:42:17,608 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Dạy con đầu lòng ứng xử với em
+2019-12-12 10:42:17,628 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thiếu giáo trình đào tạo về khởi nghiệp
+2019-12-12 10:42:17,643 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thành đạt nhờ năm bài học đơn giản của người mẹ
+2019-12-12 10:42:17,662 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Học tiếng Anh bằng cách đọc báo nước ngoài
+2019-12-12 10:42:17,676 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nam sinh 15 tuổi nhận bằng thạc sĩ
+2019-12-12 10:42:17,692 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Trường ĐH Mở TP HCM tuyển sinh chương trình liên kế quốc tế
+2019-12-12 10:42:17,706 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tiêu chuẩn thi tuyển Phi công dân sự
+2019-12-12 10:42:17,727 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Giúp con phát triển trí tuệ cảm xúc
+2019-12-12 10:43:50,037 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 10:45:02,826 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 10:49:31,684 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 10:49:58,893 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=400, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=148}
+2019-12-12 10:54:12,358 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 10:57:10,168 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 10:58:18,884 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=200, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=68}
+2019-12-12 10:58:29,402 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 11:03:46,299 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :51
+2019-12-12 11:03:55,012 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 11:06:58,432 DEBUG [main] - crawl.Main.main 638 - Token was attached !
+2019-12-12 11:10:16,240 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 11:12:49,186 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 11:15:01,256 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 11:16:47,509 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 11:18:00,901 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :186
+2019-12-12 11:20:18,414 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 11:21:09,601 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :173
+2019-12-12 11:21:31,299 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :182
+2019-12-12 11:21:52,888 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :10
+2019-12-12 11:22:04,729 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :61
+2019-12-12 11:22:16,866 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :40
+2019-12-12 11:22:29,148 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :19
+2019-12-12 11:22:40,649 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :203
+2019-12-12 11:22:53,212 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=85}
+2019-12-12 11:23:08,780 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=77}
+2019-12-12 11:23:25,622 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :38
+2019-12-12 11:23:36,097 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=79}
+2019-12-12 11:23:44,017 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=83}
+2019-12-12 11:23:55,310 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=74}
+2019-12-12 11:24:06,175 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :183
+2019-12-12 11:24:16,665 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :190
+2019-12-12 11:24:26,879 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=112}
+2019-12-12 11:24:37,722 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :169
+2019-12-12 11:24:46,874 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=70}
+2019-12-12 11:24:58,057 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=109}
+2019-12-12 11:25:07,198 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :47
+2019-12-12 11:25:16,181 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :50
+2019-12-12 11:25:29,381 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :11
+2019-12-12 11:25:48,142 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :151
+2019-12-12 11:25:59,822 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :42
+2019-12-12 11:26:10,326 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :186
+2019-12-12 11:26:19,337 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :27
+2019-12-12 11:26:27,324 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :201
+2019-12-12 11:26:36,357 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :217
+2019-12-12 11:26:45,495 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :191
+2019-12-12 11:26:54,966 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :37
+2019-12-12 11:27:03,632 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :46
+2019-12-12 11:27:11,724 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=82}
+2019-12-12 11:27:20,540 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=92}
+2019-12-12 11:27:28,484 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :234
+2019-12-12 11:27:39,153 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :152
+2019-12-12 11:27:48,473 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=93}
+2019-12-12 11:27:58,502 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=158}
+2019-12-12 11:28:06,039 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :233
+2019-12-12 11:28:14,520 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :185
+2019-12-12 11:28:26,141 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :36
+2019-12-12 11:28:38,645 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=88}
+2019-12-12 11:28:50,375 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=163}
+2019-12-12 11:28:59,737 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=133}
+2019-12-12 11:29:08,993 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 11:29:29,529 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=130}
+2019-12-12 11:29:46,715 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :57
+2019-12-12 11:30:18,349 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=74}
+2019-12-12 11:30:54,267 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=87}
+2019-12-12 11:31:16,296 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :143
+2019-12-12 11:31:41,491 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :12
+2019-12-12 11:31:56,506 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=95}
+2019-12-12 11:32:15,405 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=100}
+2019-12-12 11:32:26,349 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :47
+2019-12-12 11:32:36,121 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 11:38:10,571 ERROR [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Error :Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=124}
+2019-12-12 11:38:25,662 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 11:39:00,681 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Inserted content :124
+2019-12-12 11:39:31,591 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Inserted content :17
+2019-12-12 11:39:58,609 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Inserted content :78
+2019-12-12 11:40:20,684 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Inserted content :214
+2019-12-12 11:41:07,291 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 11:42:59,191 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=95}
+2019-12-12 11:44:06,884 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=161}
+2019-12-12 11:44:37,813 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Response{protocol=http/1.1, code=500, message=, url=http://localhost:8080/getdetailweb/api/v1/content/id=41}
+2019-12-12 11:46:13,805 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 11:46:23,642 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 11:48:51,333 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 274 - Inserted content :180
+2019-12-12 11:48:57,018 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 11:50:10,503 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 11:53:18,222 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 11:55:02,213 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 11:57:50,178 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 12:01:38,253 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 12:02:39,980 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :222
+2019-12-12 12:03:02,412 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :75
+2019-12-12 12:03:32,678 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :142
+2019-12-12 12:04:07,349 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createContentById 272 - Inserted content :59
+2019-12-12 12:04:37,664 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 12:04:47,307 DEBUG [Timer-0] - crawl.Main.run 652 - Tracking url : https://vnexpress.net
+2019-12-12 12:07:02,753 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Học viên cao học giải quyết bí ẩn vật lý tồn tại 100 năm
+2019-12-12 12:07:03,028 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 3 thợ lặn mất tích ở Cần Giờ
+2019-12-12 12:07:03,083 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bốn nhà hàng ven biển Hội An bị thiêu rụi
+2019-12-12 12:11:58,852 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hổ mang chúa dài 4,6 m mò vào nhà dân
+2019-12-12 12:11:59,109 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ấn Độ thông qua dự luật công dân gây tranh cãi
+2019-12-12 12:11:59,126 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tìm thấy bức tranh 66 triệu USD sau 23 năm bị trộm
+2019-12-12 12:11:59,144 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nhập 120 mét vuông da người cứu nạn nhân vụ núi lửa phun
+2019-12-12 12:11:59,190 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người cứu giúp nhiều nạn nhân vụ phun trào núi lửa
+2019-12-12 12:11:59,209 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mỹ có thể duy trì quân số tối thiểu ở Afghanistan
+2019-12-12 12:11:59,237 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 3 triệu USD giấu trong xe container thịt lợn
+2019-12-12 12:11:59,256 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người khiến Nga lao đao với bê bối doping
+2019-12-12 12:11:59,278 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Time bị chỉ trích vì chọn Thunberg là 'Nhân vật của năm'
+2019-12-12 12:12:15,616 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hơn 80% căn hộ Cosmo II mở bán đã có chủ
+2019-12-12 12:12:15,654 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bình chọn giải thưởng quảng cáo ngoài trời OOH Award 2019
+2019-12-12 12:12:15,911 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Sunshine Group thắp cờ đỏ trên các toà nhà đón đội tuyển Việt Nam
+2019-12-12 12:12:15,936 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 7 lãnh đạo kinh doanh đi lên từ 'thoát bóng' nghiện ngập
+2019-12-12 12:12:34,456 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Sách về 'cuộc đời phi thường' của Lý Tiểu Long
+2019-12-12 12:12:34,472 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : H'Hen Niê tủi thân sau trao lại vương miện
+2019-12-12 12:12:34,491 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Dàn diễn viên 'Biệt động Sài Gòn' sau 33 năm
+2019-12-12 12:12:34,514 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Harvey Weinstein dàn xếp scandal sex với 25 triệu USD
+2019-12-12 12:12:34,558 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Zozibini Tunzi - hoa hậu ham học
+2019-12-12 12:13:09,255 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chúc mừng đoàn thể thao Việt Nam
+2019-12-12 12:13:09,374 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : SEA Games 2019 kết thúc
+2019-12-12 12:13:09,396 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Atalanta giành vé vào vòng 1/8 Champions League
+2019-12-12 12:13:09,424 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tiger Woods từng run rẩy trước Els ở Presidents Cup
+2019-12-12 12:13:09,451 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 16 đội vào vòng 1/8 Champions League
+2019-12-12 12:13:29,352 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chủ nhà vướng lao lý vì trừng trị kẻ trộm
+2019-12-12 12:13:29,412 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ngày 26/12 xét xử nhóm sát hại thiếu nữ giao gà
+2019-12-12 12:13:50,544 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Kira là trang phục truyền thống của đất nước nào?
+2019-12-12 12:13:50,562 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thần đồng từng bị chẩn đoán mắc hội chứng down
+2019-12-12 12:14:30,988 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cúc ngải vàng - thảo dược hỗ trợ chữa chứng đau nửa đầu
+2019-12-12 12:14:31,015 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thuốc mới điều trị đau nửa đầu
+2019-12-12 12:14:31,037 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thảo dược giảm ho dễ tìm tại Việt Nam
+2019-12-12 12:14:31,057 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nghiên cứu dược liệu hỗ trợ bệnh nhân ung bướu nhận bằng sáng chế
+2019-12-12 12:14:31,077 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Sai lầm cần tránh khi cho trẻ ăn dặm
+2019-12-12 12:14:31,091 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 6 bài tập cho cánh tay đàn ông vạm vỡ
+2019-12-12 12:14:31,107 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tiến trình tẩy trắng răng thẩm mỹ
+2019-12-12 12:14:31,122 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nữ sinh ung thư thi sắc đẹp: 'Chuẩn bị sức khỏe tốt nhất'
+2019-12-12 12:14:31,138 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chiếc lò sưởi chân chống lạnh đầu thế kỷ 17
+2019-12-12 12:14:31,154 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hạnh phúc muộn màng
+2019-12-12 12:14:31,170 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Điều trị phì đại lành tính tuyến tiền liệt
+2019-12-12 12:14:31,187 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Học y theo kiểu thực dụng
+2019-12-12 12:14:31,203 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chỉnh sửa nhan sắc cho chàng trai bị gãy xương sống mũi
+2019-12-12 12:14:31,219 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thanh tra việc sử dụng que test HIV tại Bệnh viện Xanh Pôn
+2019-12-12 12:14:31,245 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bé sơ sinh nhiễm trùng máu do bỏng than sưởi
+2019-12-12 12:14:31,261 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bệnh viện Xanh Pôn: 'Việc cắt que test HIV diễn ra 3 tháng'
+2019-12-12 12:14:31,280 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Que test HIV bị cắt sẽ làm sai lệch kết quả xét nghiệm
+2019-12-12 12:14:31,313 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 6 dấu hiệu ở chân cảnh báo tình trạng sức khỏe
+2019-12-12 12:14:31,330 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thiết bị hỗ trợ giảm mỡ bụng, trị nhức xương
+2019-12-12 12:14:31,362 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ba sai lầm khiến chạy bộ giảm cân không hiệu quả
+2019-12-12 12:14:31,380 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hàng nghìn bệnh nhân Anh chết do thiếu giường nằm
+2019-12-12 12:14:31,398 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cuộc sống tuyệt vọng của người phụ nữ bị chẩn đoán nhầm HIV
+2019-12-12 12:14:31,416 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thầy giáo có chân to chân nhỏ do u sợi
+2019-12-12 12:14:31,434 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Em bé bệnh vảy cá bị nhầm là búp bê
+2019-12-12 12:14:31,452 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thiếu niên bị chấn thương tinh hoàn khi đá bóng
+2019-12-12 12:14:31,472 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người mẹ quyết giảm cân vì đứa con khuyết tật
+2019-12-12 12:14:31,490 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thụ tinh từ phôi đông lạnh làm tăng nguy cơ ung thư cho trẻ
+2019-12-12 12:14:31,509 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : TP HCM có nhiều bệnh nhân lao nhất nước
+2019-12-12 12:14:31,542 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Phát hiện vi khuẩn gây ung thư, tiểu đường
+2019-12-12 12:14:31,559 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người đàn ông 'biến thành người khác' sau ghép tủy
+2019-12-12 12:14:31,581 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bệnh viện Việt Đức lo thiếu máu dịp Tết
+2019-12-12 12:14:31,611 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Phụ nữ độc thân tìm kiếm tinh trùng Âu, Mỹ để sinh con
+2019-12-12 12:14:31,631 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Khánh thành viện chấn thương chỉnh hình có bãi đáp trực thăng
+2019-12-12 12:14:31,649 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thuốc tránh thai uống một lần hàng tháng
+2019-12-12 12:15:06,300 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Sống trong lều hiện đại trên đảo vắng
+2019-12-12 12:15:06,317 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Dinh dưỡng, vận động cho trẻ 6-12 tuổi
+2019-12-12 12:15:06,338 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Điểm hẹn hò cho các đôi ở ngày hội 'Sống Như Ý'
+2019-12-12 12:15:06,356 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chị em song sinh 'lừa' mọi người suốt thế kỷ
+2019-12-12 12:15:06,387 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Quạt đèn chùm làm mới không gian sống
+2019-12-12 12:15:06,412 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tầm quan trọng của bữa ăn phụ trong ngày
+2019-12-12 12:15:06,430 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Phát hiện bạn trai phản bội nhờ thiết bị theo dõi sức khỏe
+2019-12-12 12:15:06,445 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nhà Sài Gòn trổ 10 mảnh vườn lơ lửng
+2019-12-12 12:15:06,464 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hàng xóm xin vài củ cải, ba nông dân mất trắng vụ mùa
+2019-12-12 12:15:06,480 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cặp song sinh nổi tiếng vì quá khác nhau
+2019-12-12 12:15:06,498 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Dòng ly sứ dưỡng sinh với thiết kế cổ tích
+2019-12-12 12:15:06,518 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Điểm hẹn cuối tuần cho gia đình tại ngày hội 'Sống Như Ý'
+2019-12-12 12:15:06,535 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Trẻ học bao nhiêu lớp ngoại khóa là đủ?
+2019-12-12 12:15:06,556 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : MC Thùy Minh: 'Nấu nướng giúp tôi giải tỏa áp lực'
+2019-12-12 12:15:06,577 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Những mẫu xe đạp thể thao cho người trẻ
+2019-12-12 12:15:06,599 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thiết bị điện tiện dụng cho gia đình
+2019-12-12 12:15:06,619 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bỏ 3 triệu bảng mua căn hộ không có Internet
+2019-12-12 12:15:06,638 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đặt đồ ăn trước cửa tặng nhân viên giao hàng
+2019-12-12 12:15:06,657 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bỏ nhà đi lang thang vì chồng thích ăn thịt chó
+2019-12-12 12:15:06,673 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vườn sân thượng 40 m2 tốt như trang trại
+2019-12-12 12:15:06,690 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bố đơn thân chết rét sau khi nhường chăn cho con
+2019-12-12 12:15:06,708 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thông gia Việt Nam - Indonesia hẹn nhau xem chung kết
+2019-12-12 12:15:06,731 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đàn ông nghèo Trung Quốc chật vật mua, thuê vợ
+2019-12-12 12:15:06,757 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mẹ Đức Chinh nuôi lợn rừng chờ chung kết của con
+2019-12-12 12:15:06,774 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tài xế chờ đàn ngỗng qua đường 15 phút
+2019-12-12 12:15:06,797 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ôm con nấp trong cốp xe để theo dõi chồng
+2019-12-12 12:15:06,815 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 4 khối lập phương xóa tan cảm giác 'ống' của ngôi nhà
+2019-12-12 12:15:06,834 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bộ ga giường họa tiết hoa lá cho vợ chồng trẻ
+2019-12-12 12:15:06,852 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bán nhà vì 'ông chồng' quen qua mạng
+2019-12-12 12:15:06,868 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 10 câu nói với sếp có thể hủy hoại sự nghiệp của bạn
+2019-12-12 12:15:06,884 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bố mẹ phải đền 10 xe sang vì con nghịch dại
+2019-12-12 12:16:13,776 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chợ hải sản tính tiền theo thau
+2019-12-12 12:16:13,800 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Con đường nơi ai dừng lại là bị bắt
+2019-12-12 12:16:13,818 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Khách tìm đến 'cà phê đường tàu' sau tin đóng cửa
+2019-12-12 12:16:13,835 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Những món nóng hổi trên đường phố Đà Lạt
+2019-12-12 12:16:13,852 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cảnh đẹp Việt vào top ảnh truyền cảm hứng 2020
+2019-12-12 12:16:13,869 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Những nơi không nên bỏ lỡ khi tới Dubai
+2019-12-12 12:16:13,898 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tiệc buffet chào năm mới tại khách sạn ibis Styles Nha Trang
+2019-12-12 12:16:13,915 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hoạt động khai mạc năm du lịch Malaysia 2020
+2019-12-12 12:16:13,932 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 4 địa chỉ ẩm thực từng đón chính khách nổi tiếng
+2019-12-12 12:16:13,953 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ana Mandara Villas Dalat ra mắt phòng họp cho du lịch hội nghị
+2019-12-12 12:16:13,972 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Khuyến mãi nhiều tour du lịch ngày 12/12
+2019-12-12 12:16:14,001 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Miễn visa có thể tăng 20% lượng khách quốc tế tới Việt Nam
+2019-12-12 12:16:14,020 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Eurowindow Holding khai trương 2 khu nghỉ dưỡng 5 sao tại Khánh Hòa
+2019-12-12 12:16:14,048 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Phòng ngủ hạng sang trong lòng núi đá
+2019-12-12 12:16:14,064 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Máy bay sơ tán khẩn cấp vì khói
+2019-12-12 12:16:14,082 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đi Philippines đặt vé của hãng nào rẻ nhất?
+2019-12-12 12:16:14,106 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 10 quán phở Việt được yêu thích năm 2019
+2019-12-12 12:16:14,121 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thuật tự ướp xác khi còn sống của nhà sư Nhật Bản
+2019-12-12 12:16:14,136 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Máy bay cất cánh muộn vì hành khách xin xuống
+2019-12-12 12:16:14,153 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hàng nghìn cổ động viên sang Philippines cổ vũ SEA Games
+2019-12-12 12:16:14,170 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : CĐV khuấy động không khí trên chuyến bay đến Philippines
+2019-12-12 12:16:14,195 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'Ký ức Hội An' ra mắt khán giả Thủ đô
+2019-12-12 12:16:14,213 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 6 điểm ngắm tuyết trắng đẹp như cổ tích ở châu Á
+2019-12-12 12:16:14,232 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thiếu hụt trong ngành hàng không của Việt Nam
+2019-12-12 12:16:14,256 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 5 khu chợ ẩm thực du khách nên ghé thăm
+2019-12-12 12:16:14,271 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hong Kong được dự đoán đón nhiều khách nhất thế giới
+2019-12-12 12:16:14,288 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 24 giờ không ngủ của CĐV đi Philippines
+2019-12-12 12:16:14,304 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Khách Tây 'đi bão' cùng người Việt
+2019-12-12 12:16:14,322 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 7 hãng hàng không nguy hiểm nhất thế giới 2019
+2019-12-12 12:16:14,343 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ấn tượng về CĐV bóng đá Việt Nam ở SEA Games
+2019-12-12 12:16:14,368 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Gợi ý những điểm du lịch Nhật Bản mùa đông
+2019-12-12 12:16:14,388 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Massage Thái có thể trở thành di sản văn hóa phi vật thể
+2019-12-12 12:16:14,409 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nơi ngắm cực quang từ những căn lều thủy tinh
+2019-12-12 12:16:14,438 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Khách mua tour đắt gấp 4 lần vẫn kém chất lượng
+2019-12-12 12:16:40,904 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : NASA thử phá thủng tên lửa mạnh nhất thế giới
+2019-12-12 12:16:40,921 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chai lọ, rác thải nhựa tại Đài Loan được tái chế như thế nào
+2019-12-12 12:16:40,945 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Những công nghệ nổi bật tại triển lãm thành tựu ứng dụng khoa học
+2019-12-12 12:16:40,963 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Biển Australia chuyển màu đen
+2019-12-12 12:16:40,982 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Những loài nào bị bạn tình ăn thịt như bọ ngựa?
+2019-12-12 12:16:41,007 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tiến sĩ người Việt tìm cách kéo dài tuổi thọ pin Vanadium
+2019-12-12 12:16:41,031 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Phát hiện hoạt tính chống lão hóa da trong gạo
+2019-12-12 12:16:41,064 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chàng trai 9X truyền cảm hứng nghiên cứu trên diễn đàn quốc tế
+2019-12-12 12:16:41,086 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Sư tử non cất tiếng gầm đầu tiên lọt ống kính nhiếp ảnh gia
+2019-12-12 12:16:41,103 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Khối cầu rác nặng một tạ trong bụng cá nhà táng
+2019-12-12 12:16:41,121 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Dự án phóng tàu vũ trụ dọn rác đầu tiên trên thế giới
+2019-12-12 12:16:41,140 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tòa nhà thẳng đứng dưới đáy biển sức chứa 25.000 người
+2019-12-12 12:16:41,160 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thiết kế siêu du thuyền trông giống cá voi sát thủ
+2019-12-12 12:16:41,177 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Lửng mật và chó rừng hợp sức đoạt mạng trăn
+2019-12-12 12:16:41,195 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Loài nấm tạo ảo giác để tự vệ
+2019-12-12 12:16:41,213 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đàn voi hộ tống con non vượt qua sư tử
+2019-12-12 12:16:41,228 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Gà 4 chân được trả giá 3.600 USD
+2019-12-12 12:16:41,247 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vùng nước tử thần trở thành thiên đường của chim hồng hạc
+2019-12-12 12:16:41,267 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nhựa ra đời thế nào?
+2019-12-12 12:16:41,282 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Dứa gây ngộ độc do có mắt mọc ngược?
+2019-12-12 12:16:41,297 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Viễn cảnh nếu Trái Đất có hình lập phương
+2019-12-12 12:16:41,312 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ruộng ngô 'giấu' lớp tuyết dày nhìn từ vũ trụ
+2019-12-12 12:16:41,335 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mây vảy rồng báo trước cơn giông bão
+2019-12-12 12:16:41,360 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Giải cứu 23 đồi mồi dứa trên thuyền đánh cá
+2019-12-12 12:16:41,377 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Dải băng Greenland tan nhanh gấp 7 lần thập niên 1990
+2019-12-12 12:16:41,401 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cá mập trắng chết vì tấn công thợ lặn trong lồng sắt
+2019-12-12 12:16:41,424 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Rắn hổ mang bò lên giường nhà dân tránh rét
+2019-12-12 12:16:41,445 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chấy cổ đại mắc kẹt trong hổ phách 100 triệu năm
+2019-12-12 12:16:41,462 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hạt mã tiền có chất gì độc?
+2019-12-12 12:16:41,477 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Quá trình hình thành 'vằn hổ' trên mặt trăng sao Thổ
+2019-12-12 12:16:41,499 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vinh danh ba nhà khoa học nữ tiêu biểu năm 2019
+2019-12-12 12:17:00,785 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Google bị điều tra vi phạm lao động
+2019-12-12 12:17:00,800 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đĩa mềm có giá bằng 84 chiếc iPhone 11
+2019-12-12 12:17:00,823 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cựu nhân viên trộm công nghệ xe tự hành của Apple
+2019-12-12 12:17:00,849 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mẹo chụp ảnh Giáng sinh như máy ảnh chuyên nghiệp bằng smartphone
+2019-12-12 12:17:00,867 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Các hãng điện tử lớn sắp dừng sản xuất màn hình LCD
+2019-12-12 12:17:00,884 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : iPhone 12 sẽ dùng pin lớn nhất
+2019-12-12 12:17:00,900 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : FPT Shop giảm đến 7 triệu đồng Note10+ xanh aura
+2019-12-12 12:17:00,918 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bí quyết chọn laptop vừa túi tiền theo nhu cầu
+2019-12-12 12:17:00,935 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 6 mẹo 'săn' hàng Black Friday online
+2019-12-12 12:17:00,951 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Galaxy A30s không chạy đua về cấu hình
+2019-12-12 12:17:00,968 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nova 5T - smartphone tầm trung tốt ngang hàng cao cấp
+2019-12-12 12:17:00,984 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nokia 7.2 chụp bokeh ấn tượng
+2019-12-12 12:17:01,000 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Galaxy M30s - smartphone 7 triệu đồng pin khỏe
+2019-12-12 12:17:01,019 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Máy rửa bát
+2019-12-12 12:17:01,055 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Samsung Galaxy Note 10
+2019-12-12 12:17:01,070 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ứng dụng FaceApp
+2019-12-12 12:17:01,087 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cỗ máy hút rác tự động trên sông
+2019-12-12 12:17:01,105 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Sinh viên nên dành bao nhiêu tiền để mua điện thoại mới?
+2019-12-12 12:17:01,123 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bộ đôi smartphone camera 64 'chấm' đọ sức
+2019-12-12 12:17:01,139 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Điện thoại Oppo với camera ẩn dưới màn hình
+2019-12-12 12:17:01,162 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hướng dẫn tắt tính năng theo dõi trên Google Maps
+2019-12-12 12:17:01,185 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người dùng đánh giá Reno2 sau một tháng sử dụng
+2019-12-12 12:17:01,200 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tính năng đột phá sẽ có trên smartphone 2020
+2019-12-12 12:17:01,222 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Loạt smartphone giảm giá trong tháng 11
+2019-12-12 12:17:01,239 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mạng xã hội 'nhuộm đỏ' lời chúc mừng tuyển Việt Nam
+2019-12-12 12:17:01,263 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cổ động viên Indonesia làm loạn trang cá nhân Đoàn Văn Hậu
+2019-12-12 12:17:01,288 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người Việt tràn vào fanpage CLB của Văn Hậu để cảm ơn
+2019-12-12 12:17:01,306 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Apple trở lại CES sau gần 30 năm
+2019-12-12 12:17:01,321 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Smartphone Xiaomi sẽ có camera ẩn dưới màn hình
+2019-12-12 12:17:01,338 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Realme 5s giá 5 triệu đồng
+2019-12-12 12:17:01,355 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Apple cho tải iOS 13.3
+2019-12-12 12:17:01,374 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hacker Việt tấn công website BMW
+2019-12-12 12:17:01,401 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Apple giảm sản lượng iPhone 11 Pro
+2019-12-12 12:17:01,417 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : iPhone phát triển thế nào sau 12 năm
+2019-12-12 12:17:01,439 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vì sao pin trên smartphone không thể tháo rời
+2019-12-12 12:17:01,457 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : TV OLED 4K lớn nhất ở Việt Nam
+2019-12-12 12:17:01,474 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người Trung Quốc lo rò rỉ dữ liệu khuôn mặt
+2019-12-12 12:17:01,492 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mac Pro phiên bản mạnh nhất giá hơn 1,2 tỷ đồng
+2019-12-12 12:17:01,509 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'Thời tiết' dẫn đầu danh sách tìm kiếm Google
+2019-12-12 12:17:01,528 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Yếu tố giúp chuyển đổi số thành công
+2019-12-12 12:17:01,545 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đồng hồ định vị chống nước cho trẻ
+2019-12-12 12:17:01,563 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mẹo tăng thời gian sử dụng cho smartphone
+2019-12-12 12:17:01,580 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Một phần ba chủ doanh nghiệp trên Facebook là nữ
+2019-12-12 12:17:01,604 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Máy chiếu di động gọn nhẹ như smartphone
+2019-12-12 12:17:01,619 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Smartphone Android giá rẻ nhất của Nokia ra mắt
+2019-12-12 12:18:56,314 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Caravan VinFast chinh phục cột cờ Lũng Cú
+2019-12-12 12:18:56,333 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Xe buýt lấn làn, vượt ẩu trên cầu Thăng Long
+2019-12-12 12:18:56,355 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thanh niên cướp ôtô nhưng không biết lái xe
+2019-12-12 12:18:56,370 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Xe tải đè bẹp ôtô, nữ tài xế thoát chết
+2019-12-12 12:18:56,406 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người đàn ông tháo chạy trước một loạt ôtô mất lái
+2019-12-12 12:18:56,421 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Camry có vào được cổng 3,2 m và ngõ 4 m?
+2019-12-12 12:18:56,439 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Kia Sorento GAT 2017 giá 720 triệu có đắt?
+2019-12-12 12:18:56,455 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Honda Việt Nam ưu đãi người mua HR-V
+2019-12-12 12:18:56,471 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Yamaha ưu đãi lớn dịp cuối năm
+2019-12-12 12:18:56,488 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Xe rơ-moóc vào cua vò nát ôtô con
+2019-12-12 12:18:56,505 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Xe Lexus chạy điện sẽ bán từ đầu 2020
+2019-12-12 12:18:56,521 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Porsche 911 - chất kích thích cho nhà giàu Việt
+2019-12-12 12:18:56,539 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Các hãng đổ 'tiền tấn' vào ôtô điện
+2019-12-12 12:18:56,555 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Những mẫu ôtô ít khách Việt nhất tháng 11
+2019-12-12 12:18:56,572 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tỷ phú Elon Musk lái bán tải điện đâm đổ cọc tiêu
+2019-12-12 12:18:56,591 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Kona, HR-V, EcoSport đua giảm giá mùa cuối năm
+2019-12-12 12:18:56,608 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Khám phá Hà Giang sau vô-lăng xe VinFast
+2019-12-12 12:18:56,624 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Suzuki Celerio - xe đô thị nhỏ gọn cho phái nữ
+2019-12-12 12:18:56,640 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mitsubishi khai trương đại lý đầu tiên theo chuẩn Big City
+2019-12-12 12:18:56,654 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Honda mang trải nghiệm khinh khí cầu đến Việt Nam
+2019-12-12 12:18:56,685 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : SUV hạng sang Genesis GV80 giá dự kiến từ gần 50.000 USD
+2019-12-12 12:18:56,702 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người phụ nữ sở hữu bốn siêu xe McLaren
+2019-12-12 12:18:56,717 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đại lý xe Nhật bán ôtô điện của Tesla
+2019-12-12 12:18:56,734 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ôtô lao như bay đâm văng xe cứu hỏa
+2019-12-12 12:18:56,750 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Lốp ôtô kết nối Internet
+2019-12-12 12:18:56,771 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'Mũi tên bạc' Mercedes SLR McLaren - ngôi sao một thời tại Việt Nam
+2019-12-12 12:18:56,800 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Top 10 xe bán chạy tháng 11 - Xpander tiếp tục vượt Vios
+2019-12-12 12:18:56,824 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 40.000 km, ôtô bảo dưỡng những gì?
+2019-12-12 12:18:56,842 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Lexus RX 2020 - SUV hạng sang cho doanh nhân ưa trải nghiệm
+2019-12-12 12:18:56,862 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Xe máy kẹp ba húc dải phân cách trên cao tốc
+2019-12-12 12:18:56,878 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 6 mẫu xe biểu tượng ngừng sản xuất từ 2020
+2019-12-12 12:18:56,897 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đoàn người 'đi bão' nhường đường xe cứu thương
+2019-12-12 12:20:06,082 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Gặp Indonesia, sai lầm phòng ngự của U22 Việt Nam được khắc phục
+2019-12-12 12:20:06,101 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chỉ tiêu thành tích SEA Games khiến Ánh Viên quanh quẩn 'ao làng'
+2019-12-12 12:20:06,121 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Lý do cha mẹ hay nổi nóng khi dạy con
+2019-12-12 12:20:06,141 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : HLV Park Hang-seo mang đến thành công hay đẳng cấp?
+2019-12-12 12:20:06,165 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : U22 Việt Nam 'hơn Indonesia về mọi mặt'
+2019-12-12 12:20:06,183 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : U22 Việt Nam - bóng dáng nhà vô địch SEA Games
+2019-12-12 12:20:06,201 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chỉ thử nghiệm, sao bệnh viện Xanh Pôn cắt đôi hàng nghìn que test HIV?
+2019-12-12 12:20:06,216 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bóng đá nữ Việt và bài học từ đội tuyển Mỹ
+2019-12-12 12:20:06,233 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : U22 Indonesia đã lộ nhiều điểm yếu - cơ hội cho Việt Nam
+2019-12-12 12:20:06,268 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'Tân Hoa hậu Hoàn vũ thay đổi tiêu chuẩn về cái đẹp'
+2019-12-12 12:20:06,285 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : U22 Việt Nam 'kiên nhẫn' sẽ phá lối chơi của Indonesia
+2019-12-12 12:20:06,300 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'U22 Indonesia sẽ thua nếu chỉ ghi một bàn'
+2019-12-12 12:20:06,316 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'U22 Việt Nam sẽ hạ Indonesia trong 90 phút'
+2019-12-12 12:20:06,332 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : U22 Việt Nam hóa giải định mệnh 10 năm trước
+2019-12-12 12:20:06,348 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'U22 Việt Nam hoàn toàn trên tầm Indonesia'
+2019-12-12 12:20:06,364 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tôi đã chờ Việt Nam vô địch SEA Games 'từ tóc xanh tới lúc bạc đầu'
+2019-12-12 12:20:06,392 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : U22 Indonesia không tấn công nổi trong trận chung kết
+2019-12-12 12:20:06,409 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'Văn Hậu đang ở đẳng cấp thế giới'
+2019-12-12 12:20:06,426 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'HLV Park quá cao tay'
+2019-12-12 12:20:06,443 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tôi học từ 7h đến 23h vẫn có một tiếng rưỡi đá bóng, chạy bộ
+2019-12-12 12:20:06,458 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ba bước tiến vượt bậc của bóng đá Việt Nam dưới thời Park Hang-seo
+2019-12-12 12:20:06,473 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'Bận học thi Toán- Lý- Hóa, thời gian đâu tập thể dục'
+2019-12-12 12:20:06,489 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Để bóng đá Việt đua đường dài, vươn tầm châu lục
+2019-12-12 12:20:06,504 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Không có 'ao làng' SEA Games sẽ chẳng có 'biển lớn' Olympic
+2019-12-12 12:20:06,519 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bóng đá Việt Nam đã vượt xa phần còn lại ĐNA
+2019-12-12 12:20:34,101 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chồng cứ đánh mắng tôi xong lại khóc lóc xin lỗi
+2019-12-12 12:20:34,118 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tôi không hiểu tại sao tình yêu và hôn nhân phải có tình dục
+2019-12-12 12:20:34,135 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tôi như nàng dâu nhỏ sống trong gia đình bạn gái
+2019-12-12 12:20:34,162 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chồng tôi hiền nhưng là người vô trách nhiệm
+2019-12-12 12:20:34,177 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tôi muốn quay lại với vợ cũ sau khi ly hôn một năm
+2019-12-12 12:20:34,204 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Là đàn ông nhưng chỉ cần chạy xe hơi nhanh tôi đã rất sợ
+2019-12-12 12:20:34,220 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nhìn thoáng cô gái đi đường, bạn gái nói tôi không chung tình
+2019-12-12 12:20:34,244 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Gặp ai bạn trai tôi cũng yêu cầu làm kinh doanh
+2019-12-12 12:20:34,261 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Gia đình chồng bắt tôi phá thai khi biết anh có con trai riêng
+2019-12-12 12:20:34,276 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Anh không cần lo về nhân cách, học vấn hay gia đình của em
+2019-12-12 12:20:34,298 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 28 tuổi em chưa mảnh tình vắt vai
+2019-12-12 12:20:34,315 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nếu em khao khát gia đình và hiếm muộn, hãy về bên anh
+2019-12-12 12:20:34,332 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cô gái nhạy cảm cần một bờ vai chín chắn
+2019-12-12 12:20:34,349 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Em thích hợp làm vợ hơn là người yêu
+2019-12-12 12:20:34,367 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mẹ đơn thân tìm bạn đời để con khỏi lạc lõng xứ người
+2019-12-12 12:20:34,388 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 8 năm chồng chưa về thăm quê tôi
+2019-12-12 12:20:34,405 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tự ti vì lớn lên trong bạo lực gia đình
+2019-12-12 12:20:34,422 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vợ chồng nghi ngờ nhau khi tôi bị bệnh xã hội
+2019-12-12 12:20:34,440 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tôi kiếm 50 triệu mỗi tháng vẫn chưa hài lòng vợ
+2019-12-12 12:20:34,455 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ba luôn kiếm chuyện với vợ tôi
+2019-12-12 12:20:34,469 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Con tôi muốn học nghề thay vì học cấp ba
+2019-12-12 12:20:34,491 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Không thích cách nói chuyện của người tán tỉnh tôi
+2019-12-12 12:20:34,507 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chồng day dứt về mối tình 16 năm trước
+2019-12-12 12:20:34,534 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vợ chồng tôi nửa năm không gần gũi
+2019-12-12 12:20:34,552 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tôi ủng hộ việc không cần kết hôn khi đến tuổi lập gia đình
+2019-12-12 12:20:34,569 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nơm nớp lo bị vạ mồm khi sống ở nhà chồng
+2019-12-12 12:20:34,586 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Muốn hàn gắn với vợ cũ
+2019-12-12 12:20:34,603 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Em trai bày trò để bố mẹ trả nợ hộ
+2019-12-12 12:20:34,627 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cụ bà nhặt rác và nỗi trăn trở của tôi
+2019-12-12 12:20:34,644 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bạn trai quan tâm không đúng cách
+2019-12-12 12:20:34,659 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : May mắn khi không quay lại với người cũ
+2019-12-12 12:20:34,685 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tôi buồn bực khi tình cũ có con thứ hai
+2019-12-12 12:20:34,701 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tôi cũng cay đắng vì nghi ngờ bạn gái không chung thủy
+2019-12-12 12:20:34,716 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bạn trai không dứt khoát khi tình cũ níu kéo
+2019-12-12 12:20:34,730 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Sở thích khác nhau có thể sống hạnh phúc không
+2019-12-12 12:20:34,748 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tìm chồng thành công trên Hẹn hò VnExpress
+2019-12-12 12:20:34,767 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tôi khóc một tháng cho cuộc tình 5 năm
+2019-12-12 12:20:34,785 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bị bạn bè lừa 2 tỷ đồng
+2019-12-12 12:20:34,799 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tôi phiền lòng khi anh rể cũ đến chơi nhà
+2019-12-12 12:20:34,814 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bạn trai không trả tiền mỗi lần đi ăn với người thân tôi
+2019-12-12 12:21:18,505 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hot nhất Cười năm 2018
+2019-12-12 12:21:18,522 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ảnh chế bóng đá
+2019-12-12 12:21:18,536 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Học trò cười
+2019-12-12 12:21:18,553 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Video hài hước
+2019-12-12 12:21:18,578 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ảnh hài
+2019-12-12 12:21:18,594 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Câu đố hại não
+2019-12-12 12:21:18,612 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Lý do bò không mọc sừng
+2019-12-12 12:21:18,628 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nỗi lo của bò, gà mùa thi cử
+2019-12-12 12:21:18,648 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chồng méo mặt vì bị vợ chê ghẻ lạnh
+2019-12-12 12:21:18,673 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vợ nổi điên khi chồng hành động giống con trai
+2019-12-12 12:21:18,690 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thầy giáo hóa học mượn rượu vào đề
+2019-12-12 12:21:18,704 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nguyên nhân chồng muốn vợ đi chơi cùng trai lạ
+2019-12-12 12:21:18,720 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đàn ông khổ sở vì món quà ‘trời ban’
+2019-12-12 12:21:18,737 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người vợ không biết điều
+2019-12-12 12:21:18,764 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Phó nháy nổi điên trước yêu cầu của cô dâu chú rể
+2019-12-12 12:21:18,780 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Câu đố hại não khiến nhiều người chịu thua, còn bạn?
+2019-12-12 12:21:18,795 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Anh chàng trổ tài vẽ tranh 3D dưới nền nhà
+2019-12-12 12:21:18,811 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vừa lướt sóng vừa bắt cá
+2019-12-12 12:21:18,825 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ảnh chế đội tuyển Nữ mời NHM ăn lẩu Thái
+2019-12-12 12:21:18,841 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Câu hỏi 'hai không hai bốn' khiến nhiều người chào thua
+2019-12-12 12:21:18,856 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Câu cá bằng dưa hấu
+2019-12-12 12:21:18,870 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cừu nổi loạn tấn công chó chăn gia súc
+2019-12-12 12:21:18,885 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chàng rể mới trổ tài chặt gà trước sự 'giám sát' của nhà vợ
+2019-12-12 12:21:18,900 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cách tắm không lạnh trong mùa đông
+2019-12-12 12:21:18,913 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người nào mang nhiều nước hơn?
+2019-12-12 12:21:18,930 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tài xế dừng ôtô giữa đường để mua sắm
+2019-12-12 12:21:18,944 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ngã vào ôtô khi vô cớ đánh chó trên đường
+2019-12-12 12:21:18,961 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cún cưng hú theo điệu còi báo động
+2019-12-12 12:21:18,983 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ảnh chế Trọng Hoàng 'hạ' Indonesia hoàn thành giấc mơ vàng
+2019-12-12 12:21:18,999 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tiểu thương dự đoán Việt Nam thắng Indonesia 3-0
+2019-12-12 12:21:19,020 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chú rể tá hỏa khi thấy mặt mộc cô dâu
+2019-12-12 12:21:19,035 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Việt Nam đè bẹp Indonesia trong trận chung kết 'có Hậu'
+2019-12-12 12:21:19,059 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Văn Toản đoán Việt Nam thắng Indonesia 3-0 ngay phút thứ 5
+2019-12-12 12:21:19,080 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chú mèo bị kẹt ở đâu trong ảnh này
+2019-12-12 12:21:19,095 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cô dâu thấp thỏm bên cầu thang chờ chú rể rước
+2019-12-12 12:21:19,108 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Làm thế nào để đường kẻ ngắn lại mà không xóa?
+2019-12-12 12:21:19,134 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thầy Park hôn thắm thiết Hoàng Đức khi đang trả lời phỏng vấn
+2019-12-12 12:21:19,150 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thanh niên chạy trối chết vì trêu bò
+2019-12-12 12:21:19,168 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mã đề thi học kì toàn tên cầu thủ Việt Nam
+2019-12-12 12:21:19,186 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ném vỡ điện thoại người khác vì mất bình tĩnh
+2019-12-12 12:21:19,204 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cầu thủ sút bóng ra ngoài khi trước mặt là khung thành trống
+2019-12-12 12:21:19,224 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Vợ trẻ tung chiêu, chồng đang nhậu trở về trong 'một nốt nhạc'
+2019-12-12 12:37:16,896 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 12:37:26,397 DEBUG [Timer-0] - crawl.Main.run 652 - Tracking url : https://vnexpress.net
+2019-12-12 12:40:01,291 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Xây hàng rào chặn cửa nhà dân
+2019-12-12 12:40:01,353 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thủ tướng gặp hai đội tuyển bóng đá
+2019-12-12 12:41:07,664 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bỉ đóng Viện Khổng Tử của Trung Quốc
+2019-12-12 12:41:07,716 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Trump có thể bất mãn vì Thunberg thành 'Nhân vật của năm'
+2019-12-12 12:43:08,473 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 'Cuộc đời phi thường' của Lý Tiểu Long qua sách
+2019-12-12 12:44:27,508 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cựu giám đốc công ty thủy lợi lĩnh 17 năm tù
+2019-12-12 12:44:27,530 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Công an nêu lý do tội phạm ma tuý gia tăng ở Nghệ An
+2019-12-12 12:50:00,706 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Phát hiện xác tàu đắm chở 6.000 vò rượu cổ
+2019-12-12 12:50:00,737 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ba nhà khoa học nữ tiêu biểu 2019 được tài trợ 150 triệu đồng
+2019-12-12 12:50:00,751 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tượng bán thân hiếm của vua Ai Cập cổ đại
+2019-12-12 12:51:54,997 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Xe tải 'không lượng sức mình' cố quay đầu chỗ hẹp
+2019-12-12 12:51:55,026 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Ôtô đấu đầu xe tải, gia đình năm người thiệt mạng
+2019-12-12 14:16:54,138 DEBUG [main] - crawl.Main.main 642 - Token was attached !
+2019-12-12 14:17:03,659 DEBUG [Timer-0] - crawl.Main.run 652 - Tracking url : https://vnexpress.net
+2019-12-12 14:19:13,253 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cầu thủ Huỳnh Như là ứng viên Công dân trẻ tiêu biểu
+2019-12-12 14:19:13,299 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nhiều trường thiếu giáo viên tiếng Anh
+2019-12-12 14:20:24,452 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Phát hiện rắn hổ đất hai đầu
+2019-12-12 14:20:24,764 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mỹ tử hình phạm nhân thứ 22 trong năm
+2019-12-12 14:20:24,811 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người di cư chạy trốn 'địa ngục trần gian' ở Libya
+2019-12-12 14:21:29,218 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : MM Mega Market Việt Nam tuyển gần 1.600 nhân viên thời vụ dịp Tết
+2019-12-12 14:21:29,306 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Không gian sống trải nghiệm cho trẻ nhỏ tại Le Grand Jardin
+2019-12-12 14:21:29,573 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Giá USD sụt giảm, vàng SJC tăng
+2019-12-12 14:21:29,631 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Him Lam Green Park mở bán giai đoạn hai
+2019-12-12 14:23:29,203 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Những điều thú vị khi chạy bộ đêm
+2019-12-12 14:23:29,220 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Indonesia bị chỉ trích vì xếp sau Việt Nam ở SEA Games 2019
+2019-12-12 14:23:29,237 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Napoli bổ nhiệm Gattuso
+2019-12-12 14:23:29,279 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tiger Woods - chờ 'Siêu Hổ' gầm vang ở Presidents Cup 2019
+2019-12-12 14:23:29,300 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : HLV Mai Đức Chung và tuyển thủ Hoàng Thị Loan trả lời trực tuyến
+2019-12-12 14:24:42,095 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Cảnh sát dỏm đến tận nhà lừa tiền cụ bà
+2019-12-12 14:24:42,112 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Án tử hình với kẻ chém chết 4 người
+2019-12-12 14:26:01,985 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tiến trình tẩy trắng răng
+2019-12-12 14:26:02,008 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chiếc lò sưởi chân thế kỷ 17
+2019-12-12 14:26:21,386 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Bố mẹ Văn Hậu chưa kịp định thần sau chiến thắng của con
+2019-12-12 14:26:21,412 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Camera giấu kín lật tẩy hành vi xấu của cô bạn thân
+2019-12-12 14:26:35,407 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mùa lá đỏ trong những vườn hồng gần Đà Lạt
+2019-12-12 14:26:35,463 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 4 thành phố Việt trong top đông khách nhất 2019
+2019-12-12 14:26:35,656 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thuận Phong Travel ưu đãi cho khách mua tour trước và sau Tết
+2019-12-12 14:26:35,672 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Sông Hàn Tourist mở bán nhiều tour Tết Nguyên đán
+2019-12-12 14:26:35,713 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Nút bấm giúp bất kỳ ai cũng có thể hạ cánh máy bay
+2019-12-12 14:27:00,141 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Đà điểu con nối đuôi nhau sang đường gây cản trở giao thông
+2019-12-12 14:27:00,157 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Linh cẩu cướp mồi trong lúc sư tử hỗn chiến
+2019-12-12 14:27:00,199 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Thiết kế du thuyền hình cá voi sát thủ
+2019-12-12 14:27:18,696 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Samsung sẽ thống trị thị trường smartphone 5G
+2019-12-12 14:27:32,662 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hố tử thần 'nuốt chửng' ôtô con
+2019-12-12 14:27:32,883 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 250 triệu nên mua Vios cũ hay Fadil mới?
+2019-12-12 14:27:32,898 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : 600 triệu mua được Tucson cũ đời nào?
+2019-12-12 14:27:32,933 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Hồng Kỳ H7 - sedan cao cấp thế hệ mới lần đầu lộ diện
+2019-12-12 14:27:32,950 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chuyện gì xảy ra khi ôtô chạy qua 'con lươn' ở tốc độ cao?
+2019-12-12 14:28:02,569 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Không dám mua nhà Sài Gòn dù thu nhập 40 triệu đồng
+2019-12-12 14:28:02,608 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Tôi phải chờ 40 phút máy bay mới cất cánh tại Tân Sơn Nhất
+2019-12-12 14:28:26,789 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Mẹ muốn chia mảnh đất cho ba anh em tôi
+2019-12-12 14:28:26,993 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Chồng phản bội tôi sau 30 năm chung sống
+2019-12-12 14:28:44,655 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Anh chàng chạy té khói khi người yêu bắt được hoa cưới
+2019-12-12 14:28:44,717 DEBUG [Timer-0] - okhttp.OkHttpDataFunction.createNews 235 - Inserted : Người đẹp bị sóng quật ngã khi đang thả dáng trên biển

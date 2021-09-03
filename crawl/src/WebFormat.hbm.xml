@@ -1,0 +1,24 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name = "entity.WebFormat" table = "CONTENT">
+
+        <meta attribute = "class-description">
+            This class contains the employee detail.
+        </meta>
+
+        <id name = "id" type = "long" column = "id">
+            <generator class="native"/>
+        </id>
+
+        <property name = "format" column = "format" type = "string"/>
+        <property name="formatContentDetail" column="format_content_detail" type = "string" />
+        <property name="websource_id" column="websource_id" type="long"/>
+        <property name="categoryMenu" column="category_menu" type="string" />
+        <property name="categoryFormat" column="category_format" type="string"/>
+        <property name="categoryParent" column="category_parent" type="string" />
+    </class>
+</hibernate-mapping>

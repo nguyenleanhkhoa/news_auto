@@ -1,0 +1,92 @@
+2019-10-22 17:52:37,166 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thời sự
+2019-10-22 17:52:37,173 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Góc nhìn
+2019-10-22 17:52:37,174 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thế giới
+2019-10-22 17:52:37,174 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Kinh doanh
+2019-10-22 17:52:37,175 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Giải trí
+2019-10-22 17:52:37,176 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thể thao
+2019-10-22 17:52:37,176 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Pháp luật
+2019-10-22 17:52:37,177 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Giáo dục
+2019-10-22 17:52:37,177 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Sức khỏe
+2019-10-22 17:52:37,178 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Đời sống
+2019-10-22 17:52:37,178 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Du lịch
+2019-10-22 17:52:37,178 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Khoa học
+2019-10-22 17:52:37,179 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Số hóa
+2019-10-22 17:52:37,179 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Xe
+2019-10-22 17:52:37,180 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Ý kiến
+2019-10-22 17:52:37,181 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Tâm sự
+2019-10-22 17:52:37,182 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Cười
+2019-10-22 17:55:50,156 ERROR [Timer-0] - crawl.CrawData.getTitleAndLink 147 - java.lang.NullPointerException
+2019-10-22 17:57:02,961 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 457 - more
+2019-10-22 17:57:03,213 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thời sự
+2019-10-22 17:57:03,214 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thế giới
+2019-10-22 17:57:03,214 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Kinh doanh
+2019-10-22 17:57:03,214 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Giải trí
+2019-10-22 17:57:03,214 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thể thao
+2019-10-22 17:57:03,215 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Pháp luật
+2019-10-22 17:57:03,215 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Giáo dục
+2019-10-22 17:57:03,215 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Sức khỏe
+2019-10-22 17:57:03,216 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Sống trẻ
+2019-10-22 17:57:03,216 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Du lịch
+2019-10-22 17:57:03,216 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Công nghệ
+2019-10-22 17:57:03,217 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Xe
+2019-10-22 17:57:03,217 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thời sự
+2019-10-22 17:57:03,217 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thế giới
+2019-10-22 17:57:03,217 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Kinh doanh
+2019-10-22 17:57:03,217 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Giải trí
+2019-10-22 17:57:03,218 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thể thao
+2019-10-22 17:57:03,218 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Pháp luật
+2019-10-22 17:57:03,218 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Giáo dục
+2019-10-22 17:57:03,218 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Sức khỏe
+2019-10-22 17:57:03,219 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Sống trẻ
+2019-10-22 17:57:03,219 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Du lịch
+2019-10-22 17:57:03,220 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Công nghệ
+2019-10-22 17:57:03,220 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Xe
+2019-10-22 18:02:34,156 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thời sự
+2019-10-22 18:02:34,156 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thế giới
+2019-10-22 18:02:34,156 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Kinh doanh
+2019-10-22 18:02:34,156 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Giải trí
+2019-10-22 18:02:34,156 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thể thao
+2019-10-22 18:02:34,157 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Pháp luật
+2019-10-22 18:02:34,157 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Giáo dục
+2019-10-22 18:02:34,157 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Sức khỏe
+2019-10-22 18:02:34,157 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Nhịp sống trẻ
+2019-10-22 18:02:34,157 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Du lịch
+2019-10-22 18:02:34,157 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Khoa học
+2019-10-22 18:02:34,157 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Xe
+2019-10-22 18:02:34,157 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thời sự
+2019-10-22 18:02:34,157 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thế giới
+2019-10-22 18:02:34,158 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Kinh doanh
+2019-10-22 18:02:34,158 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Giải trí
+2019-10-22 18:02:34,158 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thể thao
+2019-10-22 18:02:34,158 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Pháp luật
+2019-10-22 18:02:34,158 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Giáo dục
+2019-10-22 18:02:34,158 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Sức khỏe
+2019-10-22 18:02:34,158 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Nhịp sống trẻ
+2019-10-22 18:02:34,158 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Du lịch
+2019-10-22 18:02:34,158 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Khoa học
+2019-10-22 18:02:34,159 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Xe
+2019-10-22 18:10:36,852 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 457 - mnTpx
+2019-10-22 18:10:37,049 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Tin tức trong ngày
+2019-10-22 18:10:37,049 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thế giới
+2019-10-22 18:10:37,050 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Kinh doanh
+2019-10-22 18:10:37,050 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Giải trí
+2019-10-22 18:10:37,050 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Pháp luật
+2019-10-22 18:10:37,051 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thể thao
+2019-10-22 18:10:37,051 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Giáo dục - du học
+2019-10-22 18:10:37,052 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Sức khỏe đời sống
+2019-10-22 18:10:37,052 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Du lịch
+2019-10-22 18:10:37,053 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Công nghệ thông tin
+2019-10-22 18:10:37,054 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Ô tô
+2019-10-22 18:10:37,054 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Cười 24H
+2019-10-22 18:13:32,875 ERROR [Timer-0] - crawl.Main.InsertDataToDatabase 457 - item--dm
+2019-10-22 18:13:33,072 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thời sự
+2019-10-22 18:13:33,072 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thế giới
+2019-10-22 18:13:33,072 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Văn hóa
+2019-10-22 18:13:33,073 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Thể thao
+2019-10-22 18:13:33,073 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Pháp luật
+2019-10-22 18:13:33,073 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Giáo dục
+2019-10-22 18:13:33,073 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Sức khỏe
+2019-10-22 18:13:33,073 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Đời sống
+2019-10-22 18:13:33,074 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Du lịch
+2019-10-22 18:13:33,074 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Công nghệ
+2019-10-22 18:13:33,074 ERROR [Timer-0] - crawl.Main.getLinkHrefByCategoryParentNode 360 - Xe
